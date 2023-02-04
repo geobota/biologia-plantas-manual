@@ -2,14 +2,107 @@
 
 ## Introducción
 
+El **colénquima** y el **esclerénquima** son tejidos de soporte mecánico que aportan flexibilidad y rigidez a la planta. El colénquima está constituido por células vivas con engrosamientos de la pared primaria y la lámina intermedia. Está presente en órganos jóvenes de las plantas en pecíolos y tallos. Se originan a partir de los meristemos apicales e intercalares, también del parénquima. Existen varios tipos de colénquima dependiendo de las características y grado de engrosamiento, son cuatro tipos básicos: colénquima **angular**, **anular**, **laminar** y **lagunar**.
+
+El tejido esclerenquimático está constituido por células con engrosamiento de la pared secundaria y con impregnación de lignina. Dependiendo del grado de maduración, las células progresivamente pierden el citoplasma y mueren. Este tejido es responsable de dar al cuerpo vegetal rigidez y resistencia. El esclerénquima se origina a partir de los meristemos apicales, intercalares, del parénquima y de la protodermis. Está constituido por dos tipos celulares: fibras y esclereidas, las fibras son células alargadas que se pueden distribuir por todo el cuerpo de la planta, formando paquetes o cordones. Se asocian por lo general a la médula, corteza, xilema, floema y el cambium. Las esclereidas son células cortas de forma variable, por lo cual se han clasificado en braquiesclereidas, macroesclereidas, astroesclereidas, osteoesclereidas y tricoesclereidas. Se pueden encontrar en cualquier parte del cuerpo vegetal, aunque son más abundantes en hojas, tallos y frutos.
+
+El **tejido vascular** en plantas está constituido por dos componentes principales, el **xilema** y el **floema**, encargados del transporte de agua y sales minerales disueltas y los fotosintatos respectivamente.
+
+El xilema está formado por células muertas de dos tipos: las traqueidas y las tráqueas. Las **traqueidas** son los elementos xilemáticos con mayor presencia en plantas vasculares sin semilla (pteridofitos) y son los elementos únicos de conducción en las gimnospermas. Las **tráqueas** también llamadas elementos de los vasos se encuentran principalmente en angiospermas, aunque, también están presentes en pteridófitos. Estos elementos vasculares se diferencian por su anatomía y estructura; normalmente las traqueidas son más largas y presentan forma de aguja y no tienen placas perforadas en los extremos terminales en el contacto entre cada célula, por consiguiente, el transporte queda reducido a la eficacia del paso del agua a través de las punteaduras. En contraste, las tráqueas además de las punteaduras presentan una **placa perforada** en la parte terminal de la célula. Tanto las traqueidas como las tráqueas presentan engrosamientos del tipo anular, helicado, doblemente helicado, escaleriformes, reticulado y punteado.
+
+El tejido floemático está constituido por dos tipos celulares: las **células floemáticas o tubos cribosos** y las **células anexas o acompañantes**. Ambas son células vivas, pero el floema se ha diferenciado y ha perdido la mayor parte de los organelos celulares y el núcleo. En la zona terminal de contacto entre los tubos cribosos se desarrolla un **placa cribosa** que media el transporte entre las células.
+
+La forma como se relacionan los elementos del haz vascular, es decir, el xilema, floema y el cambium, si está presente, se conoce con el nombre de haz vascular. Estos haces vasculares pueden ser: **anfivasal** o **perixilemático**, **anficribal** o **perifloemático**, **bicolateral**, **colateral abierto** y **colateral cerrado**.
+
 ## Objetivo
+
+-   Introducir al estudiante en los aspectos morfológicos, anatómicos y estructurales relacionados con los diferentes tipos de colénquimas, fibras esclerenquimáticas, esclereidas y los tejidos conductores en plantas.
+
+-   Caracterizar la estructura típica del tejido colenquimático y esclerenquimático.
+
+-   Caracterizar la estructura típica del tejido xilemático y floemático.
+
+-   Reconocer la diversidad de formas y tamaños celulares encontrados en los tejidos objeto de estudio.
+
+-   Reconocer los diferentes tipos de haces vasculares encontrados en traqueófitas.
 
 ## Materiales
 
 ### Reactivos y utensilios
 
+-   Agujas de disección
+-   Cubreobjetos y portaobjetos
+-   Cuchillas
+-   Lanilla o toalla
+-   Mecheros de alcohol
+-   Pinceles de punta fina
+-   Pinzas de punta fina
+-   Solución de Azul Alcián
+-   Solución de Azul de Toluidina
+-   Solución de Glicerol al 30%
+-   Solución de Safranina
+
 ### Material vegetal
+
+-   Fruto de [*Pyrus communis*](https://tropicos.org/name/27800339) (Pera)
+-   Hoja y pecíolo de [*Monstera deliciosa*](https://tropicos.org/name/2103116) (Balazo)
+-   Hojas de [*Sansevieria trifasciata*](https://tropicos.org/name/18403542) (Lengua de Suegra)
+-   Hojas y tallos de [*Apium graveolens*](https://tropicos.org/name/1700014) (Apio)
+-   Hojas y tallos de [*Begonia spp.*](https://tropicos.org/name/40025930)
+-   Hojas y tallos de [*Coriandrum sativum*](https://tropicos.org/name/1700064) (Cilantro)
+-   Hojas y tallos de [*Lactuca sativa*](https://tropicos.org/name/2710604) (Lechuga)
+-   Hojas y tallos de [*Mentha × piperita*](https://tropicos.org/name/17600157) (Hierbabuena o Menta)
+-   Hojas y tallos de [*Petroselinum crispum*](https://tropicos.org/name/50323572) (Perejil)
+-   Hojas y tallos de [*Sambucus nigra*](https://tropicos.org/name/6000026) (Sauco)
+-   Hojas y tallos de [*Taraxacum officinale*](https://tropicos.org/name/2726999) (Diente de León)
+-   Rama de [*Pinus spp.*](https://tropicos.org/name/40009142)
+-   Rizóforos de Selaginella spp
+-   Rizomas y tallos de [*Polypodium spp.*](https://tropicos.org/name/Search) o cualquier otro helecho ([*Gleicheniaceae*](https://tropicos.org/name/42000397), [*Schizaeaceae*](https://tropicos.org/name/42000410), [*Marsileaceae*](https://tropicos.org/name/42000403))
+-   Semillas frescas e hidratadas de [*Phaseolus vulgaris*](https://tropicos.org/name/13031753) (Frijol)
+-   Tallos de [*Dracaena sanderiana*](https://tropicos.org/name/18404764) (Bambú de la Suerte) o [*Cordyline fruticosa*](https://tropicos.org/name/18401647) (Banderilla)
+-   Tallos maduros e inmaduros de [*Lycopodium clavatum*](https://tropicos.org/name/26600197) (Colchón de Pobre)
+-   Tallos tiernos y maduros de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
+-   Tallos y hojas de [*Cucurbita máxima*](https://tropicos.org/name/50172465) (Auyama o Zapallo)
+-   Tallos y hojas de [*Pennisetum purpureum*](https://tropicos.org/name/25509854) (Pasto de Elefante) o cualquier otra [Poaceae](https://tropicos.org/name/42000357)
 
 ## Procedimiento
 
 Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
+
+# Observación del tejido colenquimático
+
+-   Corte transversalmente peciolos y/o tallos de *Apium graveolens*, *Begonia spp.*, *Coriandrum sativum*, *Cucurbita máxima*, *Lactuca sativa*, *Mentha × piperita*, *Sambucus nigra* y *Taraxacum officinale*. Tiña con Safranina y Azul Alcián o Azul de Toluidina y observe la presencia de los diferentes tipos de colénquima asociados a estos órganos vegetativos. ¿Las células del colénquima presentan citoplasma funcional? ¿Todos los órganos vegetales observados tienen los mismos tipos de colénquimas y ocupando la misma topografía? ¿Qué características de tinción presenta este tejido que lo diferencia de los demás tejidos, al utilizar Safranina y Azul Alcián o toluidina?
+
+# Observación del tejido esclerenquimático
+
+-   Haga cortes transversales de tallos maduros de *Aristolochia ringens*, tiña con Safranina y Azul Alcián o Azul de Toluidina. Observe la presencia de **fibras esclerenquimáticas** formando paquetes o cordones en la corteza entre el parénquima. Repita el mismo procedimiento pero con hojas de *Sansevieria trifasciata* y *Pennisetum purpureum*. Aprecie la presencia de los mismos paquetes de fibras esclerenquimáticas y la formación de vainas alrededor de los haces vasculares. ¿Qué tipos de fibras esclerenquimáticas se pueden encontrar en el cuerpo vegetal?
+
+-   Realice cortes transversales del fruto de *Pyrus communis*, tiña con Safranina y Azul Alcián. Se observa la presencia de **braquiesclereidas**, inmersas dentro del parénquima de reserva formando paquetes. Estas células son cortas, de paredes muy engrosadas, con abundante lignina y varias punteaduras en la pared celular. ¿Cuál es la función de las esclereidas? ¿Qué son las células pétreas? ¿Qué son las punteaduras? ¿Qué es un plasmodesmo?
+
+-   Practique cortes transversales finos de las testas de *Phaseolus vulgaris*, tiña con Safranina y Azul Alcián. Observe e identifique los diferentes tipos de **esclereidas** que forman parte de las cubiertas seminales.
+
+-   Haga cortes transversales de las hojas de *Monstera deliciosa* , tiña con Safranina y Azul Alcián. ¿Qué tipo de esclereidas se pueden detectar en estos preparados? ¿Estas células se encuentran inmersas en qué tipo de tejido?
+
+# Observación de xilema y floema
+
+-   Realice cortes transversales y longitudinales finos del tallo en diferentes etapas de maduración de *Aristolochia ringens* y *Cucurbita máxima*, tiña con Safranina y Azul Alcián (montando en glicerol, también puede utilizar Azul de Toluidina). En ambos casos identifique el **metaxilema** y **protoxilema**, diferenciándolos estructuralmente de los demás tejidos presentes en el cuerpo de la planta. Así mismo, en corte longitudinal, identifique los diferentes tipos de **engrosamientos** presentes en las paredes laterales del protoxilema (anular,  ánulo-helicada, doblemente helicado, helicado,) y metaxilema (escaleriforme, punteado, reticulado). Este tipo de engrosamientos se pueden encontrar tanto en tráqueas como traqueidas, excepto el reticulado, exclusivo de las tráqueas.
+
+-   Realice cortes transversales y longitudinales de los tallos de *Pinus ssp*. Tiña con Safranina y Azul Alcián y observe la presencia de traqueidas, como elementos xilemáticos exclusivos de las gimnospermas. Las traqueidas por lo general presentan engrosamientos tipo punteadura que puede ser simple o areolada, es decir, formando una aréola alrededor de la perforación y esta puede tener **toro**.
+
+¿Qué diferencias ontogenéticas en los tejidos vasculares se pueden apreciar entre los tallos maduros e inmaduros de una misma planta? ¿Cuál es la función de los engrosamientos presentes en el xilema? ¿Cuáles son las diferencias anatómicas, estructurales y fisiológicas entre tráqueas y traqueidas? ¿Qué es el toro, presente en las punteaduras areoladas de gimnospermas? ¿Qué diferencias existen entre engrosamientos presentes en el xilema y los campos de punteaduras primarias y secundarias?
+
+-   En cortes transversales como longitudinales Aristolochia ringens fije su atención en las en el tejido floemático e identifique los **tubos cribosos** o **células cribosas** y las **áreas cribosas** o **placas cribosas** presentes en la región terminal de cada tubo criboso. También detecte la presencia de las células anexas o acompañantes del tubo criboso. En corte transversales de estas mismas plantas, observe la presencia del **cambium vascular** entre el xilema y floema, este tejido es fácil de diferenciar por el arreglo regular y la forma cuadrangular/rectangular que tienen las células. Observe entre los haces vasculares la presencia del **cambium interfascicular**.
+
+¿Qué diferencias fisiológicas, anatómicas y estructurales se presentan entre floema y xilema? ¿En las monocotiledóneas que tejidos generan xilema y floema cuando el procambium se ha diferenciado? ¿Qué es el procambium y cuál es el origen de este tejido?
+
+# Tipos de haces vasculares
+
+-   Haga cortes transversales finos de los tallos de *Dracaena sanderiana* o *Cordyline fruticosa* y tiña con Safranina y Azul Alcián. Observe como el xilema rodea totalmente al floema formando un haz **concéntrico perixilemático** o **anfivasal** y como los haces vasculares se disponen por todo el eje del tallo.
+
+-   Corte transversalmente los rizomas de *Polypodium spp.* o de cualquier otro helecho. Observe como el floema rodea totalmente al xilema configurando un haz vascular **concéntrico perifloemático** o **anficribal**.
+
+-   Haga cortes transversales del tallo de *Pennisetum purpureum* o cualquier otra Poaceae y tiña con Safranina y Azul Alcián. En este corte aprecie como los haces vasculares se disponen de tal forma que el xilema y el floema forman casquetes que se distribuyen por todo el tallo inmersos en el parénquima. Por lo general, el haz vascular presenta una vaina esclerenquimática en toda la periferia, es carente de cambium y el xilema y el floema son opuestos en el haz, configurando un haz de tipo **colateral cerrado**.
+
+-   Corte transversalmente los tallos de *Aristolochia ringens*, tiña con Safranina y Azul Alcián. Observe como el xilema y el floema en tejidos jóvenes forman casquetes que se distribuyen de forma radial en el tallo; por lo general, el xilema y el floema son opuesto y entre estos se localiza el cambium vascular, no presentan vaina esclerenquimática y por madurez y desarrollo los casquetes vasculares se pueden fusionar formando anillos continuos de xilema-cambium-floema. Esta configuración es denominada haz **colateral abierto**.
+
+-   Haga cortes transversales finos del tallo de *Cucurbita máxima* y tiña con Safranina y Azul Alcián. Observe como los haces vasculares forman casquetes que se distribuyen de forma casi radial en el tallo. Estos haces están constituidos, por cambium, xilema y floema, pero el floema forma dos casquetes en la periferia del haz (hacia adentro y afuera del tallo) en tanto que el xilema se localiza en el centro. Este haz se denomina **bicolateral**.
