@@ -2,11 +2,7 @@
 
 ## Introducción
 
-Desde la visualización por primera vez de la célula vegetal por Robert Hooke en el siglo XVII, quien precisamente acuñó el término célula, hasta nuestros días el estudio citológico tanto en animales como en vegetales ha dado grandes pasos que están relacionados directamente con el avance en instrumentos y técnicas que han aportado las herramientas necesarias para esclarecer toda la conformación estructural, ultraestructural, bioquímica y molecular de las células.
-La célula vegetal está constituida de cuatro elementos básicos: 
-La **pared celular**, formada por dos capas en células de crecimiento primario (Lámina primaria e intermedia) y por tres en células de crecimiento secundario (Lámina primaria, intermedia y secundaria), cada una de ellas con una constitución química y estructural definida.
-Como todas las células vivas, encontramos la **membrana celular** inmediatamente yuxtapuesta a la pared celular.
-El **citoplasma** dentro del cual se encuentran inmersos los organelos celulares comunes tanto a vegetales como animales (mitocondrias, peroxisomas, ribosomas) y constituyentes característicos pero no exclusivos de las células vegetales como plastidios que pueden ser fotosintéticos o de almacenamiento de alguna sustancia producto del metabolismo (aceites, almidón, látex, cristales). Finalmente encontramos el **núcleo celular** que contiene principalmente el ADN, algunas formas de ARN y nucleoproteínas.
+Desde la visualización por primera vez de la célula vegetal por Robert Hooke en el siglo XVII, quien precisamente acuñó el término célula, hasta nuestros días el estudio citológico tanto en animales como en vegetales ha dado grandes pasos que están relacionados directamente con el avance en instrumentos y técnicas que han aportado las herramientas necesarias para esclarecer toda la conformación estructural, ultraestructural, bioquímica y molecular de las células. La célula vegetal está constituida de cuatro elementos básicos: La **pared celular**, formada por dos capas en células de crecimiento primario (Lámina primaria e intermedia) y por tres en células de crecimiento secundario (Lámina primaria, intermedia y secundaria), cada una de ellas con una constitución química y estructural definida. Como todas las células vivas, encontramos la **membrana celular** inmediatamente yuxtapuesta a la pared celular. El **citoplasma** dentro del cual se encuentran inmersos los organelos celulares comunes tanto a vegetales como animales (mitocondrias, peroxisomas, ribosomas) y constituyentes característicos pero no exclusivos de las células vegetales como plastidios que pueden ser fotosintéticos o de almacenamiento de alguna sustancia producto del metabolismo (aceites, almidón, látex, cristales). Finalmente encontramos el **núcleo celular** que contiene principalmente el ADN, algunas formas de ARN y nucleoproteínas.
 
 Es importante aclarar que las diferencias entre las células en cuanto a estructura, función y diversidad que conforman el cuerpo vegetal, está regido por dos por la interacción genotipo/ medio ambiente, lo que conlleva a la expresión genética diferencial.
 
@@ -25,17 +21,17 @@ Es importante aclarar que las diferencias entre las células en cuanto a estruct
 ### Reactivos y utensilios
 
 -   Agujas de disección
+-   Cubreobjetos y portaobjetos
 -   Cuchillas
 -   Lanilla o toalla
 -   Mecheros de alcohol
 -   Pinceles de punta fina
 -   Pinzas de punta fina
--   Portaobjetos y cubreobjetos
--   Solución Azul Alcián
+-   Solución de Azul Alcián
 -   Solución de Glicerol al 30%
 -   Solución de Lugol
 -   Solución de Safranina
--   Solución Sudan III o Sudan negro
+-   Solución de Sudan III o Sudan negro
 
 ### Material vegetal
 
@@ -48,11 +44,11 @@ Es importante aclarar que las diferencias entre las células en cuanto a estruct
 -   Pétalos de diferentes colores
 -   Ramas de [*Egeria densa*](https://tropicos.org/name/16100033) (Elodea)
 -   Ramas de [*Impatiens balsamina*](https://tropicos.org/name/3100102)
+-   Ramas de [*Pinus spp.*](https://tropicos.org/name/40009142)
 -   Semillas frescas de [*Phaseolus vulgaris*](https://tropicos.org/name/13031753) (Frijol)
 -   Semillas frescas de [*Zea mays*](https://tropicos.org/name/25510055) (Maíz)
 -   Semillas hidratadas de [*Triticum aestivum*](https://tropicos.org/name/25510034) (Trigo)
 -   Tallos de [*Daucus carota*](https://tropicos.org/name/1701516) (Zanahoria)
--   Tallos joven de [*Pinus spp.*](https://tropicos.org/name/40009142)
 -   Tallos de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
 -   Tubérculo de [*Manihot esculenta*](https://tropicos.org/name/12800237) (Yuca)
 -   Tubérculo de [*Solanum tuberosum*](https://tropicos.org/name/29600334) (Papa)
@@ -91,7 +87,7 @@ Repita el procedimiento anterior, pero utilizando las semillas de *Triticum aest
 
 Establezca comparaciones entre los diferentes amiloplastos y determine si existen diferencias.
 
--   Realice cortes transversales finos del peciolo de *Begonia spp.* agregando solo una gota de agua. Observe a diferentes aumentos. Se aprecia la presencia de cristales tipo drusas de oxalato de calcio en las células. También es posible ver la presencia de cristales en forma de aguja que corresponde a estiloides, paquetes de estiloides llamados rafidios y cristales romboédricos.  
+-   Realice cortes transversales finos del peciolo de *Begonia spp.* agregando solo una gota de agua. Observe a diferentes aumentos. Se aprecia la presencia de cristales tipo drusas de oxalato de calcio en las células. También es posible ver la presencia de cristales en forma de aguja que corresponde a estiloides, paquetes de estiloides llamados rafidios y cristales romboédricos.
 
 Repita el procedimiento anterior cortando los peciolos de *Impatiens balsamina*, en la epidermis de *Allium cepa* ¿Cuál es la función de estos cristales?
 
