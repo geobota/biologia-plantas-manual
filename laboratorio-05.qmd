@@ -1,1 +1,83 @@
 # Diversidad I
+
+## Introducción
+
+Tradicionalmente, se han reconocido tres divisiones de plantas **Embryophyta** (plantas terrestres): la división **Spermatophyta** (plantas con semilla) siendo la más diversa y donde se incluyen las **Angiospermae** (plantas con flor y fruto) que aporta la mayor diversidad vegetal actualmente, y las **Gimnospermae** (plantas con semilla pero sin ovario ni fruto verdadero), las cuales se encuentran más diversificadas en zonas templadas. Las dos divisiones restantes corresponden a **Pteridophyta** (helechos y especies afines con reproducción mediante esporas) y **Briophyta** (musgos y especies afines con esporas hidrofílicas), que cuentan con un gran número de taxones. Pteridophyta y Bryophyta se ha demostrado, son grupos no naturales y por lo tanto su circunscripción taxonómica ha sido redefinida. Dentro de las plantas conocidas como Bryophytas se deben discriminar tres grupos: **Anthocerophyta**, **Marchantiophyta** o **Hepatophyta** y **Bryophyta** ***sensu stricto***. Las tradicionales Pteridophyta fueron separadas e incluyen dos grupos naturales: **Lycophyta** y **Monilophyta**.
+
+<!--# Agregar un árbol filognético -->
+
+## Objetivo
+
+-   Reconocer y caracterizar morfológica y anatómicamente los diferentes linajes de plantas Embriophyta, discriminando las variables en cuanto a alternancia de generaciones y reproducción.
+
+## Materiales
+
+### Reactivos y utensilios
+
+-   Agujas de disección
+-   Cubreobjetos y portaobjetos
+-   Cuchillas
+-   Estereomicroscopio
+-   Lanilla o toalla
+-   Microscopio
+-   Pinceles de punta fina
+-   Pinzas de punta fina
+-   Solución de Azul Alcián
+-   Solución de Glicerol al 30%
+-   Solución de Safranina
+
+### Material vegetal
+
+-   Especímenes de Anthocerophyta
+-   Especímenes de Marchantiophyta
+-   Especímenes de Bryophyta *sensu stricto*
+-   Especímenes de Lycophyta
+-   Especímenes de Monilophyta
+
+## Procedimiento
+
+Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
+
+### Caracterización de Anthocerophyta
+
+-   Describa cada una de las estructuras morfológicas que se observan en los especímenes de Anthoceros. Identifique y describa cada una de las partes tanto del **gametofito** como del **esporofito**. 
+
+-   Realice cortes transversales de gametofio y esporofito de Anthoceros. Tiña con Safranina y Azul Alcián e identifique los diferentes tejidos y su disposición.
+
+-   Realice un montaje húmedo de las esporas contenidas en el esporofito. Observe en 10x y 40x, detallando la forma de la espora y como se agrupa.
+
+### Caracterización de Marchantiophyta
+
+-   Describa las características morfológicas en los especímenes de Marchantia. Identifique y describa las características del gametofito y del esporofito, haciendo énfasis en la forma y disposición de los **anteridios** y los **arquegonios**. Describa las diferencias y similitudes entre una **hepática foliosa** y una **hepática talosa**.
+
+-   Realice cortes transversales de gametofito y esporofito de Marchantia. Tiña con Safranina y Azul Alcián e identifique los diferentes tejidos y su disposición.
+
+-   Realice un montaje húmedo de las esporas contenidas en el esporofito. Observe en 10x y 40x, detallando la forma de la espora y como se agrupa.
+
+### Caracterización de Bryophyta *sensu stricto* 
+
+-   Describa las estructuras morfológicas que se observan en los especímenes de Bryophyta. Identifique y describa cada una de las partes tanto del gametofito como del esporofito. 
+
+-   Realice cortes transversales de gametofito y esporofito de Bryophyta. Tiña con Safranina y Azul Alcián e identifique los diferentes tejidos y su disposición. 
+
+-   Realice un montaje húmedo de las esporas contenidas en la cápsula del esporofito. Observe en 10x y 40x, detallando la forma de la espora y como se agrupa.
+
+### Caracterización de Lycophyta
+
+-   Describa las estructuras morfológicas que se observan en los especímenes de Lycopodium o cualquier otro licofito. Identifique y describa la orientación de los ejes, la disposición y forma de las **microfilas**, posición y forma de los **estróbilos**.
+
+-   Realice cortes transversales de tallo de Lycopodium. Tiña con Safranina y Azul Alcián e identifique los diferentes tejidos y su disposición.
+
+-   Realice un montaje húmedo de las esporas contenidas en el estróbilo de Lycopodium. Observe en 10x y 40x, detallando la forma de la espora y como se agrupa. 
+
+### Caracterización de Monilophyta
+
+-   Describa las estructuras morfológicas que se observan en los especímenes de Equisetum. Identifique y describa la orientación y forma de los ejes, la disposición de las microfilas, la posición y la forma de los estróbilos.
+
+-   Realice cortes transversales de tallo de Equisetum. Tiña con Safranina y Azul Alcián e identifique los diferentes tejidos y su disposición.
+
+-   Realice un montaje húmedo de las esporas contenidas en el estróbilo de Equisetum. Observe en 10x y 40x, detallando la forma de la espora y como se agrupa.
+
+-   Realice la descripción y caracterización de los diferentes de especímenes de helechos. Identifique las estructuras morfológicas que se observan en los especímenes como orientación de los ejes, forma y complejidad de las frondes, vernación, presencia de pelos y escamas, etc. Describa la forma de los soros presentes en cada especie y ubique las estructuras como indusio y esporas, realizando para ello un montaje en agua de las esporas y observando en 10x y 40x.
+
+-   Realice cortes transversales de tallo de cualquier helecho. Tiña con Safranina y Azul Alcián e identifique los diferentes tejidos y su disposición.
