@@ -19,7 +19,6 @@ En una sección radial los **anillos de crecimiento** aparecen como líneas más
 
 -   Diferenciar e interpretar las adaptaciones de un crecimiento secundario del tallo diferente al patrón general (tallos anómalos).
 
-
 ## Materiales
 
 ### Reactivos y utensilios
@@ -49,6 +48,8 @@ En una sección radial los **anillos de crecimiento** aparecen como líneas más
 -   Tallos de [*Pinus spp.*](https://tropicos.org/name/40009142) (Pino)
 
 ## Procedimiento
+
+Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
 
 ### Estructura interna del cuerpo secundario de plantas leñosas
 
