@@ -1,1 +1,77 @@
 # Raíz
+
+Una raíz típica, es un eje vertical y subterráneo que permite a la planta una fijación firme en el suelo, sin embargo, se pueden encontrar otros tipos de raíces que varían de acuerdo a su función y posición en el cuerpo de la planta. Por ejemplo, en plantas **epífitas** y **hemiepífitas** podemos observar raíces adventicias, que son aéreas y subterráneas y cumplen función de anclaje al **hospedero** y/o funciones de absorción. Las raíces como el principal órgano de absorción de agua y minerales, también pueden almacenar grandes cantidades de agua o almidones como sustancias de reserva.
+
+En forma general de acuerdo a su organización las raíces se reconocen como **pivotantes** o **fibrosas**. Las raíces pivotantes, también llamadas **axonomorfas**, presentes en plantas perennes, tienen una raíz principal con muchas ramificaciones pequeñas, mientras que las raíces fibrosas, también llamadas **fasciculadas**, son comunes en plantas anuales, presentan muchas ramificaciones todas de igual tamaño.
+
+Las raíces presentan varias regiones funcionales en el **ápice**. La **cofia** o **caliptra** de la raíz tiene forma de dedal y está conformado por células de vida corta que son reemplazadas constantemente. Inmediatamente encima de este tejido se encuentra el **meristemo apical** o **zona de división celular**, un sitio de activa división celular que posibilita el crecimiento de la raíz y reemplaza las células de la cofia que van desapareciendo. Más arriba del meristemo se observa la **zona de elongación**, un área de rápido crecimiento con células alargadas y finalmente encontramos la **zona de maduración** que es la región final en la cual las células embrionarias se diferencian en tejidos especializados que conforman los tejidos maduros de una raíz. Esta última está definida por la aparición de los **pelos radiculares** o **pelos absorbentes**, los cuales son extensiones finas de la epidermis.
+
+En sección transversal los tejidos radiculares son organizados en dos regiones, una región externa amplia llamada el **córtex** adaptado para el almacenamiento y pasó de agua y minerales al cilindro vascular central, y una región interna, el propio **cilindro vascular** encargado de transportar la savia desde la raíz a otros órganos de la planta o desde otros órganos a la raíz. 
+
+La raíz como órgano especializado se encuentra en los helechos y espermatofitas, mientras que las talofitas pueden tener apéndices similares a raíces que les sirven para anclaje pero no para absorción y se denominan **rizoides**.
+
+## Objetivo
+
+-   Reconocer los tipos de raíces más comunes.
+
+-   Identificar los tejidos que conforman el cuerpo primario y el cuerpo secundario de la raíz.
+
+-   Asociar las partes de una raíz con su respectiva función.
+
+## Materiales
+
+### Reactivos y utensilios
+
+-   Agujas de disección
+-   Cajas de Petri
+-   Cubreobjetos y portaobjetos
+-   Cuchillas
+-   Estereomicroscopio
+-   Lanilla o toalla
+-   Microscopio
+-   Pinceles de punta fina
+-   Pinzas de punta fina
+-   Solución de Azul Alcián
+-   Solución de Glicerol al 30%
+-   Solución de Safranina
+
+### Material vegetal
+
+-   Placas permanentes con cortes longitudinales de raíces
+-   Raíces de [*Daucus carota*](https://tropicos.org/name/1701516) (Zanahoria)
+-   Raíces de diferentes plantas
+-   Raíces de [*Monstera deliciosa*](https://tropicos.org/name/2103116) (Balazo)
+-   Raíces de [*Odontoglossum spp.*](https://tropicos.org/name/40030489), [*Cattleya spp.*](https://tropicos.org/name/40002932) o cualquier otra [*Orchidaceae*](https://tropicos.org/name/42000388) epífita (Orquídea)
+-   Raíces de [*Phaseolus vulgaris*](https://tropicos.org/name/13031753) (Frijol)
+-   Raíces de [*Raphanus sativus*](https://tropicos.org/name/4100238) (Rábano)
+-   Raíces de [*Zea mays*](https://tropicos.org/name/25510055) (Maíz)
+
+## Procedimiento
+
+### Sistemas de raíces y raíces modificadas
+
+-   En cada una de las plantas disponibles, identifique los sistemas de raíces según su origen y morfología. Ubique la raíz primaria y las raíces secundarias en cada tipo. Igualmente distinga las adaptaciones de las raíces suministradas (haustorios, raíces acuáticas, tuberosa, entre otras).
+
+### Estructura externa de la raíz de una raíz pivotante
+
+-   Tome una plántula de rábano, que se cultivó en Caja de Petri durante 72 horas, colóquela en un portaobjetos con agua. Asegúrese de colocar suficiente cantidad de agua, de lo contrario los delicados pelos absorbentes se secarán y marchitarán rápidamente. Observe al estereomicroscopio e identifique las siguientes regiones: cofia, meristemo apical, zona de elongación y diferenciación, zona pilífera, zona suprapilífera y cuello.
+
+### Estructura interna de la raíz de una planta Eudicotiledónea
+
+-   Realice cortes transversales a diferentes alturas en raíces de plántulas de *Phaseolus vulgaris* de cinco días de germinación. Tiña con Safranina y Azul Alcián. Observe e identifique los tejidos primarios: epidermis, parénquima cortical, endodermos (distinga en ésta, las **bandas de Caspary** y las células de paso), periciclo, cambium vascular, floema primario, xilema primario. Adicionalmente, estudie placas permanentes con cortes longitudinales de raíces y localice las zonas citadas.
+
+### Estructura interna de la raíz de una planta Monocotiledónea.
+
+-   Realice cortes transversales en raíz de *Zea mays*, *Monstera deliciosa* y de una Orchidaceae epífita. Tiña con Safranina y Azul Alcián. Observe e identifique cada uno de los tejidos de ésta raíz: epidermis, exodermis (si existe), córtex, velamen (si existe), endodermos, floema, xilema, médula.
+
+### Origen de la raíz lateral
+
+-   Haga cortes transversales de la raíz de *Phaseolus vulgaris* a la altura del origen de las raíces laterales. Tiña con Safranina y Azul Alcián, observe y defina el punto de origen de estas raíces.
+
+### Cuerpo secundario de la raíz de una planta leñosa.
+
+-   Examine las raíces de plantas Eudicotiledóneas con crecimiento secundario e identifique los tejidos del cuerpo secundario de la raíz.
+
+### Observación de raíz de Zanahoria
+
+-   Haga cortes transversales y longitudinales en una zanahoria y observe al estereomicroscopio con el fin de identificar los tejidos que la conforman.

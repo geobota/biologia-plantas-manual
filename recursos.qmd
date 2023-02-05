@@ -1,4 +1,1 @@
 # Recursos {.unnumbered}
-
-::: {#refs}
-:::

@@ -32,10 +32,11 @@ book:
         - laboratorio-10.qmd
         - laboratorio-11.qmd
     - recursos.qmd
-    - references.qmd
+    - referencias.qmd
+
+bibliography: references.bib
 
 lang: es
-bibliography: references.bib
 
 format:
   html:
