@@ -50,20 +50,20 @@ La forma como se relacionan los elementos del haz vascular, es decir, el xilema,
 -   Hojas y tallos de [*Apium graveolens*](https://tropicos.org/name/1700014) (Apio)
 -   Hojas y tallos de [*Begonia spp.*](https://tropicos.org/name/40025930)
 -   Hojas y tallos de [*Coriandrum sativum*](https://tropicos.org/name/1700064) (Cilantro)
+-   Hojas y tallos de [*Cucurbita máxima*](https://tropicos.org/name/50172465) (Auyama o Zapallo)
 -   Hojas y tallos de [*Lactuca sativa*](https://tropicos.org/name/2710604) (Lechuga)
 -   Hojas y tallos de [*Mentha × piperita*](https://tropicos.org/name/17600157) (Hierbabuena o Menta)
+-   Hojas y tallos de [*Pennisetum purpureum*](https://tropicos.org/name/25509854) (Pasto de Elefante) o cualquier otra [Poaceae](https://tropicos.org/name/42000357)
 -   Hojas y tallos de [*Petroselinum crispum*](https://tropicos.org/name/50323572) (Perejil)
 -   Hojas y tallos de [*Sambucus nigra*](https://tropicos.org/name/6000026) (Sauco)
 -   Hojas y tallos de [*Taraxacum officinale*](https://tropicos.org/name/2726999) (Diente de León)
--   Rama de [*Pinus spp.*](https://tropicos.org/name/40009142)
+-   Ramas de [*Pinus spp.*](https://tropicos.org/name/40009142) (Pino)
 -   Rizóforos de Selaginella spp
 -   Rizomas y tallos de [*Polypodium spp.*](https://tropicos.org/name/Search) o cualquier otro helecho ([*Gleicheniaceae*](https://tropicos.org/name/42000397), [*Schizaeaceae*](https://tropicos.org/name/42000410), [*Marsileaceae*](https://tropicos.org/name/42000403))
 -   Semillas frescas e hidratadas de [*Phaseolus vulgaris*](https://tropicos.org/name/13031753) (Frijol)
+-   Tallos de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
 -   Tallos de [*Dracaena sanderiana*](https://tropicos.org/name/18404764) (Bambú de la Suerte) o [*Cordyline fruticosa*](https://tropicos.org/name/18401647) (Banderilla)
--   Tallos maduros e inmaduros de [*Lycopodium clavatum*](https://tropicos.org/name/26600197) (Colchón de Pobre)
--   Tallos tiernos y maduros de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
--   Tallos y hojas de [*Cucurbita máxima*](https://tropicos.org/name/50172465) (Auyama o Zapallo)
--   Tallos y hojas de [*Pennisetum purpureum*](https://tropicos.org/name/25509854) (Pasto de Elefante) o cualquier otra [Poaceae](https://tropicos.org/name/42000357)
+-   Tallos de [*Lycopodium clavatum*](https://tropicos.org/name/26600197) (Colchón de Pobre)
 
 ## Procedimiento
 

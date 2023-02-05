@@ -1,5 +1,7 @@
 # Raíz
 
+## Introducción
+
 Una raíz típica, es un eje vertical y subterráneo que permite a la planta una fijación firme en el suelo, sin embargo, se pueden encontrar otros tipos de raíces que varían de acuerdo a su función y posición en el cuerpo de la planta. Por ejemplo, en plantas **epífitas** y **hemiepífitas** podemos observar raíces adventicias, que son aéreas y subterráneas y cumplen función de anclaje al **hospedero** y/o funciones de absorción. Las raíces como el principal órgano de absorción de agua y minerales, también pueden almacenar grandes cantidades de agua o almidones como sustancias de reserva.
 
 En forma general de acuerdo a su organización las raíces se reconocen como **pivotantes** o **fibrosas**. Las raíces pivotantes, también llamadas **axonomorfas**, presentes en plantas perennes, tienen una raíz principal con muchas ramificaciones pequeñas, mientras que las raíces fibrosas, también llamadas **fasciculadas**, son comunes en plantas anuales, presentan muchas ramificaciones todas de igual tamaño.

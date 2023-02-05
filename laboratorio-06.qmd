@@ -1,5 +1,5 @@
 # Diversidad II
-
+<!--# el procedimiento de esta práctica podría ser diferente, preguntar a los otros -->
 ## Introducción
 
 El grupo de plantas **Spermatophyta** está conformado por las **Gymnospermae** y **Angiospermae** y es el más reciente evolutivamente. Estas plantas poseen algunas sinapomorfías que las definen, pero su principal carácter evolutivo es el desarrollo de la semilla, para lo cual primero debieron realizar algunas novedades evolutivas como son: **evolución del tegumento**, **endosporia**, **heterosporia**, **reducción de la megaspora a una**, **retención de la megaspora**. Las Spermatophyta cuentan con cerca de 300000 especies distribuidas por todo el mundo y agrupadas en un amplio número de linajes.
