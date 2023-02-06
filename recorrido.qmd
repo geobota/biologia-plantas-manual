@@ -40,6 +40,8 @@ El **tallo** es el órgano que sostiene a las hojas, **flores** y **frutos**. Su
 
 La **raíz** es un órgano generalmente subterráneo y carente de hojas que crece en dirección inversa al tallo y cuyas funciones principales son la fijación de la planta al suelo y la absorción de agua y sales minerales. En la **raíz primaria** se distingue externamente la **caliptra**, que se encuentra en el ápice protegiendo al **meristema apical**, una **zona de crecimiento** o alargamiento, que es una región glabra de 1 a 2 mm de longitud; la **zona pilífera**, región de los pelos absorbentes, y la **zona de ramificación**, una región sin pelos en la cual se forman las **raíces laterales** y que se extiende hasta el **cuello**, que la une al tallo.
 
+![Morfología básica de una plantas y generalidades del nombre científico. Tomado de @bonifacino2021.](images/morfologia_basica.png){#fig-morfologia-basica fig-aling="center"}
+
 ### Morfología de flores y frutos
 
 La **flor** es la parte reproductiva de las plantas **Angiospermas**. Una flor típica está compuesta por cuatro tipos de hojas estructural y fisiológicamente modificadas para producir y proteger los gametos. Tales hojas modificadas son los **sépalos**, **pétalos**, **estambre** y **carpelos**. Además, en las Angiospermas la flor da origen, tras la fertilización y por transformación de algunas de sus partes, a un fruto.

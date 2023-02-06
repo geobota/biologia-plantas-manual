@@ -2,22 +2,29 @@ project:
   type: book
 
 book:
-  title: "Manual de Laboratorio de Biología de las Plantas"
+  title: "Biología de las Plantas: Manual de Laboratorio"
   author: 
     - name: Fernando Alveiro Alzate Guarin
       orcid: 0000-0002-4916-8897
       email: alveiro.alzate@udea.edu.co
 #      affiliations: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
-    - name: X
+    - name: Felipe Alfonso Cardona Naranjo
+#      affiliations: Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
+    - name: Álex Espinosa-Correa
+      orcid: 0000-0002-7353-1182
+#      affiliations: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
+    
   date: "2023-02-03"
   date-format: iso
+  
   #cover-image: images/cover.png
   page-navigation: true
   search: true
-  downloads: pdf
+  reader-mode: true
+  repo-url: https://github.com/alexespinosaco/manual-laboratorio-biologia-plantas
+  downloads: [pdf, epub]
   sidebar: 
     logo: images/udea_logo.png
-
 
   chapters:
     - index.qmd
@@ -43,7 +50,9 @@ lang: es
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     link-external-icon: true
     link-external-newwindow: true
   pdf:
