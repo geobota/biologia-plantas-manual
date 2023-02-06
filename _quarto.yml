@@ -21,10 +21,13 @@ book:
   page-navigation: true
   search: true
   reader-mode: true
+  
+  site-url: https://alexespinosaco.github.io/manual-laboratorio-biologia-plantas/
   repo-url: https://github.com/alexespinosaco/manual-laboratorio-biologia-plantas
   downloads: [pdf, epub]
   sidebar: 
     logo: images/udea_logo.png
+  google-analytics: "G-ZMDTRMYQMG"
 
   chapters:
     - index.qmd
