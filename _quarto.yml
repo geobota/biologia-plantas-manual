@@ -4,8 +4,11 @@ project:
 book:
   title: "Manual de Laboratorio de Biología de las Plantas"
   author: 
-    - Autor 1
-    - Autor 2
+    - name: Fernando Alveiro Alzate Guarin
+      orcid: 0000-0002-4916-8897
+      email: alveiro.alzate@udea.edu.co
+#      affiliations: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
+    - name: X
   date: "2023-02-03"
   date-format: iso
   #cover-image: images/cover.png
@@ -13,24 +16,24 @@ book:
   search: true
   downloads: pdf
   sidebar: 
-    logo: images/cover.png
+    logo: images/udea_logo.png
 
 
   chapters:
     - index.qmd
     - part: "Laboratorios"
       chapters:
-        - laboratorio-01.qmd
-        - laboratorio-02.qmd
-        - laboratorio-03.qmd
-        - laboratorio-04.qmd
-        - laboratorio-05.qmd
-        - laboratorio-06.qmd
-        - laboratorio-07.qmd
-        - laboratorio-08.qmd
-        - laboratorio-09.qmd
-        - laboratorio-10.qmd
-        - laboratorio-11.qmd
+        - recorrido.qmd
+        - citologia.qmd
+        - histologia-I.qmd
+        - histologia-II.qmd
+        - diversidad-I.qmd
+        - diversidad-II.qmd
+        - raiz.qmd
+        - tallo.qmd
+        - hoja.qmd
+        - flor.qmd
+        - fruto.qmd
     - recursos.qmd
     - referencias.qmd
 
