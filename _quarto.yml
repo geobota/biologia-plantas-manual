@@ -49,5 +49,7 @@ format:
   pdf:
     documentclass: scrreprt
 
+nocite: |
+  @nabors2006, @pérez-garcía2002, @simpson2019, 
 
 
