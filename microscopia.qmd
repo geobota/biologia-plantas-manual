@@ -1,0 +1,70 @@
+# Microscopía
+
+## Introducción
+
+El **microscopio** es un instrumento óptico que mediante un sistema de lentes, produce una imagen aumentada de los objetos. Siendo una de las herramientas más importantes en el desarrollo de la ciencia, especialmente en la biología. La invención del microscopio data del siglo XVI. Existen muchos tipos de microscopio y diversas formas de clasificaros, pudiéndose clasificar de acuerdo al sistema de iluminación, el número de lentes, el número de oculares, por cómo se transmite la luz, entre otros. Entre los tipos más frecuentes encontramos los microscopios ópticos, electrónicos, fluorescencia, de luz ultravioleta y polarizada. 
+
+El **microscopio óptico** es el más habitual, y el que se usará en el desarrollo de las prácticas (@fig-partes-microscopio), en este la muestra es iluminada mediante luz visible, generada por un foco de luz, que  atraviesa la muestra, el objetivos y el ocular, hasta formar la imagen en el ojo del observador o en un pantalla. 
+
+![Partes del microscopio compuesto binocular](images/partes_microscopio.png){#fig-partes-microscopio fig-aling="center" width=60%}
+
+## Objetivo
+
+-   Adquirir los conceptos básico de la microscopía óptica.
+
+-   Identificar las partes del microscopio compuesto.
+
+-   Aprender el manejo y cuidado del microscopio compuesto.
+
+-   Aprender a preparar los montajes básico del laboratorio.
+
+## Materiales
+
+### Reactivos y utensilios
+
+-   Agujas de disección
+-   Cubreobjetos y portaobjetos
+-   Cuchillas
+-   Lanilla o toalla
+-   Microscopio
+-   Mecheros de alcohol
+-   Pinceles de punta fina
+-   Pinzas de punta fina
+-   Solución de Azul Alcián
+-   Solución de Glicerol al 30%
+-   Solución de Lugol
+-   Solución de Safranina
+
+
+### Material vegetal
+
+-   Hilos de colores
+-   Hojas de [*Ficus elastica*](https://tropicos.org/name/21302161) (Caucho)
+-   Hojas y tallos de [*Tradescantia pallida*](https://tropicos.org/name/8300409) (Guardaparque)
+-   Letras impresas
+-   Papel milimetrado
+-   Ramas con flores de [*Hemerocallis spp.*](https://tropicos.org/name/40023307) (Lirio)
+-   Ramas de [*Egeria densa*](https://tropicos.org/name/16100033) (Elodea)
+-   Tallos de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
+
+## Procedimiento
+
+Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
+
+### Las partes del microscopio compuesto
+
+
+### Preparación de la muestra
+
+
+### Observación de la muestra
+
+
+### Poder de resolución
+
+
+### Campo visual
+
+
+
+### Montaje húmedo y coloración
