@@ -2,11 +2,11 @@
 
 ## Introducción
 
-El **microscopio** es un instrumento óptico que mediante un sistema de lentes, produce una imagen aumentada de los objetos. Siendo una de las herramientas más importantes en el desarrollo de la ciencia, especialmente en la biología. La invención del microscopio data del siglo XVI. Existen muchos tipos de microscopio y diversas formas de clasificaros, pudiéndose clasificar de acuerdo al sistema de iluminación, el número de lentes, el número de oculares, por cómo se transmite la luz, entre otros. Entre los tipos más frecuentes encontramos los microscopios ópticos, electrónicos, fluorescencia, de luz ultravioleta y polarizada. 
+El **microscopio** es un instrumento óptico que mediante un sistema de lentes, produce una imagen aumentada de los objetos. Siendo una de las herramientas más importantes en el desarrollo de la ciencia, especialmente en la biología. La invención del microscopio data del siglo XVI. Existen muchos tipos de microscopio y diversas formas de clasificaros, pudiéndose clasificar de acuerdo al sistema de iluminación, el número de lentes, el número de oculares, por cómo se transmite la luz, entre otros. Entre los tipos más frecuentes encontramos los microscopios ópticos, electrónicos, fluorescencia, de luz ultravioleta y polarizada.
 
-El **microscopio óptico** es el más habitual, y el que se usará en el desarrollo de las prácticas (@fig-partes-microscopio), en este la muestra es iluminada mediante luz visible, generada por un foco de luz, que  atraviesa la muestra, el objetivos y el ocular, hasta formar la imagen en el ojo del observador o en un pantalla. 
+El **microscopio óptico** es el más habitual, y el que se usará en el desarrollo de las prácticas (@fig-partes-microscopio), en este la muestra es iluminada mediante luz visible, generada por un foco de luz, que atraviesa la muestra, el objetivos y el ocular, hasta formar la imagen en el ojo del observador o en un pantalla.
 
-![Partes del microscopio compuesto binocular](images/partes_microscopio.png){#fig-partes-microscopio fig-aling="center" width=60%}
+![Partes del microscopio compuesto binocular](images/partes_microscopio.png){#fig-partes-microscopio fig-aling="center" width="60%"}
 
 ## Objetivo
 
@@ -35,7 +35,6 @@ El **microscopio óptico** es el más habitual, y el que se usará en el desarro
 -   Solución de Lugol
 -   Solución de Safranina
 
-
 ### Material vegetal
 
 -   Hilos de colores
@@ -53,18 +52,16 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Las partes del microscopio compuesto
 
+-   Teniendo en cuenta la @fig-partes-microscopio, observe e identifique cada una de las partes en el microscopio proporcionado.
 
 ### Preparación de la muestra
 
+-   Tome un portaobjetos limpio y seco, agregue una gota de agua en el centro de éste, ponga en ella un hilo de color. Apoye un cubreobjetos en un angulo de 45 grados respecto al portaobjetos y déjelo caer lentamente (se puede ayudar de un lápiz o pinzas), procurando evitar la formación de burbujas que dificultarián la observación al miscroscopio.
 
 ### Observación de la muestra
 
-
 ### Poder de resolución
-
 
 ### Campo visual
 
-
-
-### Montaje húmedo y coloración
+### 
