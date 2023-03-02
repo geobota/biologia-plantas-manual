@@ -58,10 +58,9 @@ format:
       dark: [cosmo, theme-dark.scss]
     link-external-icon: false
     link-external-newwindow: true
-  pdf:
-    documentclass: scrreprt
+
 
 nocite: |
-  @nabors2006, @pérez-garcía2002, @simpson2019, 
+  @bowes2013, @dávilavillamizar2003, @dickison2000, @evert2006, @evert2013, @fontquer2001, @graham2013, @nabors2006, @pérez-garcía2002, @simpson2019, 
 
 
