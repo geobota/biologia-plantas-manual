@@ -10,11 +10,11 @@ book:
 #      affiliations: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
     - name: Felipe Alfonso Cardona Naranjo
 #      affiliations: Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
-    - name: Álex Espinosa-Correa
+    - name: Álex Espinosa Correa
       orcid: 0000-0002-7353-1182
 #      affiliations: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
     
-  date: "2023-03-01"
+  date: last-modified
   date-format: iso
   
   cover-image: images/cover.png
@@ -48,6 +48,7 @@ book:
     - referencias.qmd
 
 bibliography: references.bib
+csl: apa.csl
 
 comments: 
   hypothesis:
@@ -67,6 +68,6 @@ format:
 nocite: |
   @bowes2013, @dávilavillamizar2003, @dickison2000, @evert2006, @evert2013, @fontquer2001, 
   @graham2013, @jones2012, @mauseth2016, @nabors2006, @paniagua2007, @pendarvis2018, 
-  @pérez-garcía2002, @schweingruber2006, @simpson2019, @singh2019 
+  @pérez-garcía2002, @schweingruber2006, @schweingruber2011, @schweingruber2013, @simpson2019, @singh2019 
 
 
