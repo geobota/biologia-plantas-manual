@@ -3,12 +3,14 @@ project:
 
 book:
   title: "Biología de las Plantas: Manual de Laboratorio"
+  output-file: "bdlp_manual"
   author: 
     - name: Fernando Alveiro Alzate Guarin
       orcid: 0000-0002-4916-8897
     - name: Felipe Alfonso Cardona Naranjo
     - name: Álex Espinosa Correa
       orcid: 0000-0002-7353-1182
+
 #      affiliations: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia
     
   date: last-modified
@@ -21,7 +23,7 @@ book:
   
   site-url: https://alexespinosaco.github.io/manual-laboratorio-biologia-plantas/
   repo-url: https://github.com/alexespinosaco/manual-laboratorio-biologia-plantas
-  #downloads: [pdf, epub]
+  #downloads: [pdf]
   #sidebar: 
     #logo: images/cover.png
   google-analytics: "G-ZMDTRMYQMG"
@@ -60,7 +62,11 @@ format:
       dark: [cosmo, theme-dark.scss]
     link-external-icon: false
     link-external-newwindow: true
-
+  pdf: 
+    documentclass: report
+    geometry: 
+      - top=30mm
+      - left=20mm
 
 nocite: |
   @bowes2013, @christenhusz2017, @dávilavillamizar2003, @dickison2000, @evert2006, @evert2013, @fontquer2001, 

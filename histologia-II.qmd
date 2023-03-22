@@ -75,7 +75,7 @@ La forma como se relacionan los elementos del haz vascular, es decir, el xilema,
 
 Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
 
-# Observación del tejido colenquimático
+### Observación del tejido colenquimático
 
 -   Corte transversalmente peciolos o tallos de *Apium graveolens*, *Begonia spp.*, *Bidens pilosa*, *Coriandrum sativum*, *Cucurbita máxima*, *Lactuca sativa*, *Mentha × piperita*, *Sambucus nigra* y *Taraxacum officinale*. Tiña con Safranina y Azul Alcián, observe la presencia de los diferentes tipos de colénquima asociados a estos órganos vegetativos. ¿Las células del colénquima presentan citoplasma funcional? ¿Todos los órganos vegetales observados tienen los mismos tipos de colénquimas y ocupando la misma topografía? ¿Qué características de tinción presenta este tejido que lo diferencia de los demás tejidos, al utilizar Safranina y Azul Alcián?
 
@@ -88,7 +88,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 Corte transversal de tallos de *Apium graveolens* y *Cucurbita máxima* con Safranina y Azul Alcián. co: colénquima, es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.
 :::
 
-# Observación del tejido esclerenquimático
+### Observación del tejido esclerenquimático
 
 -   Haga cortes transversales de tallos maduros de *Aristolochia ringens*, tiña con Safranina y Azul Alcián. Observe la presencia de **fibras esclerenquimáticas** formando paquetes o cordones en la corteza entre el parénquima. Repita el mismo procedimiento pero con tallos de *Bidens pilosa* y *Cyperus papyrus* y hojas de *Sansevieria trifasciata* y *Pennisetum purpureum*. Aprecie la presencia de los mismos paquetes de fibras esclerenquimáticas y la formación de vainas alrededor de los haces vasculares. ¿Qué tipos de fibras esclerenquimáticas se pueden encontrar en el cuerpo vegetal?
 
@@ -100,7 +100,7 @@ Corte transversal de tallos de *Apium graveolens* y *Cucurbita máxima* con Safr
 
 ![Corte transversal de *Aristolochia ringens* con Safranina y Azul Alcián. ep: epidermis, es: esclrénquima, pa: parénquima.](images/tallo_aristolochia_200x.png){#fig-tallo-aristolochia fig-aling="center"}
 
-# Observación de xilema y floema
+### Observación de xilema y floema
 
 -   Realice cortes transversales y longitudinales finos del tallo en diferentes etapas de maduración de *Aristolochia ringens* y *Cucurbita máxima*, tiña con Safranina y Azul Alcián (montando en glicerol, también puede utilizar Azul de Toluidina). En ambos casos identifique el **metaxilema** y **protoxilema**, diferenciándolos estructuralmente de los demás tejidos presentes en el cuerpo de la planta. Así mismo, en corte longitudinal, identifique los diferentes tipos de **engrosamientos** presentes en las paredes laterales del protoxilema (anular, ánulo-helicada, doblemente helicado, helicado,) y metaxilema (escaleriforme, punteado, reticulado). Este tipo de engrosamientos se pueden encontrar tanto en tráqueas como traqueidas, excepto el reticulado, exclusivo de las tráqueas.
 
@@ -119,7 +119,7 @@ Corte transversal de tallos de *Apium graveolens* y *Cucurbita máxima* con Safr
 Haz vascular de *Aristolochia ringens* y *Cyperus papyrus* con Safranina y Azul Alcián. ca: cámbium, es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.
 :::
 
-# Tipos de haces vasculares
+### Tipos de haces vasculares
 
 -   Haga cortes transversales finos de los tallos de *Dracaena sanderiana* o *Cordyline fruticosa* y tiña con Safranina y Azul Alcián. Observe como el xilema rodea totalmente al floema formando un haz **concéntrico perixilemático** o **anfivasal** y como los haces vasculares se disponen por todo el eje del tallo.
 

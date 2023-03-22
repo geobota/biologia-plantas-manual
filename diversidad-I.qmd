@@ -79,7 +79,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ![Ciclo de vida de Anthocerophyta. Tomado de @frangedakis2021](images/anthocerotophyta_ciclo.jpg){#fig-anthocerotophyta-ciclo fig-aling="center"}
 
-![Morfología de Anthocerophyta. Tomado de LadyofHats ([2007](https://commons.wikimedia.org/wiki/File:Hornwort_life_cicle_svg_diagram.svg))](images/anthocerotophyta_morfologia.svg){#fig-anthocerotophyta-morfologia fig-aling="center"}
+![Morfología de Anthocerophyta. Tomado de LadyofHats ([2007](https://commons.wikimedia.org/wiki/File:Hornwort_life_cicle_svg_diagram.svg))](images/anthocerotophyta_morfologia.jpg){#fig-anthocerotophyta-morfologia fig-aling="center"}
 
 ### Marchantiophyta
 
