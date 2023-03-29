@@ -1,9 +1,6 @@
 project:
   type: book
 
-execute:
-  freeze: auto
-
 book:
   title: "Biología de las Plantas: Manual de Laboratorio"
   output-file: "bdlp_manual"
