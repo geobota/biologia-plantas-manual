@@ -24,8 +24,8 @@ book:
   search: true
   reader-mode: true
   
-  site-url: https://alexespinosaco.github.io/manual-laboratorio-biologia-plantas/
-  repo-url: https://github.com/alexespinosaco/manual-laboratorio-biologia-plantas
+  site-url: https://alexespinosaco.github.io/biologia-plantas-manual/
+  repo-url: https://github.com/alexespinosaco/biologia-plantas-manual
   #downloads: [pdf]
   #sidebar: 
     #align: center
