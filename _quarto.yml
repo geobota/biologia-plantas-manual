@@ -1,6 +1,9 @@
 project:
   type: book
 
+execute:
+  freeze: auto
+
 book:
   title: "Biología de las Plantas: Manual de Laboratorio"
   output-file: "bdlp_manual"
@@ -25,6 +28,7 @@ book:
   repo-url: https://github.com/alexespinosaco/manual-laboratorio-biologia-plantas
   #downloads: [pdf]
   #sidebar: 
+    #align: center
     #logo: images/cover.png
   google-analytics: "G-ZMDTRMYQMG"
 
