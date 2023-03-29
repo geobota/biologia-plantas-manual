@@ -40,8 +40,7 @@ book:
         - citologia.qmd
         - histologia-I.qmd
         - histologia-II.qmd
-        - diversidad-I.qmd
-        - diversidad-II.qmd
+        - diversidad.qmd
         - raiz.qmd
         - tallo.qmd
         - hoja.qmd
