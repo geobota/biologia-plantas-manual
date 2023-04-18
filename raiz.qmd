@@ -2,15 +2,17 @@
 
 ## Introducción
 
-Una raíz típica, es un eje vertical y subterráneo que permite a la planta una fijación firme en el suelo, sin embargo, se pueden encontrar otros tipos de raíces que varían de acuerdo a su función y posición en el cuerpo de la planta. Por ejemplo, en plantas **epífitas** y **hemiepífitas** podemos observar raíces adventicias, que son aéreas y subterráneas y cumplen función de anclaje al **hospedero** y/o funciones de absorción. Las raíces como el principal órgano de absorción de agua y minerales, también pueden almacenar grandes cantidades de agua o almidones como sustancias de reserva.
+Una **raíz** es un eje vertical, generalmente subterráneo, que permite a la planta una fijación firme en el suelo además de absorber y transportar agua y minerales. Otras funciones son el almacenar grandes cantidades de agua o almidón, así como producir hormonas o algunos metabolitos secundarios. La raíz es propia de las plantas vasculares y después de la germinación es la primera estructura en formarse, llamada **radícula**, que se desarrollará en la **raíz primaria**. 
 
-En forma general de acuerdo a su organización las raíces se reconocen como **pivotantes** o **fibrosas**. Las raíces pivotantes, también llamadas **axonomorfas**, presentes en plantas perennes, tienen una raíz principal con muchas ramificaciones pequeñas, mientras que las raíces fibrosas, también llamadas **fasciculadas**, son comunes en plantas anuales, presentan muchas ramificaciones todas de igual tamaño.
+El conjunto de raíces que posee una planta se denomina como **sistema radicular**. El **sistema pivotante** o **axonomorfo** se caracteriza porque la raíz primaria o principal (también llamada pivotante o axonomorfa), persistente a lo largo de toda la vida de planta, la cual presenta múltiples ramificaciones denominadas **raíces laterales** o **secundarias**. Este sistema se presenta en plantas perennes. El **sistema fasciculado** o **fibroso**, común en plantas anuales, se caracteriza por la perdida de la raíz primaria siendo sustituida por múltiples raíces de igual tamaño originadas en el tallo, denominadas **raíces adventicias**.
 
-Las raíces presentan varias regiones funcionales en el **ápice**. La **cofia** o **caliptra** de la raíz tiene forma de dedal y está conformado por células de vida corta que son reemplazadas constantemente. Inmediatamente encima de este tejido se encuentra el **meristemo apical** o **zona de división celular**, un sitio de activa división celular que posibilita el crecimiento de la raíz y reemplaza las células de la cofia que van desapareciendo. Más arriba del meristemo se observa la **zona de elongación**, un área de rápido crecimiento con células alargadas y finalmente encontramos la **zona de maduración** que es la región final en la cual las células embrionarias se diferencian en tejidos especializados que conforman los tejidos maduros de una raíz. Esta última está definida por la aparición de los **pelos radiculares** o **pelos absorbentes**, los cuales son extensiones finas de la epidermis.
+Ademas de las raíces primarias, secundarias y adventicias, podemos encontrar raíces especializadas: **raíces haustoriales**, propias de las plantas parásitas; **raíces de reserva**, especializadas en almacenar nutrientes; **raíces de contrafuerte** o **tabulares**, que proporcionan mayor soporte mecánico a plantas que crecen en suelos poco profundos; **neumátoforos**, raíces con gravitropismo negativo, propias de plantas que crecen en suelos anegados; entre otras.
 
-En sección transversal los tejidos radiculares son organizados en dos regiones, una región externa amplia llamada el **córtex** adaptado para el almacenamiento y pasó de agua y minerales al cilindro vascular central, y una región interna, el propio **cilindro vascular** encargado de transportar la savia desde la raíz a otros órganos de la planta o desde otros órganos a la raíz. 
+Las raíces presentan varias zonas o regiones funcionales en el **ápice**. La **cofia** o **caliptra** de la raíz tiene forma de dedal y está conformado por células de vida corta que son reemplazadas constantemente. Inmediatamente encima de este tejido se encuentra el **meristemo apical** o **zona de división celular**, un sitio de activa división celular que posibilita el crecimiento de la raíz y reemplaza las células de la cofia que van desapareciendo. Más arriba del meristemo se observa la **zona de elongación**, un área de rápido crecimiento con células alargadas y finalmente encontramos la **zona de maduración** que es la región final en la cual las células embrionarias se diferencian en tejidos especializados que conforman los tejidos maduros de una raíz. Esta última está definida por la aparición de los **pelos radiculares** o **pelos absorbentes**, los cuales son extensiones finas de la epidermis.
 
-La raíz como órgano especializado se encuentra en los helechos y espermatofitas, mientras que las talofitas pueden tener apéndices similares a raíces que les sirven para anclaje pero no para absorción y se denominan **rizoides**.
+En la sección transversal de una raíz en crecimiento primario se organiza en tres regiones: la **epidermis** o **rizodermis**, la **corteza** o **córtex**, y el **cilindro vascular**, siendo está última la más interna. La epidermis cumple una función de protección y suele estar formada por una sola capa de células, a menudo sin una cutícula o con una cutícula muy delgada, que permite el paso de agua y minerales. En algunas plantas, debajo de la epidermis suele formarse una **hipodermis** o **exodermis**, cuyas células están ligeramente suberinizadas La corteza ocupa la mayor parte de la raíz y está constituida principalmente por parénquima, aunque también pueden encontrarse esclerénquima y colénquima hacia la periferia. En la parte más interna de la corteza se encuentra la **endodermis**, formada por una sola capa de células ligeramente suberinizadas dispuesta a modo de cinturón conocido como **banda de Caspary**. Debajo de la endodermis y rodeando al cilindro vascular se encuentra el **periciclo**, conformado por una o varias capas de células parenquimatosas, de las que se originan el cámbium, el felógeno y las raíces laterales. En el cilindro vascular, el xilema y el floema primarios se disponen de forma radial, formando cordones individuales y alternos. Dependiendo del número de cordones las raíces pueden ser diarcas (2), triarcas (3), tetrarcas (4), pentarca (5), hexarca (6) o poliarca (>6)
+
+Cuando la raíz presenta crecimiento secundario suelen perderse la epidermis (y la hipodermis si está presente), la corteza y la endodermis. Por otra parte, aparecen el xilema y floema secundarios, el cambium vascular y la peridermis, que está compuesta por súber, cámbium suberoso y felodermis.
 
 ## Objetivo
 
@@ -39,7 +41,7 @@ La raíz como órgano especializado se encuentra en los helechos y espermatofita
 
 ### Material vegetal
 
--   Placas permanentes con cortes longitudinales de raíces
+-   Placas permanentes con cortes longitudinales y transversales de raíces
 -   Raíces de [*Daucus carota*](https://tropicos.org/name/1701516) (Zanahoria)
 -   Raíces de diferentes plantas
 -   Raíces de [*Monstera deliciosa*](https://tropicos.org/name/2103116) (Balazo)
@@ -56,26 +58,24 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   En cada una de las plantas disponibles, identifique los sistemas de raíces según su origen y morfología. Ubique la raíz primaria y las raíces secundarias en cada tipo. Igualmente distinga las adaptaciones de las raíces suministradas (haustorios, raíces acuáticas, tuberosa, entre otras).
 
-### Estructura externa de la raíz de una raíz pivotante
+### Estructura externa de una raíz pivotante
 
--   Tome una plántula de rábano, que se cultivó en Caja de Petri durante 72 horas, colóquela en un portaobjetos con agua. Asegúrese de colocar suficiente cantidad de agua, de lo contrario los delicados pelos absorbentes se secarán y marchitarán rápidamente. Observe al estereomicroscopio e identifique las siguientes regiones: cofia, meristemo apical, zona de elongación y diferenciación, zona pilífera, zona suprapilífera y cuello.
+-   Tome una plántula de *Raphanus sativus*, cultivada en Caja de Petri durante 72 horas, colóquela en un portaobjetos con agua. Asegúrese de colocar suficiente cantidad de agua, de lo contrario los delicados pelos absorbentes se secarán y marchitarán rápidamente. Observe al estereomicroscopio e identifique las siguientes regiones: cofia, meristemo apical, zona de elongación y diferenciación, zona pilífera, zona suprapilífera y cuello.
 
-### Estructura interna de la raíz de una planta Eudicotiledónea
+### Estructura interna de la raíz en Eudicotyledoneae
 
--   Realice cortes transversales a diferentes alturas en raíces de plántulas de *Phaseolus vulgaris* de cinco días de germinación. Tiña con Safranina y Azul Alcián. Observe e identifique los tejidos primarios: epidermis, parénquima cortical, endodermos (distinga en ésta, las **bandas de Caspary** y las células de paso), periciclo, cambium vascular, floema primario, xilema primario. Adicionalmente, estudie placas permanentes con cortes longitudinales de raíces y localice las zonas citadas.
+-   Realice cortes transversales a diferentes alturas en raíces de plántulas de *Phaseolus vulgaris* de cinco días de germinación. Tiña con Safranina y Azul Alcián. Observe e identifique: epidermis, parénquima cortical, endodermis (distinga en ésta, las bandas de Caspary y las células de paso), periciclo, cambium vascular, floema primario, xilema primario. Adicionalmente, estudie placas permanentes con cortes longitudinales y transversales de raíces y localice las zonas mencionadas.
 
-### Estructura interna de la raíz de una planta Monocotiledónea.
+-   Realice cortes transversales de la raíz de *Phaseolus vulgaris* a la altura del origen de las raíces laterales. Tiña con Safranina y Azul Alcián, observe y defina el punto de origen de estas raíces.
 
--   Realice cortes transversales en raíz de *Zea mays*, *Monstera deliciosa* y de una Orchidaceae epífita. Tiña con Safranina y Azul Alcián. Observe e identifique cada uno de los tejidos de ésta raíz: epidermis, exodermis (si existe), córtex, velamen (si existe), endodermos, floema, xilema, médula.
+### Estructura interna de la raíz en Monocotyledoneae
 
-### Origen de la raíz lateral
+-   Realice cortes transversales en raíz de *Zea mays*, *Monstera deliciosa* y de una Orchidaceae epífita. Tiña con Safranina y Azul Alcián. Observe e identifique: epidermis, exodermis (si existe), córtex, velamen (si existe), endodermis, floema, xilema, médula.
 
--   Haga cortes transversales de la raíz de *Phaseolus vulgaris* a la altura del origen de las raíces laterales. Tiña con Safranina y Azul Alcián, observe y defina el punto de origen de estas raíces.
+### Cuerpo secundario de la raíz
 
-### Cuerpo secundario de la raíz de una planta leñosa.
+-   Corte transversalmente raíces de plantas Eudicotiledóneas con crecimiento secundario, tiña con Safranina y Azul Alcián e identifique los tejidos del cuerpo secundario de la raíz.
 
--   Examine las raíces de plantas Eudicotiledóneas con crecimiento secundario e identifique los tejidos del cuerpo secundario de la raíz.
+### Observación de raíz de *Daucus carota*
 
-### Observación de raíz de Zanahoria
-
--   Haga cortes transversales y longitudinales en una zanahoria y observe al estereomicroscopio con el fin de identificar los tejidos que la conforman.
+-   Realice cortes transversales y longitudinales en una zanahoria y observe al estereomicroscopio con el fin de identificar los tejidos que la conforman.
