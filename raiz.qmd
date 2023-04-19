@@ -2,7 +2,7 @@
 
 ## Introducción
 
-![Raíces adventicias sobre el templo Ta Prohm, Angkor (Camboya). Tomado de King ([2006](https://commons.wikimedia.org/wiki/File:Siem_Reap_XVI_(CAMBODIA-TA_PHROM)_(1844921039).jpg))](images/raiz_ta_prohm.jpg){#fig-raiz-ta_prohm fig-aling="center"}
+![Raíces adventicias sobre el templo Ta Prohm, Angkor (Camboya). Tomado de King ([2006](https://upload.wikimedia.org/wikipedia/commons/7/7d/Siem_Reap_XVI_%28CAMBODIA-TA_PHROM%29_%281844921039%29.jpg)).](images/raiz_ta_prohm.jpg){#fig-raiz-ta_prohm fig-aling="center"}
 
 Una **raíz** es un eje vertical, generalmente subterráneo, que permite a la planta una fijación firme en el suelo además de absorber y transportar agua y minerales. Otras funciones son el almacenar grandes cantidades de agua o almidón, así como producir hormonas o algunos metabolitos secundarios. La raíz es propia de las plantas vasculares y después de la germinación es la primera estructura en formarse, llamada **radícula**, que se desarrollará en la **raíz primaria**.
 
