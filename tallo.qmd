@@ -18,7 +18,7 @@ Todos los tallos tienen **crecimiento primario**, el cual consiste en un crecimi
 
 El **crecimiento secundario** en las plantas leñosas se inicia con la formación de **cambium vascular** y cambium suberoso o **felógeno**. Este proceso permite un aumento en el diámetro del tallo y su soporte, lo que permite que estas plantas vivan por muchos años. Este tipo de crecimiento se presenta en Gimnospermas, Eudicotiledóneas leñosas y algunas Eudicotiledóneas herbáceas, como el girasol. En muy pocas Monocotiledóneas, como Arecaceae, también se presenta un tipo de crecimiento secundario llamado **crecimiento secundario anómalo**, pero este tiene un origen diferente al de las otras plantas leñosas.
 
-![Desarrollo y crecimiento secundario de un tallo. Tomado de @evert2006.](images/tallo_crecimiento.png){#fig-tallo-crecimiento fig-aling="center"}
+![Desarrollo y crecimiento secundario de un tallo. Tomado de @evert2006.](images/tallo_crecimiento.png){#fig-tallo-crecimiento fig-aling="center" width="358"}
 
 En un corte transversal de un tallo con crecimiento secundario, los tejidos que se observan varían según su grado de desarrollo. En tallos no muy maduros, es posible encontrar restos de epidermis, peridermis (súber, felógeno y felodermis), córtex, floema primario y secundario, cambium vascular, xilema primario y secundario y médula. A medida que el tallo madura, muchos de los tejidos primarios desaparecen.
 
