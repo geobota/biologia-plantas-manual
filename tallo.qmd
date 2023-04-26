@@ -4,9 +4,13 @@
 
 ## Introducción
 
-El crecimiento secundario del tallo determina un aumento de su diámetro y soporte en las plantas que lo presentan, permitiendo que vivan por muchos años. Se inicia con la formación de cambium vascular y cambium del suberoso o felógeno. Ocurre en Gymnospermae, Eudicotyledoneae leñosas, algunas Eudicotyledoneae herbáceas (ej. girasol) y en muy pocas Monocotyledoneae (Arecaceae), aunque en estas últimas el cuerpo secundario tiene un origen diferente al de las otras plantas leñosas.
+En Tracheophyta, el **vástago** tiene su origen en el embrión y está constituido por el tallo, las hojas y las yemas (vegetativas y reproductivas). Todas las células y tejidos primarios del vástago se desarrollan del **meristema apical**. Estructuralmente, el **tallo** es más complejo que la raíz y está formado por unidades modulares denominadas **fitómeros**, nombre  dado al conjunto de nudo, entrenudo y yema axilar. 
 
-En una sección radial los **anillos de crecimiento** aparecen como líneas más o menos paralelas y los radios como líneas que corren a través de ellos. En la sección tangencial los radios aparecen agrupados en forma de lentes y en la sección transversal los elementos de xilema y del floema se cortan transversalmente y se observan como poros de diferentes diámetros según el elemento a que corresponden.
+Generalmente el tallo es un eje aéreo con gravitropismo negativo, cuyas principales funciones son el soporte; la conducción de agua, minerales y fotosintatos; y en menor medida el almacenamiento de sustancias y la fotosíntesis. Bajo determinadas condiciones, presentan modificaciones y funciones partículas. 
+
+El crecimiento secundario del tallo determina un aumento de su diámetro y soporte en las plantas que lo presentan, permitiendo que vivan por muchos años. Se inicia con la formación de cambium vascular y cambium del suberoso o felógeno. Ocurre en Gymnospermae, Eudicotyledoneae leñosas, algunas Eudicotyledoneae herbáceas (ej. girasol) y en muy pocas Monocotyledoneae (ej. Arecaceae), aunque en estas últimas el cuerpo secundario tiene un origen diferente al de las otras plantas leñosas.
+
+En una sección radial de tallos con crecimiento secundario, los **anillos de crecimiento** aparecen como líneas más o menos paralelas y los radios como líneas que corren a través de ellos. En la sección tangencial los radios aparecen agrupados en forma de lentes y en la sección transversal los elementos de xilema y del floema se cortan transversalmente y se observan como poros de diferentes diámetros según el elemento a que corresponden.
 
 ## Objetivo
 
