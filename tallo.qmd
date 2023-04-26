@@ -1,26 +1,30 @@
 # Tallo
 
-<!--# el procedimiento de esta práctica podría ser diferente, preguntar a los otros -->
-
 ## Introducción
 
-En Tracheophyta, el **vástago** tiene su origen en el embrión y está constituido por el tallo, las hojas y las yemas (vegetativas y reproductivas). Todas las células y tejidos primarios del vástago se desarrollan del **meristema apical**. Estructuralmente, el **tallo** es más complejo que la raíz y está formado por unidades modulares denominadas **fitómeros**, nombre  dado al conjunto de nudo, entrenudo y yema axilar. 
+En Tracheophyta, el **vástago** tiene su origen en el embrión y está constituido por el tallo, las hojas y las yemas (vegetativas y reproductivas). Todas las células y tejidos primarios del vástago se desarrollan del **meristema apical**. Estructuralmente, el **tallo** es más complejo que la raíz y está formado por unidades modulares denominadas **fitómeros**, nombre dado al conjunto de nudo, entrenudo y yema axilar o lateral.
 
-Generalmente el tallo es un eje aéreo con gravitropismo negativo, cuyas principales funciones son el soporte; la conducción de agua, minerales y fotosintatos; y en menor medida el almacenamiento de sustancias y la fotosíntesis. Bajo determinadas condiciones, presentan modificaciones y funciones partículas. 
+Generalmente, el tallo es un **eje aéreo** con gravitropismo negativo, cuyas principales funciones son el soporte; la conducción de agua, minerales y fotosintatos; y en menor medida el almacenamiento de sustancias y la fotosíntesis. A lo largo de la historia evolutiva, han surgido diferentes modificaciones del tallo que representan adaptaciones especificas. Algunos **tallos modificados** están especializados en la reproducción vegetativa, como el **estolón** que es superficial y crece horizontalmente, o en la dispersión, como el **rizoma** que es subterráneo y crece horizontalmente. Algunos tallos modificados son almacenadores, como el **tubérculo** (tallo subterraneo y engrosado que tiene yemas axilares), el **bulbo** (tallo corto rodeado de una gran cantidad de hojas gruesas y carnosas) y el **cormo** (tallo globoso rodeado de escasas hojas en forma de escamas. Otro tallos modificados son el **cladodio** o **cladófilo** (tallo fotosintetico parecido a hojas) y algunos **zarcillos** (rama larga, delgada y enrollada, adaptada para trepa).
 
-El crecimiento secundario del tallo determina un aumento de su diámetro y soporte en las plantas que lo presentan, permitiendo que vivan por muchos años. Se inicia con la formación de cambium vascular y cambium del suberoso o felógeno. Ocurre en Gymnospermae, Eudicotyledoneae leñosas, algunas Eudicotyledoneae herbáceas (ej. girasol) y en muy pocas Monocotyledoneae (ej. Arecaceae), aunque en estas últimas el cuerpo secundario tiene un origen diferente al de las otras plantas leñosas.
+Todos los tallos tienen **crecimiento primario**, el cual consiste en un crecimiento en longitud y grosos que depende de los meristemas apicales e intercalares. En corte transversal podemos encontrar las regiones de la epidermis, el córtex o corteza, y el cilindro central. La **epidermis** suele estar constituida por una sola capa celular. El **córtex** está conformado principalmente por parénquima, también encontrandose esclerénquima y colénquima. En el **cilindro central** encontramos los tejidos conductores (xilema y floema), cuya disposición espacial se denomina estela. La **estela** puede ser de dos tipos: protoestela y sifonostela. En la **protoestela** los haces vasculares forman un cilindro continuo, mientras que la **sifonostela** se caracteriza por la presencia de una médula y los haces vasculares pueden formas un cilindro continuo o paquetes discretos @fig-vascular-organizacion.
 
-En una sección radial de tallos con crecimiento secundario, los **anillos de crecimiento** aparecen como líneas más o menos paralelas y los radios como líneas que corren a través de ellos. En la sección tangencial los radios aparecen agrupados en forma de lentes y en la sección transversal los elementos de xilema y del floema se cortan transversalmente y se observan como poros de diferentes diámetros según el elemento a que corresponden.
+El **crecimiento secundario** en las plantas leñosas se inicia con la formación de **cambium vascular** y cambium suberoso o **felógeno**. Este proceso permite un aumento en el diámetro del tallo y su soporte, lo que permite que estas plantas vivan por muchos años. Este tipo de crecimiento se presenta en Gimnospermas, Eudicotiledóneas leñosas y algunas Eudicotiledóneas herbáceas, como el girasol. En muy pocas Monocotiledóneas, como Arecaceae, también se presenta un tipo de crecimiento secundario llamado **crecimiento secundario anómalo**, pero este tiene un origen diferente al de las otras plantas leñosas.
+
+En un corte transversal de un tallo con crecimiento secundario, los tejidos que se observan varían según su grado de desarrollo. En tallos no muy maduros, es posible encontrar restos de epidermis, peridermis (súber, felógeno y felodermis), córtex, floema primario y secundario, cambium vascular, xilema primario y secundario y médula. A medida que el tallo madura, muchos de los tejidos primarios desaparecen.
+
+El xilema secundario conforma la mayor parte de la **madera** y los *anillos de crecimiento*. La madera se puede clasificar en dos tipos: la albura y el duramen. La **albura** es la madera más reciente y conductora de la savia, mientras que el **duramen** es la madera más antigua y no conductora. La proporción de albura y duramen en el tronco de un árbol varía según la especie, la edad y el entorno en el que se desarrolla.
+
+En una sección radial de tallos con crecimiento secundario, los **anillos de crecimiento** aparecen como líneas más o menos paralelas y los **radios del xilema** como líneas que corren perpendicularmente a ellas. En la sección tangencial, los radios del xilema aparecen agrupados en forma de lentes. En la sección transversal, los elementos del xilema y del floema se observan como poros de diferentes diámetros según el elemento al que corresponden.
 
 ## Objetivo
 
--   Explicar el desarrollo ontogenético del cuerpo secundario del tallo.
+-   Explicar el desarrollo ontogenético del crecimiento primario y secundario del tallo.
 
--   Diferenciar el cuerpo primario del cuerpo secundario de las plantas leñosas.
+-   Diferenciar el tejido primario del tejido secundario en los tallos de diferentes plantas.
 
--   Interpretar las adaptaciones del tallo leñoso para la vida terrestre de la planta.
+-   Interpretar las adaptaciones del tallo leñoso para la vida en tierra firme de la planta.
 
--   Diferenciar e interpretar las adaptaciones de un crecimiento secundario del tallo diferente al patrón general (tallos anómalos).
+-   Diferenciar e interpretar las adaptaciones de un crecimiento secundario anómalo del tallo, que difiere del patrón general de crecimiento secundario en los tallos leñosos.
 
 ## Materiales
 
@@ -60,7 +64,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Tallos modificados
 
--   Tome cada uno de los diferentes especímenes con tallos modificados, observe e identifique si es un rizoma, estolón, tubérculo, bulbo, cladófilo o cormo. ¿Cuáles características permiten diferenciarlos? 
+-   Tome cada uno de los diferentes especímenes con tallos modificados, observe e identifique si es un rizoma, estolón, tubérculo, bulbo, cladófilo o cormo. ¿Cuáles características permiten diferenciarlos?
 
 ### Anatomía del tallo en crecimiento primario
 
@@ -78,4 +82,4 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Tallos anómalos
 
--   Realice cortes transversales  de tallos de *Aristolochia ringens* y otras plantas trepadoras o bejucos, tiña con Safranina y Azul Alcián. Observe e identifique las diferencias que presentan respecto a los tallos ya observados. Ddetermine las diferentes localizaciones del floema secundario, xilema secundario y médula. ¿A qué se debe el crecimiento anómalo de estos tallos? ¿Qué adaptaciones podrían ser interpretadas para este tipo de crecimiento? Describa la forma adoptada por el xilema secundario en cada tipo de corte suministrado.
+-   Realice cortes transversales de tallos de *Aristolochia ringens* y otras plantas trepadoras o bejucos, tiña con Safranina y Azul Alcián. Observe e identifique las diferencias que presentan respecto a los tallos ya observados. Ddetermine las diferentes localizaciones del floema secundario, xilema secundario y médula. ¿A qué se debe el crecimiento anómalo de estos tallos? ¿Qué adaptaciones podrían ser interpretadas para este tipo de crecimiento? Describa la forma adoptada por el xilema secundario en cada tipo de corte suministrado.
