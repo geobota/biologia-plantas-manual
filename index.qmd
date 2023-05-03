@@ -1,7 +1,0 @@
-# Introducción {.unnumbered}
-
-::: callout-warning
-## Advertencia
-
-Este manual de laboratorio es una versión en pruebas.
-:::
