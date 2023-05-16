@@ -31,6 +31,7 @@ La flor contiene las estructuras encargadas de la reproducción sexual en las An
 
 ### Material vegetal
 
+-   Ramas con flores de diferentes especies.
 -   Ramas con flores de [*Calliandra spp.*](https://tropicos.org/name/13004713) (Carbonero)
 -   Ramas con flores de [*Crotalaria spp.*](https://tropicos.org/name/40016956) (Cascabelito)
 -   Ramas con flores de [*Eucalyptus spp.*](https://tropicos.org/name/40006486) (Eucalipto)
@@ -49,36 +50,30 @@ La flor contiene las estructuras encargadas de la reproducción sexual en las An
 
 Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
 
-### Morfología comparativa de flores de Eudicotiledóneas y Monocotiledónea
+### Morfología de la flor
 
--   Seleccione una flor de Eudicotiledóneas y Monocotiledóneas, en cada una observe e identifique el pedúnculo y el receptáculo, igualmente identifique cada uno de los verticilos y sus componentes: cáliz (sépalos), corola (pétalos), androceo (estambres), gineceo (carpelos). Con ello, responda las preguntas. ¿Cuántos componentes tiene cada uno de los verticilos? ¿Cuántos carpelos posee el ovario? ¿El ovario es simple o compuesto? ¿La flor unisexual o bisexual? ¿La flor es completa o incompleta? ¿La flor es perfecta o imperfecta? ¿Esta flor pertenece a una especie dioica o monoica? ¿Qué nombre recibe el conjunto de sépalos y pétalos? ¿Qué diferencias y similitudes morfológicas observa entre ambas flores?
+-   Seleccione una flor de Eudicotyledoneae y Monocotyledoneae, en cada una observe e identifique el pedúnculo y el receptáculo, igualmente identifique cada uno de los verticilos y sus componentes: cáliz (sépalos), corola (pétalos), androceo (estambres), gineceo (carpelos). Con ello, responda las preguntas. ¿Cuántos componentes tiene cada uno de los verticilos? ¿Cuántos carpelos posee el ovario? ¿El ovario es simple o compuesto? ¿La flor unisexual o bisexual? ¿La flor es completa o incompleta? ¿La flor es perfecta o imperfecta? ¿Esta flor pertenece a una especie dioica o monoica? ¿Qué nombre recibe el conjunto de sépalos y pétalos? ¿Qué diferencias y similitudes morfológicas observa entre ambas flores?
+
+### Polen
+
+-   Seleccione la antera de una flor de Eudicotyledoneae y Monocotyledoneae, separadamente realice un montaje húmedo. Observe en 10x y 40x, posteriormente tiña con Fucsina básica e identifique la unidad polínica, aberturas, estructura, polaridad, simetría, forma y tamaño. ¿Qué diferencias observa en los montaje antes y después de colorear? ¿Qué diferencia hay entre el polen de Eudicotiledóneas y Monocotiledónea?
+
+-   Prepare un montaje húmedo de polen de *Impatiens balsamina* o *Tradescantia pallida* en una gota de solución de sacarosa al 10%. Observe en 10X y 40X. Apague la lámpara y observe nuevamente cada cinco minutos. ¿Cuál es la explicación fisiológica de la formación del tubo polínico? ¿Qué parte del polen forma el tubo polínico? ¿Cuál es la función del tubo polínico?
 
 ### Diversidad en la flor
 
--   Observe la mayor cantidad de flores de varias plantas de diferente especie y realice observaciones comparativas teniendo en cuenta:
+-   Observe la mayor cantidad de flores de plantas de diferente especie y realice observaciones comparativas teniendo en cuenta:
     -   Nombre científico
     -   Nombre vulgar
-    -   Verticilos presentes: perianto (cáliz, corola), perigonio, androceo, gineceo.
-    -   Número de componentes de cada verticilo: sépalos, pétalos, tépalos, estambres, carpelos.
+    -   Verticilos presentes: perianto (cáliz, corola), androceo, gineceo.
+    -   Número de componentes de cada verticilo: sépalos, pétalos, estambres, carpelos.
     -   Flor completa o incompleta
     -   Flor perfecta o imperfecta
     -   Simetría: actinomorfa, irregular, zigomorfa.
     -   Número de carpelos
     -   Posición del ovario: ínfero, semi-ínfero, súpero,
     -   Sexo de la flor: unisexual, bisexual.
-    -   Sexo en la especie: dioica, monoica.
+    -   Sexo de la especie: dioica, monoica.
     -   Flores solitarias o en inflorescencia
     -   Tipo de inflorescencia: espiga, capítulo, umbela, etc.
 
-### El polen
-
--   Seleccione la antera de una flor de Eudicotiledóneas y Monocotiledónea, separadamente realice un montaje húmedo. Observe en 10x y 40x, posteriormente tiña con Fucsina básica e identifique la unidad polínica, aberturas, estructura, polaridad, simetría, forma y tamaño. ¿Qué diferencias observa en los montaje antes y después de colorear? ¿Qué diferencia hay entre el polen de Eudicotiledóneas y Monocotiledónea?
-
--   Prepare un montaje húmedo de polen de *Impatiens balsamina* o *Tradescantia pallida* en una gota de solución de sacarosa al 10%. Observe en 10X y 40X. Apague la lámpara y observe nuevamente cada cinco minutos. ¿Cuál es la explicación fisiológica de la formación del tubo polínico? ¿Qué parte del polen forma el tubo polínico? ¿Cuál es la función del tubo polínico?
-
-<!-- 
-Hay una parte que no inclí, quizá se pueda mejorar.
-
-Estructura del Ovulo y Desarrollo del Saco Embrionario 
-Observe la figura y consulte por su cuenta el proceso de polinización, fecundación y desarrollo del saco embrionario.
--->
