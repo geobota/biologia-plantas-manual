@@ -8,9 +8,9 @@ Después de la fecundación y con el desarrollo del ovulo en semilla, el ovario 
 
 Los frutos se pueden clasificar según su origen. Los **frutos simples** se origina de un solo pistilo de una flor. Los **frutos agregados** se originan de múltiples pistilos de una única flor. Los **frutos múltiples** se forman por la fusión de varias flores, es decir, derivan de una inflorescencia.
 
-Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, tipo de dehiscencia, número de carpelos y lóculos, número de semillas u óvulos, tipo de placentación, estructura del pericarpio, y posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** como: bayas, drupas, pomos etc. Una clase de frutos simples, secos y que no presentan deshicencía son los **frutos secos indehiscentes** como: aquenios, cariópsides, utrículos, sámaras, nueces etc. Una clase de frutos simples, secos y que presentan deshicencía son los **frutos secos dehiscentes** como: folículos, legumbres, cápsulas septicidas, loculicidas, septifragas, pixidios y esquizocarpos. 
+Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los *+frutos secos indehiscentes+* son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícula. 
 
-Dentro de los frutos agregados tenemos: las **pluridrupas**, **pluriaquenios** y los **plurifolículos** entre otros. Los frutos múltiples incluyen: las **sorosis** y los **siconos** entre otros.
+En frutos agregados o múltiples, se denomina **unidad del fruto** a cada componente derivado de un pistilo individual. Los frutos agregados se indican como "fruto agregado de…" cada unidad del fruto. Así, un **poliaquenio** es un fruto agregado de aquenios. Otros ejemplos de frutos agregados encontramos la **polidrupa**, el **plurifolículo**. Los frutos múltiples se indican como "fruto múltiple de…" cada unida del fruto. Algunos frutos múltiples con nombres propios son el **bur**, el **sicono** y la **sorosis**.
 
 ## Objetivo
 
@@ -68,6 +68,9 @@ Dentro de los frutos agregados tenemos: las **pluridrupas**, **pluriaquenios** y
 -   Frutos de [*Solanum lycopersicum*](https://tropicos.org/name/29605838) (Tomate)
 -   Frutos de [*Zea mays*](https://tropicos.org/name/25510055) (Maíz)
 -   Frutos de otras plantas
+-   Semillas hidratadas de [*Phaseolus vulgaris*](https://tropicos.org/name/13031753) (Frijol)
+-   Semillas hidratadas de [*Zea mays*](https://tropicos.org/name/25510055) (Maíz)
+-   Semillas hidratadas de otras plantas
 
 ## Procedimiento
 
@@ -75,9 +78,11 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Reconocimiento de frutos simples
 
-Tome cada uno de los frutos simples y analícelos haciendo énfasis en su morfología y estructura. Determine si se trata de un fruto carnoso: una baya, pomo, drupa, etc.; un fruto seco indehiscente: cariópside, aquenio, nuez, utrículo, sámara etc.; o si se trata de un fruto simple dehiscente (cápsulas): folículo, legumbre, cápsula loculicida, septicida, septifraga, pixidio, poricida, silicuas, silículas etc. Así mismo, tenga en cuenta que cada una de estas categorías presenta subcategorías que debe determinar, por ejemplo: el tomate es una baya simple, la naranja es una baya hesperidio, el melón es una baya pepo; el fruto de la arveja o el frijol es una legumbre que es un tipo de fruto seco dehiscente; el maíz es un fruto seco indehiscente y así con cada uno de los ejemplares. 
+-   Tome cada uno de los frutos simples y analícelos haciendo énfasis en su morfología y estructura. Determine el tipo de fruto
 
-Haga cortes transversales y longitudinales de cada fruto y revíselos con la ayuda del estereoscopio para determinar de cuántos carpelos se originó cada uno de esos frutos. ¿Cómo están distribuidas las semillas? ¿Qué es la placenta? ¿Qué consistencia tienen el epicarpio, mesocarpio y endocarpio en cada caso? Recuerde que en muchos frutos no es fácil delimitar estas partes (ej. en los frutos secos), por tal razón haga esta parte del laboratorio con un fruto que sea fácil de determinar.
+. Así mismo, tenga en cuenta que cada una de estas categorías presenta subcategorías que debe determinar, por ejemplo: el tomate es una baya simple, la naranja es una baya hesperidio, el melón es una baya pepo; el fruto de la arveja o el frijol es una legumbre que es un tipo de fruto seco dehiscente; el maíz es un fruto seco indehiscente y así con cada uno de los ejemplares. 
+
+-  Haga cortes transversales y longitudinales de cada fruto y revíselos con la ayuda del estereoscopio para determinar de cuántos carpelos se originó cada uno de esos frutos. ¿Cómo están distribuidas las semillas? ¿Qué es la placenta? ¿Qué consistencia tienen el epicarpio, mesocarpio y endocarpio en cada caso? Recuerde que en muchos frutos no es fácil delimitar estas partes (ej. en los frutos secos), por tal razón haga esta parte del laboratorio con un fruto que sea fácil de determinar.
 
 ### Reconocimiento de frutos agregados
 
