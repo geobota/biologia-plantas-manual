@@ -2,13 +2,13 @@
 
 ## Introducción
 
-La **semilla** es una estructura formada después de la fecundación del **ovulo**. Está conformada por dos partes principales: el embrión y cubierta seminal. El **embrión** es el esporófito inmaduro originado a partir de la fecundación de la oósfera por uno de los núcleos germinativos del polen. La **cubierta seminal** es la capa externa originada a partir de los tegumentos. En Angiospermae, la cubierta seminal se divide en dos capas: testa, la más externa, y el tegmen, la más interna. En las semillas de las Angiospermae también se encuentra el **endosrpermo**, que se forma a partir de la fecundación de los núcleos polares por el otro de los núcleos germinativos del polen. 
+La **semilla** es una estructura formada después de la fecundación del **ovulo**. Está conformada por dos partes principales: el embrión y cubierta seminal. El **embrión** es el esporófito inmaduro originado a partir de la fecundación de la oósfera por uno de los núcleos germinativos del polen. La **cubierta seminal** es la capa externa originada a partir de los tegumentos. En Angiospermae, la cubierta seminal se divide en dos capas: testa, la más externa, y el tegmen, la más interna. En las semillas de las Angiospermae también se encuentra el **endospermo**, que se forma a partir de la fecundación de los núcleos polares por el otro de los núcleos germinativos del polen. 
 
 Después de la fecundación y con el desarrollo del ovulo en semilla, el ovario o pistilo madura y se convierte en el **fruto**. Durante el desarrollo del fruto, también puede estar implicadas **partes accesorias** como brácteas, ejes florales, perianto, y receptáculo. Además de las semillas, en el fruto encontramos el **pericarpio**, que es la pared del fruto formada a partir de la pared del ovario (los carpelos). El pericarpio se puede dividir en tres capas, de adentro hacia afuera,  **endocarpio**, **mesocarpio** y **exocarpio**. Sin embargo, en algunos frutos estas capas pueden estar fusionadas, lo cual que dificulta distinguirlas.
 
 Los frutos se pueden clasificar según su origen. Los **frutos simples** se origina de un solo pistilo de una flor. Los **frutos agregados** se originan de múltiples pistilos de una única flor. Los **frutos múltiples** se forman por la fusión de varias flores, es decir, derivan de una inflorescencia.
 
-Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los *+frutos secos indehiscentes+* son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícula. 
+Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los **frutos secos indehiscentes** son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícula. 
 
 En frutos agregados o múltiples, se denomina **unidad del fruto** a cada componente derivado de un pistilo individual. Los frutos agregados se indican como "fruto agregado de…" cada unidad del fruto. Así, un **poliaquenio** es un fruto agregado de aquenios. Otros ejemplos de frutos agregados encontramos la **polidrupa**, el **plurifolículo**. Los frutos múltiples se indican como "fruto múltiple de…" cada unida del fruto. Algunos frutos múltiples con nombres propios son el **bur**, el **sicono** y la **sorosis**.
 
@@ -78,20 +78,22 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Reconocimiento de frutos simples
 
--   Tome cada uno de los frutos simples y analícelos haciendo énfasis en su morfología y estructura. Determine el tipo de fruto
+-   Tome cada uno de los frutos simples, realice observaciones comparativas y determine el tipo de fruto simple. 
 
-. Así mismo, tenga en cuenta que cada una de estas categorías presenta subcategorías que debe determinar, por ejemplo: el tomate es una baya simple, la naranja es una baya hesperidio, el melón es una baya pepo; el fruto de la arveja o el frijol es una legumbre que es un tipo de fruto seco dehiscente; el maíz es un fruto seco indehiscente y así con cada uno de los ejemplares. 
-
--  Haga cortes transversales y longitudinales de cada fruto y revíselos con la ayuda del estereoscopio para determinar de cuántos carpelos se originó cada uno de esos frutos. ¿Cómo están distribuidas las semillas? ¿Qué es la placenta? ¿Qué consistencia tienen el epicarpio, mesocarpio y endocarpio en cada caso? Recuerde que en muchos frutos no es fácil delimitar estas partes (ej. en los frutos secos), por tal razón haga esta parte del laboratorio con un fruto que sea fácil de determinar.
+-  Realice cortes transversales y longitudinales de cada fruto de los frutos simples. Observe e identifique: el número de carpelos y de lóculos, el pericarpio y las semillas.
 
 ### Reconocimiento de frutos agregados
 
-Tomen el fruto de *Fragaria spp.* (poliaquenio o aqueniocetum) realice cortes transversales y longitudinales y observe como el receptáculo se ha modificado para formar una estructura carnosa que sostiene múltiples aquenios. Realice lo mismo pero con el fruto de *Rubus glaucus* (pluridrupa o drupacetum) y con el fruto de una magnolia (plurifolículo o folicetum).
+-   Tome el fruto de *Fragaria sp.*, *Magnolia sp.*, *Rubus glaucus* y cualquier otro fruto agregado. Realice cortes transversales y longitudinales de los frutos, observe e identifique: cada una de las unidades del fruto y determine el tipo de fruto agregado.
 
 ### Reconocimiento de frutos múltiples
 
-Realice cortes transversales y longitudinales del fruto de *Ananas comosus* (sorosis) y *Ficus carica* (sicono), observe que la estructura completa está formada la unión de varias estructuras florales (inflorescencias) e incluso estructuras extra florales como el receptáculo y/o el eje de la inflorescencia participan en la formación de la infrutescencia.
+-  Tome el fruto de *Ananas comosus* y *Ficus carica* y cualquier otro fruto múltiple. Realice cortes transversales y longitudinales de los fruto, observe e identifique cada una de las unidades del fruto y determine el tipo de fruto múltiple. Intente identificar cualquier estructura floral o extra floral asociada. 
 
 ### Sustancias de reserva asociadas a los frutos
 
-Realice cortes transversales del mesocarpio del fruto de *Malus domestica* o *Pyrus communis* (pomos), *Musa × paradisiaca* o *Solanum lycopersicum* (bayas), *Prunus persica* (drupa) y a nivel del endospermo o cotiledones de *Zea mays* (cariópside) y *Helianthus annuus* (aquenio). Tiña separadamente con Lugol y Sudan III o Sudan negro. ¿Qué sustancia se detecta en cada caso y por qué?
+-   Realice cortes transversales del mesocarpio del fruto de *Malus domestica*, *Musa × paradisiaca*, *Prunus persica*, *Pyrus communis*, *Solanum lycopersicum* y cualquier otro planta disponible. Tiña separadamente con Lugol y Sudan III o Sudan negro. ¿Qué sustancia se detecta en cada caso?
+
+### Anatomía de la semilla
+
+-   Realice cortes transversales de semillas hidratadas de *Phaseolus vulgaris*, *Zea mays* y cualquier otra planta disponible. Observe e identifique: el embrión, el endospermo, la cubierta seminal (testa y tegmen).
