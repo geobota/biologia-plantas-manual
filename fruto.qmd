@@ -16,7 +16,7 @@ Los frutos se pueden clasificar según su origen. Los **frutos simples** se orig
 
 ![Tipos de frutos secos dehiscentes. Tomado de @simpson2019.](images/fruto_seco_dehiscente.jpg){#fig-fruto-seco-dehiscente fig-aling="center"}
 
-Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los **frutos secos indehiscentes** son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícula. 
+Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los **frutos secos indehiscentes** son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícua. 
 
 ![Tipos de frutos carnosos. Tomado de @simpson2019.](images/fruto_carnoso.jpg){#fig-fruto-carnoso fig-aling="center"}
 
@@ -110,4 +110,4 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Anatomía de la semilla
 
--   Realice cortes transversales de semillas hidratadas de *Phaseolus vulgaris*, *Zea mays* y cualquier otra planta disponible. Observe e identifique: el embrión, el endospermo, la cubierta seminal (testa y tegmen).
+-   Realice cortes transversales y longitudinales de semillas hidratadas de *Phaseolus vulgaris*, *Zea mays* y cualquier otra planta disponible. Observe e identifique: el embrión, el endospermo, la cubierta seminal (testa y tegmen).
