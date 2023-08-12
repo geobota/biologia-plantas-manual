@@ -1,32 +1,32 @@
 # Hoja
 
-![Diversidad de hojas. Tomado de Colvin ([2018](https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png)).](images/hoja_diversidad.png){#fig-hojas-diversidad fig-aling="center"}
+![Diversidad de hojas. Tomado de Colvin ([2018](https://commons.wikimedia.org/wiki/File:Leaf_Varieties_(15_sp).png)).](images/hoja_diversidad.png){#fig-hojas-diversidad fig-align="center" width="700"}
 
 ## Introducción
 
 La **hoja** es un órgano generalmente aplanado que se origina en el **primordio foliar** del meristema apical del vástago, desempeña un papel fundamental en la fotosíntesis y la transpiración. Las hojas varían ampliamente en su forma y estructura,  generalmente se dividen en dos partes: el peciolo y la lámina o limbo. El **peciolo** es la conexión entre la lámina y el tallo en el nudo. Las hojas con un peciolo se denominan pecioladas, mientras que las que carecen de él se llaman sésiles. Las **yemas axilares** se encuentran en el ángulo entre el peciolo y el tallo. En la base del peciolo, a menudo aparecen dos apéndices foliosos, escamosos o espinosos llamados **estípulas**, que en algunas plantas se expanden hasta formar una vaina que rodea todo el tallo. La **lámina** es la parte expandida que contiene la mayoría de los cloroplastos y estomas de la planta, y generalmente es aplanada, presentando dos caras, la superior llamada haz o **cara adaxial** y la inferior llamada envés o **cara abaxial**. El contorno de la hoja se denomina **margen** o borde. La **base** es la parte más proximal al punto donde el peciolo se une al limbo, mientras que el **ápice** es la parte más distal. La variación en la forma y estructura de las hojas suelen estar asociadas al hábitat de las plantas, así como a la disponibilidad de agua y de luz solar. Por ejemplo, hojas más pequeñas o más gruesas suelen asociarse a plantas de lugares secos y muy calientes.
 
-![Principales partes de la hoja. Tomado de @bonifacino2021.](images/hoja_partes.png){#fig-hoja-partes fig-aling="center"}
+![Principales partes de la hoja. Tomado de @bonifacino2021.](images/hoja_partes.png){#fig-hoja-partes fig-align="center" width="700"}
 
 Las hojas se dividen en simples o compuestas según la complejidad de su lámina. En las **hojas simples**, la lamina es continua y no está divida en partes, aunque puede presentar lóbulos muy profundos. En las **hojas compuestas**, la lamina está divida en partes discretas denominadas **folíolos**, los cuales suelen tener un pequeño peciolo llamado **peciolulo.** Las hojas compuestas se definen en base al número y disposición de los folíolos. Las **hojas compuestas pinnadas** tienen los folíolos dispuestos sobre una extensión del peciolo llamada **raquis**. Las hojas pinnadas pueden ser **imparipinnadas** (tiene un foliolo terminal) o **paripinnadas** (no tiene foliolo terminal). Una **hoja compuesta bipinnada** tiene dos órdenes de ejes, cada uno pinnado. El eje central de una hoja bipinnada se denomina raquis, los ejes laterales que llevan **foliolulos** se denominan **raquillas**. Una hoja compuesta en la que más de cuatro folíolos surgen de un mismo punto se denomina **palmaticompuesta**. La presencia de la yema axilar es lo que distingue a las hojas simples de las hojas compuestas; esta yema no se encuentra en la axila de los folíolos o peciolulos.
 
-![Tipos de hoja. Tomado de @simpson2019.](images/hoja_tipos.png){#fig-hoja-tipos fig-aling="center"}
+![Tipos de hoja. Tomado de @simpson2019.](images/hoja_tipos.png){#fig-hoja-tipos fig-align="center" width="700"}
 
 La **filotaxia** es la disposición espacial de las hojas en el tallo de una planta. La filotaxia se considera **alterna** cuando en cada entrenudo se encuentra una hoja, pudiendo estar dispuestas en espiral o en forma dística (dispuestas en un solo plano). Por otro lado, si en cada nudo hay dos hojas, se considera que la filotaxia es **opuesta**, y puede estar dispuesta de forma dística o decusada (en forma de cruz). Finalmente, cuando se insertan tres o más hojas por nudo, se le llama filotaxia **verticilada**.
 
-![Filotaxia de las hojas. Tomado de @bonifacino2011.](images/hoja_filotaxia.png){#fig-hoja-filotaxia fig-aling="center"}
+![Filotaxia de las hojas. Tomado de @bonifacino2011.](images/hoja_filotaxia.png){#fig-hoja-filotaxia fig-align="center" width="700"}
 
 La lamina de una hoja puede ser muy variable, tanto en su forma general así como en su base, ápice, margen y presentar modificaciones como glandulas, tricomas, etc. Estas variaciones se utilizan para la descripción morfológica de las hojas, por lo que existe todo un universo de términos asociados a dichas modificaciones, los cuales dependen de las especies de plantas y de los estudiosos de estas.
 
-![Formas en la hoja. Tomado de @bonifacino2021.](images/hoja_forma.png){#fig-hoja-formas fig-aling="center"}
+![Formas en la hoja. Tomado de @bonifacino2021.](images/hoja_forma.png){#fig-hoja-formas fig-align="center" width="700"}
 
 La distribución de los haces vasculares en el limbo de la hoja recibe el nombre de **venación** o nervadura. En Angiospermae se reconocen dos tipos o patrones principales de venación: paralelo y reticulado. El patrón **paralelo** se caracteriza porque las venas son de un tamaño similar y se extienden a lo largo del eje longitudinal de la hoja. Mientras que el patrón **reticulado** se caracteriza por la presencia de venas sucesivamente más pequeñas que se originan de venas más grandes, generalmente hay una vena central o principal de la cual se desprenden las demás.
 
-![Patrones de venación. Tomado de @bonifacino2011.](images/hoja_venacion.png){#fig-hoja-venacion fig-aling="center"}
+![Patrones de venación. Tomado de @bonifacino2011.](images/hoja_venacion.png){#fig-hoja-venacion fig-align="center" width="700"}
 
 Anatómicamente la hoja se puede dividir en tres partes: la epidermis, el mesofilo y los haces vasculares. La **epidermis** es la capa más externa y contiene células especializadas en la protección y la regulación del intercambio gaseoso. El **mesófilo** se encuentra entre las dos capas de epidermis, se caracteriza por su gran volumen de espacios intercelualres y numerosos cloroplastos. Está constituido principalmente por parénquima (parénquima en empalizada y esponjoso), así como colénquima y esclerénquima Los **haces vasculares**, el xilema suele estar orientado hacia la cara adaxial mientras que el floema se orienta hacía la cara abaxial. Dependiendo de la organización interna del mesofilo, puede clasificarse como mesofilo dorsiventral (una capa de parénquima en empalizada y una capa de parénquima esponjoso), isobilateral (dos capas de parénquima en empalizada rodeando una capa de parénquima esponjoso) o céntrico (no hay diferencias en el parénquima).
 
-![Corte transversal de una hoja de Eudicotyledoneae. Tomado de @evert2013.](images/hoja_anatomia.png){#fig-hoja-anatomia fig-aling="center"}
+![Corte transversal de una hoja de Eudicotyledoneae. Tomado de @evert2013.](images/hoja_anatomia.png){#fig-hoja-anatomia fig-align="center" width="700"}
 
 ## Objetivo
 

@@ -10,13 +10,13 @@ Los **meristemos** se clasifican dependiendo de su persistencia y función en el
 
 Los meristemos laterales corresponden al cambium y al felógeno (cambium suberoso). El **cambium** es responsable del crecimiento en grosor de los tallos al agregar capas celulares que se diferenciarán en **xilema** hacia la médula y **floema** hacia la corteza. Este tejido solo está presente en Angiospermas y Gimnospermas. El felógeno también es responsable del crecimiento en grosor al agregar capas de tejido que se diferenciarán el **súber o corcho** y **felodermis** este último, se transformará principalmente en células parenquimáticas. En conjunto al súber, felógeno y felodermis se les conoce como **peridermis**. Los meristemos intercalares se encuentran principalmente en gramíneas y son los responsables del crecimiento de las zonas nodales.
 
-![Clasificación de los meristemos. Tomado de @megíaspacheco2017.](images/meristemos.png){#fig-meristemos-clasificacion fig-align="center" width="500"}
+![Clasificación de los meristemos. Tomado de @megíaspacheco2017.](images/meristemos.png){#fig-meristemos-clasificacion fig-align="center" width="700"}
 
 La **epidermis** en plantas cumple varias funciones: protección, intercambio gaseoso, revestimiento, evitar la desecación, excreción y secreción. Desde el punto de vista morfológico y fisiológico la epidermis no es un tejido homogéneo, hay muchas variedades y especializaciones: estomas, tricomas, glándulas etc. Este tejido tiene varios orígenes dependiendo del órgano en particular. En Briófitos y Pteridófitos se origina a partir de la única célula apical meristemática, en el caso de la raíz a partir del dermatógeno y en los ápices de los tallos a partir de la capa más externa de la túnica. En la mayoría de las plantas la epidermis es de una sola capa, sin embargo, en algunos casos puede ser pluriestratificada.
 
 El **parénquima** es un tejido poco diferenciado y se puede considerar precursor de los demás tejidos. El parénquima es un tejido con varias funciones metabólicas importantes para la planta: fotosíntesis, elaboración y almacenamiento de sustancias, secreción, excreción, etc. De acuerdo con su función presentan formas variables, pero por lo general son prismáticas e isodiamétricas con múltiples caras que le confieren aspecto redondeado. Se derivan de los meristemos apicales y laterales, aunque también pueden conservar la capacidad de división celular. Existen varios tipos de parénquimas que se relacionan con la principal actividad metabólica que desempeñan: **aerénquima** (parénquima aerífero), **clorénquima** (parénquima fotosintético), **hidrénquima** (parénquima acuífero), **parénquima de reserva**, **parénquima en empalizada**, y .**parénquima esponjoso o lagunar**,
 
-![Clasificación de los tejidos de las plantas según su permanencia, capacidad de división y tipos celulares que los componen. Tomado de @megíaspacheco2017.](images/tejidos.png){#fig-tejidos-clasificacion fig-align="center" width="500"}
+![Clasificación de los tejidos de las plantas según su permanencia, capacidad de división y tipos celulares que los componen. Tomado de @megíaspacheco2017.](images/tejidos.png){#fig-tejidos-clasificacion fig-align="center" width="700"}
 
 ## Objetivo
 
@@ -77,7 +77,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice cortes finos transversales de hojas de *Dianthus caryophyllus* y *Ficus elástica* sin aplicar tinción (@fig-hoja-ficus). ¿Qué tipo de epidermis encuentra en cada caso? ¿Qué diferencias funcionales y anatómicas se aprecian entre los dos tipos de epidermis observadas?
 
-![Corte transversal de hoja de *Nerium oleander* con Safranina y Azul Alcián. cu: cuticula, ep: epidermis pluriestratificada, hv: haz vascular, pe: parénquima en empalizada, pl: parénquima lagunar, st: estoma, tr: tricoma.](images/hoja_nerium.png){#fig-hoja-nerium fig-align="center" width="500"}
+![Corte transversal de hoja de *Nerium oleander* con Safranina y Azul Alcián. cu: cuticula, ep: epidermis pluriestratificada, hv: haz vascular, pe: parénquima en empalizada, pl: parénquima lagunar, st: estoma, tr: tricoma.](images/hoja_nerium.png){#fig-hoja-nerium fig-align="center" width="700"}
 
 
 ### Estomas y patrones estomáticos
@@ -86,13 +86,13 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice cortes longitudinales de la epidermis abaxial de hojas de *Brassica oleracea*, *Coffea arabica*, *Dianthus caryophyllus*, *Tradescantia pallida* y de las plantas que tenga a disposición, aplicando la tinción de Safranina y Azul Alcián. Observe los patrones estomáticos característicos de estas plantas (**anisocítico, paracítico, diacítico, tetracítico, actinocítico y ciclocítico**) ¿Todas las plantas tienen algún patrón estomático característico? ¿Existen patrones estomáticos adicionales? ¿Tienen alguna importancia taxonómica o sistemática?
 
-![Tipos de estomas. Tomado de @singh2019.](images/estomas_tipos.png){#fig-estomas-tipos fig-align="center" width="500"}
+![Tipos de estomas. Tomado de @singh2019.](images/estomas_tipos.png){#fig-estomas-tipos fig-align="center" width="700"}
 
 ### Revestimientos pilosos o tricomas
 
 -   Realice cortes transversales finos de hojas, peciolos y tallos de *Cannabis sativa*, *Nicotiana tabacum*, *Pelargonium spp.*, *Portulaca oleifera*, *Solanum lycopersicum*, *Solanum tuberosum*, *Solanum quitoense*, *Tillandsia recurvata* y cualquier otra planta que tenga a disposición. Observe la presencia de diferentes tipos de tricomas (**unicelulares**: alargados, enrollados, estrellados, glandulares, ramificados, etc.; **pluricelulares**: alargados simples, escuamiformes, estrellados, dendroides, glandulares, lanosos, peltados, ramificados, etc.) ¿Los tricomas tienen importancia taxonómica o sistemática? ¿Desde el punto de vista biológico que funciones desempeñan?
 
-![Algunos tipos de tricomas. Tomado de @megíaspacheco2017.](images/tricomas_tipos.png){#fig-tricomas-tipos fig-align="center" width="500"}
+![Algunos tipos de tricomas. Tomado de @megíaspacheco2017.](images/tricomas_tipos.png){#fig-tricomas-tipos fig-align="center" width="700"}
 
 ### Observación del tejido parenquimático
 
@@ -104,7 +104,7 @@ Repita el procedimiento pero coloreando con lugol para facilitar la observación
 
 -   Realice cortes transversales finos de la hojas de *Aloe vera*, tiña con Safranina y Azul Alcián. Observe la presencia de un tejido formado por células grandes de apariencia hincha por la presencia de grandes vacuolas y de paredes celulares delgadas. Este tejido corresponde al **parénquima acuífero** o **hidrénquima**.
 
-![Tipos de parénquima. Tomado de @megíaspacheco2017.](images/parenquima_tipos.png){#fig-parenquima-tipos fig-align="center" width="500"}
+![Tipos de parénquima. Tomado de @megíaspacheco2017.](images/parenquima_tipos.png){#fig-parenquima-tipos fig-align="center" width="700"}
 
 ### Meristemos apicales y laterales
 
@@ -114,4 +114,4 @@ Repita el procedimiento pero coloreando con lugol para facilitar la observación
 
 -   Tome los meristemos apicales de la planta *Solenostemon scutellarioides* y realice cortes longitudinales finos. Aplique la tinción ya indicada previamente (el corte lo puede hacer utilizando cualquier otra planta donde se le facilite). Observe el desarrollo del meristemo apical y los primordios foliares. Es posible si el corte es lo suficientemente fino, apreciar la organización del ápice de acuerdo con la teoría de la Túnica/corpus.
 
-![Meritemo apical caulinar y radicular. Tomado de @evert2013.](images/meristemos_apical.png){#fig-meristemo-apical fig-align="center" width="500"}
+![Meritemo apical caulinar y radicular. Tomado de @evert2013.](images/meristemos_apical.png){#fig-meristemo-apical fig-align="center" width="700"}

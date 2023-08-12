@@ -1,30 +1,30 @@
 # Fruto y semilla
 
-![Variedad de frutos y semillas. Tomado de Ziegler ([2006](https://upload.wikimedia.org/wikipedia/commons/b/b5/Forest_fruits_from_Barro_Colorado.png)) y Klepnev ([2015](https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg)).](images/frutos_semillas.png){#fig-frutos-semillas fig-aling="center"}
+![Variedad de frutos y semillas. Tomado de Ziegler ([2006](https://upload.wikimedia.org/wikipedia/commons/b/b5/Forest_fruits_from_Barro_Colorado.png)) y Klepnev ([2015](https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg)).](images/frutos_semillas.png){#fig-frutos-semillas fig-align="center" width="700"}
 
 ## Introducción
 
 La **semilla** es una estructura formada después de la fecundación del **ovulo**. Está conformada por dos partes principales: el embrión y cubierta seminal. El **embrión** es el esporófito inmaduro originado a partir de la fecundación de la oósfera por uno de los núcleos germinativos del polen. La **cubierta seminal** es la capa externa originada a partir de los tegumentos. En Angiospermae, la cubierta seminal se divide en dos capas: testa, la más externa, y el tegmen, la más interna. En las semillas de las Angiospermae también se encuentra el **endospermo**, que se forma a partir de la fecundación de los núcleos polares por el otro de los núcleos germinativos del polen. 
 
-![La semilla y sus partes. Tomado de @simpson2019.](images/semilla.png){#fig-semilla fig-aling="center"}
+![La semilla y sus partes. Tomado de @simpson2019.](images/semilla.png){#fig-semilla fig-align="center" width="700"}
 
 Después de la fecundación y con el desarrollo del ovulo en semilla, el ovario o pistilo madura y se convierte en el **fruto**. Durante el desarrollo del fruto, también puede estar implicadas **partes accesorias** como brácteas, ejes florales, perianto, y receptáculo. Además de las semillas, en el fruto encontramos el **pericarpio**, que es la pared del fruto formada a partir de la pared del ovario (los carpelos). El pericarpio se puede dividir en tres capas, de adentro hacia afuera,  **endocarpio**, **mesocarpio** y **exocarpio**. Sin embargo, en algunos frutos estas capas pueden estar fusionadas, lo cual que dificulta distinguirlas.
 
-![Tipos de frutos secos indehiscentes. Tomado de @simpson2019.](images/fruto_seco_indehiscente.jpg){#fig-fruto-seco-indehiscente fig-aling="center"}
+![Tipos de frutos secos indehiscentes. Tomado de @simpson2019.](images/fruto_seco_indehiscente.jpg){#fig-fruto-seco-indehiscente fig-align="center" width="700"}
 
 Los frutos se pueden clasificar según su origen. Los **frutos simples** se origina de un solo pistilo de una flor. Los **frutos agregados** se originan de múltiples pistilos de una única flor. Los **frutos múltiples** se forman por la fusión de varias flores, es decir, derivan de una inflorescencia.
 
-![Tipos de frutos secos dehiscentes. Tomado de @simpson2019.](images/fruto_seco_dehiscente.jpg){#fig-fruto-seco-dehiscente fig-aling="center"}
+![Tipos de frutos secos dehiscentes. Tomado de @simpson2019.](images/fruto_seco_dehiscente.jpg){#fig-fruto-seco-dehiscente fig-align="center" width="700"}
 
 Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los **frutos secos indehiscentes** son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícua. 
 
-![Tipos de frutos carnosos. Tomado de @simpson2019.](images/fruto_carnoso.jpg){#fig-fruto-carnoso fig-aling="center"}
+![Tipos de frutos carnosos. Tomado de @simpson2019.](images/fruto_carnoso.jpg){#fig-fruto-carnoso fig-align="center" width="700"}
 
 En frutos agregados o múltiples, se denomina **unidad del fruto** a cada componente derivado de un pistilo individual. Los frutos agregados se indican como "fruto agregado de…" cada unidad del fruto. Así, un **poliaquenio** es un fruto agregado de aquenios. Otros ejemplos de frutos agregados encontramos la **polidrupa**, el **plurifolículo**. Los frutos múltiples se indican como "fruto múltiple de…" cada unida del fruto. Algunos frutos múltiples con nombres propios son el **bur**, el **sicono** y la **sorosis**.
 
-![Tipos de frutos agregados. Tomado de @simpson2019.](images/fruto_agregado.jpg){#fig-fruto-agregados fig-aling="center"}
+![Tipos de frutos agregados. Tomado de @simpson2019.](images/fruto_agregado.jpg){#fig-fruto-agregados fig-align="center" width="700"}
 
-![Tipos de frutos multiples. Tomado de @simpson2019.](images/fruto_multiple.jpg){#fig-fruto-multiples fig-aling="center"}
+![Tipos de frutos multiples. Tomado de @simpson2019.](images/fruto_multiple.jpg){#fig-fruto-multiples fig-align="center" width="700"}
 
 ## Objetivo
 
