@@ -128,7 +128,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el esporofito. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Marchantiophyta. Tomado de @evert2013](images/marchantiophyta_ciclo.png){#fig-marchantiophyta-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Marchantiophyta. Tomado de @evert2013](images/marchantiophyta_ciclo.png){#fig-marchantiophyta-ciclo .column-screen fig-align="center" width="1000"}
 
 ### Bryophyta
 
@@ -138,11 +138,11 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en la cápsula del esporofito. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Bryophyta Tomado de @evert2013](images/briophyta_ciclo.png){#fig-bryophyta-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Bryophyta Tomado de @evert2013](images/briophyta_ciclo.png){#fig-bryophyta-ciclo .column-screen fig-align="center" width="1000"}
 
 ### Lycopodiophyta
 
-![Ciclo de vida y morfología de Lycopodium. Tomado de @evert2013](images/lycopodium_ciclo.png){#fig-lycopodium-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Lycopodium. Tomado de @evert2013](images/lycopodium_ciclo.png){#fig-lycopodium-ciclo .column-screen fig-align="center" width="1000"}
 
 -   Tome especímenes de Lycopodium o cualquier otra Lycophyta y utilizando un estereomicroscopio identifique y describa la orientación de los ejes, la disposición y forma de las microfilas, posición y forma de los estróbilos.
 
@@ -150,11 +150,11 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el estróbilo de Lycopodium. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Selaginella. Tomado de @evert2013](images/selaginella_ciclo.png){#fig-selaginella-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Selaginella. Tomado de @evert2013](images/selaginella_ciclo.png){#fig-selaginella-ciclo .column-screen fig-align="center" width="1000"}
 
 ### Monilophyta
 
-![Ciclo de vida y morfología de *Equisetum*. Tomado de @evert2013](images/equisetum_ciclo.png){#fig-equisetum-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de *Equisetum*. Tomado de @evert2013](images/equisetum_ciclo.png){#fig-equisetum-ciclo .column-screen fig-align="center" width="1000"}
 
 -   Tome diferentes especímenes de Monilophyta, identifique y describa las características como orientación de los ejes, forma y complejidad de las frondes, vernación, presencia de pelos y escamas, etc. Además identifique y describa presencia y formas de los soros e indusio.
 
@@ -162,7 +162,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el estróbilo de Monilophyta. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Polypodium. Tomado de @evert2013](images/polypodium_ciclo.png){#fig-polypodium-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Polypodium. Tomado de @evert2013](images/polypodium_ciclo.png){#fig-polypodium-ciclo .column-screen fig-align="center" width="1000"}
 
 ### Gymnospermae
 
@@ -172,7 +172,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de los granos de polen de cualquier Gymnospermae. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de *Pinus*. Tomado de @evert2013](images/coniferophyta_ciclo.png){#fig-coniferophyta-ciclo .column-page-inset fig-align="center" width="1000"}
+![Ciclo de vida y morfología de *Pinus*. Tomado de @evert2013](images/coniferophyta_ciclo.png){#fig-coniferophyta-ciclo .column-screen fig-align="center" width="1000"}
 
 ### Angiospermae
 
