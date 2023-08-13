@@ -79,7 +79,6 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ![Corte transversal de hoja de *Nerium oleander* con Safranina y Azul Alcián. cu: cuticula, ep: epidermis pluriestratificada, hv: haz vascular, pe: parénquima en empalizada, pl: parénquima lagunar, st: estoma, tr: tricoma.](images/hoja_nerium.png){#fig-hoja-nerium fig-align="center" width="700"}
 
-
 ### Estomas y patrones estomáticos
 
 -   Realice cortes transversales de hojas de *Ficus elástica* y *Nerium oleander*, tiña con Safranina y Azul Alcián. Observe la cara abaxial de la lámina foliar y aprecie la presencia de estomas dentro de criptas estomáticas. ¿Qué ventaja le ofrece a estas plantas la disposición de los estomas en criptas? ¿Qué familias de plantas posiblemente tendrían esta disposición estomática?
@@ -109,6 +108,8 @@ Repita el procedimiento pero coloreando con lugol para facilitar la observación
 ### Meristemos apicales y laterales
 
 -   Realice cortes transversales finos del tallo de *Aristolochia ringens* agregue una gota de Safranina, deje unos segundos, elimine el exceso con papel secante, luego, agrego una gota de Azul Alcián, repita el procedimiento de limpieza anterior y finalmente agregue una gota de Glicerol. Observe al microscopio en 10x, 40x y si es necesario en 100x. Centre su atención al cambium vascular e interfascicular, que se reconocen fácilmente por formar varias capas celulares de forma casi rectangular entre el xilema y el floema. ¿Cuál es el origen del cambium? ¿Este meristemo de crecimiento lateral se encuentra en todas las plantas?
+
+![Corte transversal de tallo de *Helianthus sp.* A, epidermis. B-C, parénquima. D, xilema. E, esclérenquima. F, cambium vascular. Tomado de Houseman & Ford ([2014](https://commons.wikimedia.org/wiki/File:Helianthus_stem_2_L.jpg)).](images/tallo_helianthus.jpg){#fig-tallo-helianthus fig-align="center" width="700"}
 
 -   Realice cortes transversales finos del tallo maduro e inmaduro de *Pelargonium spp.* Aplicando la coloración anterior. Compare las diferencias anatómicas e histológicas encontradas. Posteriormente, fíjese en la presencia del felógeno hacia la corteza acompañando o no a la epidermis; este meristemo produce células suberosas o de corcho hacia fuera del tallo y felodermis hacia la médula. En conjunto se les da el nombre de peridermis. ¿Qué diferencias estructurales se pueden apreciar entre estos tres tipos celulares? ¿Cuál es la función del súber? ¿La felodermis se diferenciará en otro tipo tisular?
 
