@@ -2,7 +2,7 @@
 
 ## Introducción
 
-![La Monocotyledoneae más alta del mundo, *Ceroxylon quindiuense* en el valle de Cocora , Colombia. Tomado de Diegotorquemada ([2008](https://upload.wikimedia.org/wikipedia/commons/d/d5/Ceroxylon_quindiuense_cocora.jpg)).](images/ceroxylon_quindiuense.jpg){#fig-ceroxylon fig-align="center" width="700"}
+![La Monocotyledoneae más alta del mundo, *Ceroxylon quindiuense* en el valle de Cocora , Colombia. Tomado de Diegotorquemada ([2008](https://commons.wikimedia.org/wiki/File:Ceroxylon_quindiuense_cocora.jpg)).](images/ceroxylon_quindiuense.jpg){#fig-ceroxylon fig-align="center" width="700"}
 
 En Tracheophyta, el **vástago** tiene su origen en el embrión y está constituido por el tallo, las hojas y las yemas (vegetativas y reproductivas). Todas las células y tejidos primarios del vástago se desarrollan del **meristema apical**. Estructuralmente, el **tallo** es más complejo que la raíz y está formado por unidades modulares denominadas **fitómeros**, nombre dado al conjunto de nudo, entrenudo y yema axilar o lateral.
 

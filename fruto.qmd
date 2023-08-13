@@ -1,6 +1,6 @@
 # Fruto y semilla
 
-![Variedad de frutos y semillas. Tomado de Ziegler ([2006](https://upload.wikimedia.org/wikipedia/commons/b/b5/Forest_fruits_from_Barro_Colorado.png)) y Klepnev ([2015](https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg)).](images/frutos_semillas.png){#fig-frutos-semillas fig-align="center" width="700"}
+![Variedad de frutos y semillas. Tomado de Ziegler ([2006](https://commons.wikimedia.org/wiki/File:Forest_fruits_from_Barro_Colorado.png)) y Klepnev ([2015](https://commons.wikimedia.org/wiki/File:Разнообразие_семян.jpg)).](images/frutos_semillas.png){#fig-frutos-semillas fig-align="center" width="700"}
 
 ## Introducción
 
