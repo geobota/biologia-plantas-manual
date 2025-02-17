@@ -83,11 +83,11 @@ format:
     mainfont: "Atkinson Hyperlegible"
     link-external-icon: false
     link-external-newwindow: true
-  pdf: 
-    documentclass: report
-    geometry: 
-      - top=30mm
-      - left=20mm
+  # pdf: 
+  #   documentclass: report
+  #   geometry: 
+  #     - top=30mm
+  #     - left=20mm
 
 nocite: |
   @bowes2013, @christenhusz2017, @dávilavillamizar2003, @dickison2000, @evert2006, @evert2013, @fontquer2001, 
