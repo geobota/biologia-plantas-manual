@@ -79,8 +79,8 @@ format:
     theme: 
       light: cosmo
       dark: solar
-    css: styles.scss
-    mainfont: "Atkinson Hyperlegible"
+    # css: styles.scss
+    # mainfont: "Atkinson Hyperlegible"
     link-external-icon: false
     link-external-newwindow: true
   # pdf: 
