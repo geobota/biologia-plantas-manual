@@ -2,7 +2,7 @@
 
 ## Introducción
 
-![Diverisdad de Embryophyta. Tomado de Sciencia58 ([2020](https://commons.wikimedia.org/wiki/File:Embryophyta_1.png))](images/embryophyta.png){#fig-embryophyta fig-align="center" width="700"}
+![Diverisdad de Embryophyta. Tomado de Sciencia58 ([2020](https://commons.wikimedia.org/wiki/File:Embryophyta_1.png))](images/embryophyta.png){#fig-embryophyta fig-align="center" width="6in"}
 
 Cuando se habla de diversidad, casi siempre se suele pensar en los animales y rara vez en las plantas, esto se debe a factores tanto biológicos como socioculturales, un sesgo conocido como ceguera a las plantas (*plant blindness*).[^diversidad-1] La diversidad de plantas es equiparable o superior a la mayoría de grupos de animales, con más de 370000 especies de plantas descritas supera con creces a los cerca de 70000 vertebrados descritos, números sólo superados por los más de 1200000 de artrópodos.[^diversidad-2] En esta diversidad de plantas encontramos los cimientos de nuestra civilización, desde el oxígeno que respiramos, pasando por los alimentos, las medicinas, el vestuario, los elementos de construcción, llegando hasta la economía. Las plantas son la base de cada parte de nuestra economía; las plantas forman la base de la agricultura, la banca, la construcción, la educación, la moda, la pesca, los combustibles fósiles, la atención de la salud, la industria, la medicina, el comercio, el transporte, etc.
 
@@ -12,7 +12,7 @@ Cuando se habla de diversidad, casi siempre se suele pensar en los animales y ra
 
 Esta diversidad de plantas, conocida como **Embryophyta** (plantas terrestres), tradicionalmente se ha agrupado en tres divisiones: **Spermatophyta** (plantas con semilla) siendo la que mayor número de especies presenta y donde se incluyen las **Angiospermae** (plantas con flor y fruto) que aporta el mayor número de especies actualmente, y las **Gimnospermae** (plantas con semilla pero sin ovario ni fruto verdadero), las cuales se encuentran más diversificadas en zonas templadas. **Pteridophyta** (helechos y especies afines con reproducción mediante esporas) y **Bryophyta** (musgos y especies afines con esporas hidrofílicas). Otra forma común de agruparlos es en *Tracheophyta* (plantas vasculares) y Bryophyta (no vasculares).
 
-![Árbol filogenómico de Viridiplantae. Tomado de @gitzendanner2018](images/viridiplantae_arbol.jpg){#fig-viridiplantae-arbol fig-align="center" width="700"}
+![Árbol filogenómico de Viridiplantae. Tomado de @gitzendanner2018](images/viridiplantae_arbol.jpg){#fig-viridiplantae-arbol fig-align="center" width="6in"}
 
 Spermatophyta es un grupo natural (monofilético) muy bien soportado, mientras que Pteridophyta se ha demostrado como un grupo no natural (parafilético) y por lo tanto su circunscripción taxonómica ha sido redefinida, actualmente se consideran dos grupos monofiléticos independientes: **Lycopodiophyta** (licofitas o licopodios) y **Monilophyta** (helechos).[^diversidad-3] Respecto a sí Bryophyta es un grupo monofilético o no y sus relaciones, siempre ha habido discusión, recientes estudios filogenéticos confirman la monofilia de dicho grupo y estando conformado por **Anthocerophyta** (antoceros) y **Setaphyta**, en este último estarían **Marchantiophyta** (hepáticas) y **Bryophyta** (musgos).[^diversidad-4] Para evitar confusiones, cuando se habla exclusivamente de los musgos se suele agregar *sensu stricto* (*s. s.*) por lo que sería Bryophyta s. s.; mientras que se agrega *sensu lato* (*s. l.*) cuando se hace referencia a antoceros, hepáticas y musgos.
 
@@ -20,11 +20,11 @@ Spermatophyta es un grupo natural (monofilético) muy bien soportado, mientras q
 
 [^diversidad-4]: Para saber más: @puttick2018; @gitzendanner2018; @onethousandplanttranscriptomesinitiative2019; @bowles2023
 
-![Alternancia de generaciones en Embryophyta. Tomado de @simpson2019](images/embryophyta_ciclo.jpg){#fig-embryophyta_ciclo fig-align="center" width="700"}
+![Alternancia de generaciones en Embryophyta. Tomado de @simpson2019](images/embryophyta_ciclo.jpg){#fig-embryophyta_ciclo fig-align="center" width="6in"}
 
 Entre las innovaciones evolutivas propias de Embryophyta encontramos la aparición del **embrión** y el **esporófito**, el esporofito es el la fase diploide en el ciclo de vida de todas las plantas terrestres (conocido como **alternancia de generaciones**), mientras que el **gametófico** es la fase haploide; por otra parte, el embrión es un esporofito inmaduro que está adherido o rodeado por el gametofito. También encontramos la aparición del **anteridio** y el **arquegonio**, gametangios especializados en producir los gametos masculinos y femeninos, respectivamente. Otras innovaciones evolutivas son: la cutina y cuticula, el parénquima, los flavonoides, entre otros.
 
-![Relaciones filogenéticas de Embryophyta con sus principales apomorfías. Tomado de @simpson2019](images/embryophyta_arbol.png){#fig-embryophyta-arbol fig-align="center" width="700"}
+![Relaciones filogenéticas de Embryophyta con sus principales apomorfías. Tomado de @simpson2019](images/embryophyta_arbol.png){#fig-embryophyta-arbol fig-align="center" width="6in"}
 
 Bryophyta *sensu lato* se caracteriza en que el gametofito es fotosintético, persistente, de vida libre y es la fase dominante, mientras que el esporofito es no ramificado,con un solo tejido productor de esporas, además de ser relativamente pequeño, efimero y dependeder enteramente del gametofito.
 
@@ -34,7 +34,7 @@ Marchantiophyta se caracteriza por tener un gametófito **folioso** o taloso. La
 
 Bryophyta *sensu stricto* se caracteriza por tener un gametófito folioso, siendo un eje erecto o rastrero llamado **caulidio**. Tiene *hojas* pequeñas, delgadas y sésiles llamadas **filidios** dispuestas helicoidalmente con un número variable de hileras y pueden presentar una **costa** central, además posee rizoides pluricelulares y ramificados. Los gametangios pueden ser producidos en el ápice del caulidio o lateralmente. El esporófito es un eje aéreo y alargado, conformado por un pedúnculo llamado **seta** y el esporangio o cápsula. Esta última tiene una cubierta, el **opérculo** que se desprende para liberar las esporas, y está cubierta por una **caliptra** que se desprende cuando el esporofito está maduro. Generalmente el esporofito presenta estomas y cuando es joven contiene cloroplastos y es fotosintético, capacidad que se pierde al madurar. Algunos musgos tienen células conductoras especializadas llamadas **hidroides** (conducen agua) y **leptoides** (conducen azúcar). Las esporas tienen una capa externa gruesa llamada **perina**.
 
-![Relaciones filogenéticas de Tracheophyta con sus principales apomorfías. Tomado de @simpson2019](images/tracheophyta_arbol.png){#fig-tracheophyta-arbol fig-align="center" width="700"}
+![Relaciones filogenéticas de Tracheophyta con sus principales apomorfías. Tomado de @simpson2019](images/tracheophyta_arbol.png){#fig-tracheophyta-arbol fig-align="center" width="6in"}
 
 Tracheophyta se caracteriza por poseer un esporofito ramificado e independiente de vida larga, siendo este la fase dominante; células con pared celular secundaria lignificada; tejido de sostén, esclerénquima y colénquima; tejido vascular, xilema y floema; endodermis y raíces verdaderas. Este grupo está conformado por Lycopodiophyta y Euphyllophyta, esta última compuesta por Monilophyta y Spermatophyta.
 
@@ -110,7 +110,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 ### Anthocerophyta
 
-![Ciclo de vida de Anthocerophyta. Tomado de @frangedakis2021](images/anthocerotophyta_ciclo.jpg){#fig-anthocerotophyta-ciclo fig-align="center" width="700"}
+![Ciclo de vida de Anthocerophyta. Tomado de @frangedakis2021](images/anthocerotophyta_ciclo.jpg){#fig-anthocerotophyta-ciclo fig-align="center" width="6in"}
 
 -   Tome especímenes de Anthocerophyta y utilizando un estereomicroscopio identifique y describa las características del gametofito y en el esporofito.
 
@@ -118,7 +118,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el esporofito. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Morfología de Anthocerophyta. Tomado de LadyofHats ([2007](https://commons.wikimedia.org/wiki/File:Hornwort_life_cicle_svg_diagram.svg))](images/anthocerotophyta_morfologia.jpg){#fig-anthocerotophyta-morfologia fig-align="center" width="700"}
+![Morfología de Anthocerophyta. Tomado de LadyofHats ([2007](https://commons.wikimedia.org/wiki/File:Hornwort_life_cicle_svg_diagram.svg))](images/anthocerotophyta_morfologia.jpg){#fig-anthocerotophyta-morfologia fig-align="center" width="6in"}
 
 ### Marchantiophyta
 
@@ -128,7 +128,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el esporofito. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Marchantiophyta. Tomado de @evert2013](images/marchantiophyta_ciclo.png){#fig-marchantiophyta-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Marchantiophyta. Tomado de @evert2013](images/marchantiophyta_ciclo.png){#fig-marchantiophyta-ciclo fig-align="center" width="6in"}
 
 ### Bryophyta
 
@@ -138,11 +138,11 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en la cápsula del esporofito. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Bryophyta Tomado de @evert2013](images/briophyta_ciclo.png){#fig-bryophyta-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Bryophyta Tomado de @evert2013](images/briophyta_ciclo.png){#fig-bryophyta-ciclo fig-align="center" width="6in"}
 
 ### Lycopodiophyta
 
-![Ciclo de vida y morfología de Lycopodium. Tomado de @evert2013](images/lycopodium_ciclo.png){#fig-lycopodium-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Lycopodium. Tomado de @evert2013](images/lycopodium_ciclo.png){#fig-lycopodium-ciclo fig-align="center" width="6in"}
 
 -   Tome especímenes de Lycopodium o cualquier otra Lycophyta y utilizando un estereomicroscopio identifique y describa la orientación de los ejes, la disposición y forma de las microfilas, posición y forma de los estróbilos.
 
@@ -150,11 +150,11 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el estróbilo de Lycopodium. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Selaginella. Tomado de @evert2013](images/selaginella_ciclo.png){#fig-selaginella-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Selaginella. Tomado de @evert2013](images/selaginella_ciclo.png){#fig-selaginella-ciclo fig-align="center" width="6in"}
 
 ### Monilophyta
 
-![Ciclo de vida y morfología de *Equisetum*. Tomado de @evert2013](images/equisetum_ciclo.png){#fig-equisetum-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de *Equisetum*. Tomado de @evert2013](images/equisetum_ciclo.png){#fig-equisetum-ciclo fig-align="center" width="6in"}
 
 -   Tome diferentes especímenes de Monilophyta, identifique y describa las características como orientación de los ejes, forma y complejidad de las frondes, vernación, presencia de pelos y escamas, etc. Además identifique y describa presencia y formas de los soros e indusio.
 
@@ -162,7 +162,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de las esporas contenidas en el estróbilo de Monilophyta. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de Polypodium. Tomado de @evert2013](images/polypodium_ciclo.png){#fig-polypodium-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de Polypodium. Tomado de @evert2013](images/polypodium_ciclo.png){#fig-polypodium-ciclo fig-align="center" width="6in"}
 
 ### Gymnospermae
 
@@ -172,7 +172,7 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice un montaje húmedo de los granos de polen de cualquier Gymnospermae. Observe e identifique la forma de las esporas y como se agrupan.
 
-![Ciclo de vida y morfología de *Pinus*. Tomado de @evert2013](images/coniferophyta_ciclo.png){#fig-coniferophyta-ciclo .column-screen fig-align="center" width="1000"}
+![Ciclo de vida y morfología de *Pinus*. Tomado de @evert2013](images/coniferophyta_ciclo.png){#fig-coniferophyta-ciclo fig-align="center" width="6in"}
 
 ### Angiospermae
 

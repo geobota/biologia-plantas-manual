@@ -2,7 +2,7 @@
 
 ## Introducción
 
-![Vista panorámica de la Ciudad Universitaria de Medellín de la Universidad de Antioquia. Tomado de [UdeA](http://udea.edu.co).](images/udea_panoramica.jpg){#fig-udea-panoramica fig-align="center" width="700"}
+![Vista panorámica de la Ciudad Universitaria de Medellín de la Universidad de Antioquia. Tomado de [UdeA](http://udea.edu.co).](images/udea_panoramica.jpg){#fig-udea-panoramica fig-align="center" width="6in"}
 
 La **botánica** se ocupa del estudio de las plantas, bajo todos sus aspectos, lo cual incluye su descripción, clasificación, distribución, identificación, reproducción, fisiología, morfología, relaciones recíprocas, relaciones con los otros seres vivos y efectos provocados sobre el medio en el que se encuentran. El **estudio morfológico** de las plantas intenta investigar sus aspectos macroscópicos, explorar y comparar aquellos aspectos microscópicos de forma, estructura y reproducción; los cuales constituyen la base para la interpretación de similitudes y diferencias entre ellas. Uno de los más fructíferos resultados de los estudios morfológicos iniciales fue el reconocimiento de los tipos fundamentales de órganos que constituyen el cuerpo de la planta (**hoja**, **tallo** y **raíz**). Posteriores fueron los análisis de los órganos vegetativos y las estructuras de reproducción tanto sexuales como asexuales, así como la importancia de los **estudios comparativos** que nacen del reconocimiento de la amplia diversidad vegetal. Ligado al estudio de la forma está el estudio de la función, denominado **fisiología vegetal**, la cual incluye el estudio de todas las actividades internas de las plantas, los procesos químicos y físicos asociados como la fotosíntesis y la difusión interna de agua, minerales y nutrientes, además del desarrollo, la dormancia y el control reproductivo, entre otras. Todo este conocimiento tiene aplicaciones a nivel productivo y económico para el hombre, ya que gran parte de lo que comemos, nuestros medicamentos y materias primas son de origen vegetal.
 
@@ -14,7 +14,7 @@ La **botánica** se ocupa del estudio de las plantas, bajo todos sus aspectos, l
 
 Recorrer la Ciudad Universitaria de Medellín de la Universidad de Antioquia observando y analizando.
 
-![Mapa de la Ciudad Universitaria de Medellín de la Universidad de Antioquia. Tomado de [UdeA](http://udea.edu.co).](images/udea_mapa.jpg){#fig-udea-mapa fig-aling="center"}
+![Mapa de la Ciudad Universitaria de Medellín de la Universidad de Antioquia. Tomado de [UdeA](http://udea.edu.co).](images/udea_mapa.jpg){#fig-udea-mapa fig-aling="center" width="6in"}
 
 ### Hábitos de crecimiento en plantas
 
@@ -30,7 +30,7 @@ Los hábitos de crecimiento de las plantas hacen referencia a la forma general d
 
 -   **Árbol** es una planta leñosa generalmente alta y perenne, que tiene un tallo principal diferenciable (el tronco) que se reconoce desde la base (**Monopodio**).
 
-![Habito de las plantas terrestres. Tomado de @bonifacino2011](images/habito.png){#fig-habito fig-aling="center"}
+![Habito de las plantas terrestres. Tomado de @bonifacino2011](images/habito.png){#fig-habito fig-aling="center" width="6in"}
 
 ### Morfología foliar, tallos y raíces
 
@@ -40,7 +40,7 @@ El **tallo** es el órgano que sostiene a las hojas, **flores** y **frutos**. Su
 
 La **raíz** es un órgano generalmente subterráneo y carente de hojas que crece en dirección inversa al tallo y cuyas funciones principales son la fijación de la planta al suelo y la absorción de agua y sales minerales. En la **raíz primaria** se distingue externamente la **caliptra**, que se encuentra en el ápice protegiendo al **meristema apical**, una **zona de crecimiento** o alargamiento, que es una región glabra de 1 a 2 mm de longitud; la **zona pilífera**, región de los pelos absorbentes, y la **zona de ramificación**, una región sin pelos en la cual se forman las **raíces laterales** y que se extiende hasta el **cuello**, que la une al tallo.
 
-![Morfología básica de una plantas y generalidades del nombre científico. Tomado de @bonifacino2021.](images/morfologia_basica.png){#fig-morfologia-basica fig-align="center" width="700"}
+![Morfología básica de una plantas y generalidades del nombre científico. Tomado de @bonifacino2021.](images/morfologia_basica.png){#fig-morfologia-basica fig-align="center" width="6in"}
 
 ### Morfología de flores y frutos
 
@@ -48,7 +48,7 @@ La **flor** es la parte reproductiva de las plantas **Angiospermas**. Una flor t
 
 El **fruto** es el órgano que contiene a las **semillas** hasta que estas maduran y luego contribuye a diseminarlas. Los frutos presentan diferentes estrategias para **dispersar** las semillas. Una de ellas son los frutos **anemocoros** que aprovechan el viento. Estos frutos suelen ser ligeros y tener estructuras como alas o pelos que les faciliten poder ser llevados por el viento. Otra estrategia, es la utilizada por los frutos **zoocoros** que aprovechan a los animales. Si los frutos se sujetan o enganchan a las plumas o a los pelos son frutos **epizoocoros**; pero si los animales comen los frutos, se denominan frutos **endozoocoros** y aprovechan los jugos del aparato digestivo para deshacer las cubiertas y expulsar junto con las heces las semillas, listas para **germinar**. Algunos frutos de plantas ligadas a hábitats acuáticos se dispersan gracias al agua, son los denominados **hidrocoros**.
 
-![Partes de la flor. Sexualidad y formas de unión. Tomado de @simpson2019.](images/flor_esquema.png){#fig-flor-esquema-1 fig-align="center" width="700"}
+![Partes de la flor. Sexualidad y formas de unión. Tomado de @simpson2019.](images/flor_esquema.png){#fig-flor-esquema-1 fig-align="center" width="6in"}
 
 ### Modificaciones morfológicas
 

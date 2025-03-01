@@ -2,7 +2,7 @@
 
 ## Introducción
 
-![Corte transversal de *Cyperus papyrus* con Safranina y Azul Alcián. ae: aerénquima, ch: clorénquima, ep: epidermis, es: esclerénquima, fl: floema, xi: xilema.](images/tallo_cyperus_200x.png){#fig-tallo-cyperus fig-align="center" width="700"}
+![Corte transversal de *Cyperus papyrus* con Safranina y Azul Alcián. ae: aerénquima, ch: clorénquima, ep: epidermis, es: esclerénquima, fl: floema, xi: xilema.](images/tallo_cyperus_200x.png){#fig-tallo-cyperus fig-align="center" width="6in"}
 
 El **colénquima** y el **esclerénquima** son tejidos de soporte mecánico que aportan flexibilidad y rigidez a la planta. El colénquima está constituido por células vivas con engrosamientos de la pared primaria y la lámina intermedia. Está presente en órganos jóvenes de las plantas en pecíolos y tallos. Se originan a partir de los meristemos apicales e intercalares, también del parénquima. Existen varios tipos de colénquima dependiendo de las características y grado de engrosamiento, son cuatro tipos básicos: colénquima **angular**, **anular**, **laminar** y **lagunar**.
 
@@ -16,7 +16,7 @@ El tejido floemático está constituido por dos tipos celulares: las **células 
 
 La forma como se relacionan los elementos del haz vascular, es decir, el xilema, floema y el cambium, si está presente, se conoce con el nombre de haz vascular. Estos haces vasculares pueden ser: **anfivasal** o **perixilemático**, **anficribal** o **perifloemático**, **bicolateral**, **colateral abierto** y **colateral cerrado**.
 
-![Diposición y patrón de los haces vasculares. Tomado de @megíaspacheco2017](images/vascular_organizacion.png){#fig-vascular-organizacion fig-align="center" width="700"}
+![Diposición y patrón de los haces vasculares. Tomado de @megíaspacheco2017](images/vascular_organizacion.png){#fig-vascular-organizacion fig-align="center" width="6in"}
 
 ## Objetivo
 
@@ -79,14 +79,9 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 
 -   Realice cortes transversales de peciolos o tallos de *Apium graveolens*, *Begonia spp.*, *Bidens pilosa*, *Coriandrum sativum*, *Cucurbita máxima*, *Lactuca sativa*, *Mentha × piperita*, *Sambucus nigra* y *Taraxacum officinale*. Tiña con Safranina y Azul Alcián, observe la presencia de los diferentes tipos de colénquima asociados a estos órganos vegetativos. ¿Las células del colénquima presentan citoplasma funcional? ¿Todos los órganos vegetales observados tienen los mismos tipos de colénquimas y ocupando la misma topografía? ¿Qué características de tinción presenta este tejido que lo diferencia de los demás tejidos, al utilizar Safranina y Azul Alcián?
 
-::: {#fig-colenquima layout-ncol=1}
+![Corte transversal de tallos de *Apium graveolens* con Safranina y Azul Alcián. co: colénquima, es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.](images/tallo_apium_200x.png){#fig-tallo-apium fig-align="center" width="6in"}
 
-![*Apium graveolens*](images/tallo_apium_200x.png){#fig-tallo-apium fig-align="center" width="700"}
-
-![*Cucurbita máxima*](images/tallo_cucurbita_200x.png){#fig-tallo-cucurbita fig-align="center" width="700"}
-
-Corte transversal de tallos de *Apium graveolens* y *Cucurbita máxima* con Safranina y Azul Alcián. co: colénquima, es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.
-:::
+![Corte transversal de tallos de *Cucurbita máxima* con Safranina y Azul Alcián. co: colénquima, es: esclérenquima, pa: parénquima, xi: xilema.](images/tallo_cucurbita_200x.png){#fig-tallo-cucurbita fig-align="center" width="6in"}
 
 ### Observación del tejido esclerenquimático
 
@@ -98,7 +93,7 @@ Corte transversal de tallos de *Apium graveolens* y *Cucurbita máxima* con Safr
 
 -   Realice cortes transversales de las hojas de *Monstera deliciosa*, tiña con Safranina y Azul Alcián. ¿Qué tipo de esclereidas se pueden detectar en estos preparados? ¿Estas células se encuentran inmersas en qué tipo de tejido?
 
-![Corte transversal de *Aristolochia ringens* con Safranina y Azul Alcián. ep: epidermis, es: esclrénquima, pa: parénquima.](images/tallo_aristolochia_200x.png){#fig-tallo-aristolochia fig-align="center" width="700"}
+![Corte transversal de *Aristolochia ringens* con Safranina y Azul Alcián. ep: epidermis, es: esclrénquima, pa: parénquima.](images/tallo_aristolochia_200x.png){#fig-tallo-aristolochia fig-align="center" width="6in"}
 
 ### Observación de xilema y floema
 
@@ -110,14 +105,9 @@ Corte transversal de tallos de *Apium graveolens* y *Cucurbita máxima* con Safr
 -   En cortes transversales como longitudinales *Aristolochia ringens* fije su atención en las en el tejido floemático e identifique los **tubos cribosos** o **células cribosas** y las **áreas cribosas** o **placas cribosas** presentes en la región terminal de cada tubo criboso. También detecte la presencia de las células anexas o acompañantes del tubo criboso. En corte transversales de estas mismas plantas, observe la presencia del **cambium vascular** entre el xilema y floema, este tejido es fácil de diferenciar por el arreglo regular y la forma cuadrangular/rectangular que tienen las células. Observe entre los haces vasculares la presencia del **cambium interfascicular**.  
 ¿Qué diferencias fisiológicas, anatómicas y estructurales se presentan entre floema y xilema? ¿En las monocotiledóneas que tejidos generan xilema y floema cuando el procambium se ha diferenciado? ¿Qué es el procambium y cuál es el origen de este tejido?
 
-::: {#fig-xilema-floema layout-ncol=1}
+![Haz vascular de *Aristolochia ringens* con Safranina y Azul Alcián. ca: cámbium, es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.](images/vascular_aristolochia_200x.png){#fig-vascular-aristolochia fig-align="center" width="6in"}
 
-![*Aristolochia ringens*](images/vascular_aristolochia_200x.png){#fig-vascular-aristolochia fig-align="center" width="700"}
-
-![*Cyperus papyrus*](images/vascular_cyperus_400x.png){#fig-vascular-cyperu fig-align="center" width="700"}
-
-Haz vascular de *Aristolochia ringens* y *Cyperus papyrus* con Safranina y Azul Alcián. ca: cámbium, es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.
-:::
+![Haz vascular de *Cyperus papyrus* con Safranina y Azul Alcián. es: esclérenquima, fl: floema, pa: parénquima, xi: xilema.](images/vascular_cyperus_400x.png){#fig-vascular-cyperu fig-align="center" width="6in"}
 
 ### Tipos de haces vasculares
 
@@ -131,4 +121,4 @@ Haz vascular de *Aristolochia ringens* y *Cyperus papyrus* con Safranina y Azul 
 
 -   Realice cortes transversales del tallo de *Cucurbita máxima* y tiña con Safranina y Azul Alcián. Observe como los haces vasculares forman casquetes que se distribuyen de forma casi radial en el tallo. Estos haces están constituidos, por cambium, xilema y floema, pero el floema forma dos casquetes en la periferia del haz (hacia adentro y afuera del tallo) en tanto que el xilema se localiza en el centro. Este haz se denomina **bicolateral**.
 
-![Disposición del haz vascular de *Lycopodiella sp.*. fl: floema, xi: xilema.](images/vascular_lycopodiella_100x.png){#fig-vascular-lycopodiella fig-align="center" width="700"}
+![Disposición del haz vascular de *Lycopodiella sp.*. fl: floema, xi: xilema.](images/vascular_lycopodiella_100x.png){#fig-vascular-lycopodiella fig-align="center" width="6in"}
