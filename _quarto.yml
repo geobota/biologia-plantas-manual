@@ -10,7 +10,10 @@ book:
       orcid: 0000-0002-4916-8897
       affiliation:
       - id: udea
-        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+        name: |
+          Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, 
+          Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, 
+          Calle 70 No. 52-21, Medellín, Colombia.
         url: https://geobota.github.io/
       url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
     - name: "Felipe Alfonso Cardona-Naranjo"
@@ -26,7 +29,7 @@ book:
         - ref: udea
       url: https://alexespinosaco.github.io/
 
-  date: 2023-03-02
+  date: last-modified
   date-format: iso
   
   cover-image: images/cover.png
@@ -36,7 +39,7 @@ book:
   
   site-url: https://alexespinosaco.github.io/biologia-plantas-manual/
   repo-url: https://github.com/alexespinosaco/biologia-plantas-manual
-  #downloads: [pdf]
+  downloads: [pdf]
   #sidebar: 
     #align: center
     #logo: images/cover.png
@@ -74,6 +77,12 @@ comments:
 
 lang: es
 
+lightbox: true
+
+crossref:
+  fig-prefix: Fig.
+  title-delim: "."
+
 format:
   html:
     theme: 
@@ -83,13 +92,24 @@ format:
     # mainfont: "Atkinson Hyperlegible"
     link-external-icon: false
     link-external-newwindow: true
-  # pdf: 
-  #   documentclass: report
-  #   geometry: 
-  #     - top=30mm
-  #     - left=20mm
+  pdf:
+    documentclass: scrreprt
+    papersize: letter
+    geometry:
+      - hmargin=2.5cm
+      - top=2.5cm
+      - bottom=2.5cm
+      - marginpar=2.5cm
+    link-citations: true
+    mainfont: "Atkinson Hyperlegible"
+    fontsize: 12pt
+    linkcolor: blue
+    urlcolor: blue
+    citecolor: blue
+    filecolor: blue
 
 nocite: |
-  @bowes2013, @christenhusz2017, @dávilavillamizar2003, @dickison2000, @evert2006, @evert2013, @fontquer2001, 
-  @graham2013, @jones2012, @mauseth2016, @nabors2006, @paniagua2007, @pendarvis2018, 
-  @pérez-garcía2002, @schweingruber2006, @schweingruber2011, @schweingruber2013, @simpson2019, @singh2019 
+  @bowes2013, @christenhusz2017, @dávilavillamizar2003, @dickison2000, @evert2006, 
+  @evert2013, @fontquer2001, @graham2013, @jones2012, @mauseth2016, @nabors2006, 
+  @paniagua2007, @pendarvis2018, @pérez-garcía2002, @schweingruber2006, 
+  @schweingruber2011, @schweingruber2013, @simpson2019, @singh2019 
