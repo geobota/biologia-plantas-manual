@@ -60,6 +60,22 @@ Es importante aclarar que las diferencias entre las células en cuanto a estruct
 
 Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
 
+::: {.callout-tip collapse="true"}
+## Tinciones y colorantes
+
+Durante el desarrollo de todas las prácticas se realizan tinciones, principalmente azul de toluidina o safranina - azul alcián, por lo cual es importante tener en cuenta que estructuras colorean.
+
+|                   | Azul de toluidina | Safranina - Azul alcián |
+|-------------------|-------------------|-------------------------|
+| Pared primaria    | Azul a púrpura    | Azul                    |
+| Pared secundaria  | Verde brillante   | Rojo                    |
+| Suberina y cutina | Verde brillante   | Rojo                    |
+
+![Cutícula en verde brillante. Fibras de esclerénquima en azul claro. Células parenquimáticas en púrpura-violeta. @megíaspacheco2017.](images/colorante_azul_toluidina.png){#fig-colorante_azul-toluidina fig-align="center"}
+
+![Cutícula en verde brillante. Fibras de esclerénquima en azul claro. Células parenquimáticas en púrpura-violeta. @megíaspacheco2017.](images/colorante_safranina_azul_alcian.jpg){#fig-colorante_fasga fig-align="center"}
+:::
+
 ### Identificación de Lignina
 
 -   Realice cortes transversales finos del tallo de *Aristolochia ringens*, agregue una gota de Safranina, tiña por 1 minuto retire el exceso de colorante y lave con agua destilada, retire el agua y agregue una gota de Azul Alcián, lave nuevamente con agua destilada y monte en una gota de Glicerol. Estos dos reactivos pueden venir en uno solo ya preparado. Observe al microscopio en 10x, 40x y si es necesario en 100x. Se nota la aparición de una coloración roja o púrpura, esto demuestra la presencia de lignina. ¿Qué tejidos presentan reacción positiva?
