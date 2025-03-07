@@ -24,7 +24,7 @@ Esta es la versión en PDF del manual. Para obtener la versión más actualizada
 
 Por favor, cita este trabajo como:
 
-Alzate-Guarín, F. A., Cardona-Naranjo, F. A., & Espinosa-Correa, Á. (2025). *Biología de las plantas: manual de laboratorio*. Universidad de Antioquia. <https://alexespinosaco.github.io/biologia-plantas-manual/>
+Alzate-Guarín, F. A., Cardona-Naranjo, F. A., & Espinosa-Correa, Á. (2025). *Biología de las plantas: manual de laboratorio*. Universidad de Antioquia. <https://geobota.github.io/biologia-plantas-manual/>
 
 ## Licencia {.unnumbered}
 
