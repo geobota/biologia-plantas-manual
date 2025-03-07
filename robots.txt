@@ -1,1 +1,1 @@
-Sitemap: https://alexespinosaco.github.io/biologia-plantas-manual/sitemap.xml
+Sitemap: https://geobota.github.io/biologia-plantas-manual/sitemap.xml
