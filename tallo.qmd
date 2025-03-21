@@ -16,6 +16,10 @@ Todos los tallos tienen **crecimiento primario**, el cual consiste en un crecimi
 
 ![Comparación entre tallos en crecimiento primario de Gymnospermae, Eudicotyledoneae y Monocotyledoneae.Tomado de @nabors2006.](images/tallo_primario_comparacion.png){#fig-tallo-comparacion fig-align="center" width="6in"}
 
+La forma como se relacionan los elementos del haz vascular, es decir, el xilema, floema y el cambium, si está presente, se conoce con el nombre de haz vascular. Estos haces vasculares pueden ser: **anfivasal** o **perixilemático**, **anficribal** o **perifloemático**, **bicolateral**, **colateral abierto** y **colateral cerrado**.
+
+![Diposición y patrón de los haces vasculares. Tomado de @megíaspacheco2017](images/vascular_organizacion.png){#fig-vascular-organizacion fig-align="center" width="6in"}
+
 El **crecimiento secundario** en las plantas leñosas se inicia con la formación de **cambium vascular** y cambium suberoso o **felógeno**. Este proceso permite un aumento en el diámetro del tallo y su soporte, lo que permite que estas plantas vivan por muchos años. Este tipo de crecimiento se presenta en Gimnospermas, Eudicotiledóneas leñosas y algunas Eudicotiledóneas herbáceas, como el girasol. En muy pocas Monocotiledóneas, como Arecaceae, también se presenta un tipo de crecimiento secundario llamado **crecimiento secundario anómalo**, pero este tiene un origen diferente al de las otras plantas leñosas.
 
 ![Desarrollo y crecimiento secundario de un tallo. Tomado de @evert2006.](images/tallo_crecimiento.png){#fig-tallo-crecimiento fig-align="center" width="358"}
@@ -63,10 +67,15 @@ En una sección radial de tallos con crecimiento secundario, los **anillos de cr
 -   Placas permanentes con cortes del tallo
 -   Placas permanentes con macerados de xilema
 -   Tallos de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
+-   Tallos de [*Cucurbita máxima*](https://tropicos.org/name/50172465) (Auyama o Zapallo)
 -   Tallos de [*Cupressus spp.*](https://tropicos.org/name/40018366) (Ciprés)
--   Tallos de de [*Salix humboldtiana*](https://tropicos.org/name/28300168) (Sauce)
--   Tallos de diferentes plantas
+-   Tallos de [*Cyperus papyrus*](https://tropicos.org/name/9902745) (Papiro)
+-   Tallos de [*Dracaena sanderiana*](https://tropicos.org/name/18404764) (Bambú de la Suerte) o [*Cordyline fruticosa*](https://tropicos.org/name/18401647) (Banderilla)
+-   Tallos de [*Pennisetum purpureum*](https://tropicos.org/name/25509854) (Pasto de Elefante) o cualquier otra [Poaceae](https://tropicos.org/name/42000357)
 -   Tallos de [*Pinus spp.*](https://tropicos.org/name/40009142) (Pino)
+-   Tallos de [*Polypodium spp.*](https://tropicos.org/name/Search) o cualquier otro helecho ([*Gleicheniaceae*](https://tropicos.org/name/42000397), [*Schizaeaceae*](https://tropicos.org/name/42000410), [*Marsileaceae*](https://tropicos.org/name/42000403))
+-   Tallos de [*Salix humboldtiana*](https://tropicos.org/name/28300168) (Sauce)
+-   Tallos de diferentes plantas
 
 ## Procedimiento
 
@@ -85,6 +94,20 @@ Se ha de realizar un registro detallado de todo lo observado, así como responde
 -   Realice cortes transversales de tallos de Monocotyledoneae y Eudicotyledoneae. Tiña con Safranina y Azul Alcián. Observe e identifique: epidermis, córtex, haces vasculares y médula, además de los tejidos de sostén. ¿Cuál es el tipo de estela? ¿Cuáles son las diferencias y similitudes encontradas entre Monocotyledoneae y Eudicotyledoneae? ¿Qué diferencias y similitudes encuentra con lo observado en raíz con crecimiento primario?
 
 ![Corte trnasversal de tallo en crecimiento primario de Eudicotyledoneae. Tomado de @megíaspacheco2017.](images/tallo_primario_eudicot.png){#fig-tallo-primario-eudicot fig-align="center" width="6in"}
+
+### Tipos de haces vasculares
+
+-   Realice cortes transversales finos de los tallos de *Dracaena sanderiana* o *Cordyline fruticosa* y tiña con Safranina y Azul Alcián. Observe como el xilema rodea totalmente al floema formando un haz **concéntrico perixilemático** o **anfivasal** y como los haces vasculares se disponen por todo el eje del tallo.
+
+-   Realice cortes transversales de los rizomas de *Polypodium spp.* o de cualquier otro helecho. Observe como el floema rodea totalmente al xilema configurando un haz vascular **concéntrico perifloemático** o **anficribal**.
+
+-   Realice cortes transversales del tallo de *Cyperus papyrus* y *Pennisetum purpureum* o cualquier otra Poaceae y tiña con Safranina y Azul Alcián. En este corte aprecie como los haces vasculares se disponen de tal forma que el xilema y el floema forman casquetes que se distribuyen por todo el tallo inmersos en el parénquima. Por lo general, el haz vascular presenta una vaina esclerenquimática en toda la periferia, es carente de cambium y el xilema y el floema son opuestos en el haz, configurando un haz de tipo **colateral cerrado**.
+
+-   Realice cortes transversales de tallos de *Aristolochia ringens*, tiña con Safranina y Azul Alcián. Observe como el xilema y el floema en tejidos jóvenes forman casquetes que se distribuyen de forma radial en el tallo; por lo general, el xilema y el floema son opuesto y entre estos se localiza el cambium vascular, no presentan vaina esclerenquimática y por madurez y desarrollo los casquetes vasculares se pueden fusionar formando anillos continuos de xilema-cambium-floema. Esta configuración es denominada haz **colateral abierto**.
+
+-   Realice cortes transversales del tallo de *Cucurbita máxima* y tiña con Safranina y Azul Alcián. Observe como los haces vasculares forman casquetes que se distribuyen de forma casi radial en el tallo. Estos haces están constituidos, por cambium, xilema y floema, pero el floema forma dos casquetes en la periferia del haz (hacia adentro y afuera del tallo) en tanto que el xilema se localiza en el centro. Este haz se denomina **bicolateral**.
+
+![Disposición del haz vascular de *Lycopodiella sp.*. fl: floema, xi: xilema.](images/vascular_lycopodiella_100x.png){#fig-vascular-lycopodiella fig-align="center" width="6in"}
 
 ### Anatomía del tallo en crecimiento secundario
 
