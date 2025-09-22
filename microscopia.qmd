@@ -2,11 +2,44 @@
 
 ## Introducción
 
-El **microscopio** es un instrumento óptico que mediante un sistema de lentes, produce una imagen aumentada de los objetos. Siendo una de las herramientas más importantes en el desarrollo de la ciencia, especialmente en la biología. La invención del microscopio data del siglo XVI. Existen muchos tipos de microscopio y diversas formas de clasificaros, pudiéndose clasificar de acuerdo al sistema de iluminación, el número de lentes, el número de oculares, por cómo se transmite la luz, entre otros. Entre los tipos más frecuentes encontramos los microscopios ópticos, electrónicos, fluorescencia, de luz ultravioleta y polarizada.
+El **microscopio** es un instrumento óptico que mediante un sistema de lentes,
+produce una imagen aumentada de los objetos. Siendo una de las herramientas más
+importantes en el desarrollo de la ciencia, especialmente en la biología. La
+invención del microscopio data del siglo XVI. Existen muchos tipos de
+microscopio y diversas formas de clasificaros, pudiéndose clasificar de acuerdo
+al sistema de iluminación, el número de lentes, el número de oculares, por cómo
+se transmite la luz, entre otros. Entre los tipos más frecuentes encontramos los
+microscopios ópticos, electrónicos, fluorescencia, de luz ultravioleta y
+polarizada.
 
-El **microscopio óptico** es el más habitual, y el que se usará en el desarrollo de las prácticas (@fig-partes-microscopio), en este la muestra es iluminada mediante luz visible, generada por un foco de luz, que atraviesa la muestra, el objetivos y el ocular, hasta formar la imagen en el ojo del observador o en un pantalla.
+El **microscopio óptico** es el más habitual, y el que se usará en el desarrollo
+de las prácticas (@fig-partes-microscopio), en este la muestra es iluminada
+mediante luz visible, generada por un foco de luz, que atraviesa la muestra, el
+objetivos y el ocular, hasta formar la imagen en el ojo del observador o en un
+pantalla.
 
-![Partes del microscopio compuesto binocular](images/partes_microscopio.png){#fig-partes-microscopio fig-aling="center" width="60%"}
+![Partes del microscopio compuesto
+binocular](images/partes_microscopio.png){#fig-partes-microscopio
+fig-aling="center" width="60%"}
+
+El **poder de resolución** es la capacidad que tiene un instrumento óptico para
+diferenciar dos puntos que a simple vista parecen uno. Los microscopios ópticos
+tienen un poder de resolución de 0.2 µm. El poder de resolución depende longitud
+de onda de la luz con la cual se observa.
+
+El **poder de aumento** es la capacidad que posee un instrumento óptico para
+producir una imagen aumentada. El poder de aumento depende, entre otros
+factores, de la forma en que se combinen las lentes, ya que una imagen, a su
+vez, tambié n puede ser aumentada por una lente. Por lo cual, en un miscroscopio
+óptico, el aumento total se calcula multiplicando la magnificación que produce
+el objetivo por la que produce el ocular. No se debe de confundir el poder de
+aumento con el poder de resolución. Por más que se pueda aumentar una imagen, no
+se puede aumentar la resolución de esta.
+
+El **campo visual** es el área circular que se observa al mirar por los oculares
+y varía según las lentes utilizadas. En un microscopio compuesto, el diámetro
+del campo visual está definido como $d = 18L/{A_{ob}}$, relación que viene dada
+en milímetros y $A_{ob}$ son los aumentos del objetivo.
 
 ## Objetivo
 
@@ -39,29 +72,108 @@ El **microscopio óptico** es el más habitual, y el que se usará en el desarro
 
 -   Hilos de colores
 -   Hojas de [*Ficus elastica*](https://tropicos.org/name/21302161) (Caucho)
--   Hojas y tallos de [*Tradescantia pallida*](https://tropicos.org/name/8300409) (Guardaparque)
--   Letras impresas
+-   Hojas y tallos de [*Tradescantia
+    pallida*](https://tropicos.org/name/8300409) (Guardaparque)
+-   Letras impresas (evitar a, l, i, j, o)
 -   Papel milimetrado
--   Ramas con flores de [*Hemerocallis spp.*](https://tropicos.org/name/40023307) (Lirio)
+-   Ramas con flores de [*Hemerocallis
+    spp.*](https://tropicos.org/name/40023307) (Lirio)
 -   Ramas de [*Egeria densa*](https://tropicos.org/name/16100033) (Elodea)
 -   Tallos de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
 
 ## Procedimiento
 
-Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
+Se ha de realizar un registro detallado de todo lo observado, así como responder
+las preguntas orientadoras. No olvide revisar la guía. El no conocer el material
+vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la
+red, para observación de fotografías y nombres oficiales de las plantas en
+páginas especializadas. Muchos ejemplares solicitados para el laboratorio se
+encuentran en el campus universitario, en parques y jardines de la ciudad y/o en
+herboristerías, supermercados y viveros.
 
 ### Las partes del microscopio compuesto
 
--   Teniendo en cuenta la @fig-partes-microscopio, observe e identifique cada una de las partes en el microscopio proporcionado.
+-   Teniendo en cuenta la @fig-partes-microscopio, observe, identifique y busque
+    en Internet la descripción y el funcionamiento de cada una de las partes en
+    el microscopio proporcionado.
 
-### Preparación de la muestra
+### Preparación y observación de un montaje en fresco
 
--   Tome un portaobjetos limpio y seco, agregue una gota de agua en el centro de éste, ponga en ella un hilo de color. Apoye un cubreobjetos en un angulo de 45 grados respecto al portaobjetos y déjelo caer lentamente (se puede ayudar de un lápiz o pinzas), procurando evitar la formación de burbujas que dificultarián la observación al miscroscopio.
+-   Tome un portaobjetos limpio y seco, agregue una gota de agua en el centro de
+    éste, ponga en ella un hilo de color. Apoye un cubreobjetos en un angulo de
+    45 grados respecto al portaobjetos y déjelo caer lentamente (se puede ayudar
+    de un lápiz o pinzas), procurando evitar la formación de burbujas que
+    dificultarían la observación al microscopio (@fig-montaje-fresco).
+-   El éxito de las observaciones al microscopio, depende del correcto
+    funcionamiento. Sobre la platina, ponga la placa con el hilom fijela a ella
+    utilizando las pinzas que tiene el miscroscopio. Centre la muestra en el
+    orificio de la platina.
+-   Coloque el objetivo de 4X en posición de observación. Abra lentamente el
+    diafragma del condensador hasta obtener una iluminación homogénea del campo
+    visual.
+-   Suba la platina al punto más alto utilizando la perilla macrométrica, sin
+    forzar el mecanismo. Luego, mirando a través de los oculares, baje la
+    platina suavemente con la perilla macrométrica hasta que aparezca la imagen.
+-   Ajuste la distancia interpupilar moviendo los oculares hasta que se observe
+    un único campo circular. Corrija las diferencias de visión entre ambos ojos
+    mediante el anillo de dioptrías: primero enfoque con el ojo derecho
+    utilizando la perilla micrométrica (manteniendo cubierto el ocular
+    izquierdo), luego repita con el ojo izquierdo, ajustando solo el anillo de
+    dioptrías.
+-   Inicie siempre las observaciones con el objetivo de menor aumento (4X),
+    centrando la muestra en el campo visual. Una vez enfocada, gire el revólver
+    para colocar el objetivo de 10X. Realice el enfoque fino con la perilla
+    micrométrica y, si es necesario, ajuste la iluminación.
+-   Repita el procedimiento con el objetivo de 40X, cuidando de no mover la
+    preparación. Dibuje y compare las imágenes obtenidas con los diferentes
+    objetivos.
+-   ¿Qué relación existe entre el tamaño de las imágenes obtenidas con
+    diferentes objetivos? ¿Cómo cambia el campo visual y la cantidad de detalles
+    observados?
+-   Repita el procedimiento con cabello, granos de polen o cualquier parte de
+    una planta.
 
-### Observación de la muestra
+![Preparación de una muestra en
+fresco.](images/montaje_fresco.png){#fig-montaje-fresco}
 
-### Poder de resolución
+### Características de la imagen
 
-### Campo visual
+-   Prepare un montaje en fresco utilizando una letra asimétrica (evite las
+    letras o, x, s y las mayúsculas I, H, N, Z). Observe con el objetivo de 4X.
+    ¿Cómo se proyecta la imagen en comparación con la posición original de la
+    letra en el portaobjetos?
+-   Enfoque la misma preparación con el objetivo de 10X. ¿Qué proporción de la
+    letra se aprecia en relación con lo observado con el objetivo de 4X? ¿Con
+    cuál de los tres objetivos (4X, 10X y 40X) ve un área más grande de una de
+    esas letras? ¿Con cuál hay mayor poder de resolución?
+-   Desplace el carro portaobjetos hacia la derecha, sin dejar de mirar por los
+    oculares. ¿En qué dirección parece moverse la imagen? Repita el movimiento
+    hacia la izquierda y compare.
+-   Desplace ahora el carro hacia adelante y hacia atrás. ¿En qué dirección se
+    desplaza la imagen en el campo visual?
+-   Repita con un recuadro de papel milimetrado.
 
-### 
+### Montaje botánico
+
+-   Tomar un fragmento de hoja o tallo joven, preferiblemente tierno para
+    facilitar el corte.
+-   Con una cuchilla, realizar cortes transversales muy finos y uniformes
+    (@fig-tipos-cortes), evitando comprimir el tejido. Hacer varios cortes para
+    asegurar algunos de buena calidad.
+-   Transferir los cortes más finos a una gota de agua en un portaobjetos.
+-   Agregar una gota de safranina durante 30 segundos.
+-   Retirar el exceso de colorante con un trozo de papel absorbente.
+-   Lavar suavemente con agua hasta eliminar el exceso de colorante. Para evitar
+    el uso de gran cantidad de agua, absorber con un trozo de papel absorbente.
+-   Agregar una gota de Azul de Alcian durante 1–2 minutos.
+-   Lavar nuevamente con agua para eliminar el exceso de colorante y retirar el
+    agua con un trozo de papel absorbente.
+-   Montar el corte en agua o en glicerina al 50 % y cubrir con un cubreobjetos.
+-   Como alternativa de tinción, se puede emplear Azul de Toluidina. Para ello,
+    agregar una gota del colorante sobre un montaje fresco sin teñir. Dejar
+    actuar entre 30 y 90 segundos, lavar con agua para eliminar el exceso y
+    retirar el agua con un trozo de papel absorbente. Montar en agua o glicerina
+    al 50 % y cubrir con un cubreobjetos.
+
+![Tipos de corte en estructuras
+vegetales.](images/tipos_corte_color.png){#fig-tipos-cortes}

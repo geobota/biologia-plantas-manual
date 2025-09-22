@@ -5,9 +5,9 @@ book:
   title: "Biología de las plantas: manual de laboratorio"
   output-file: "bdlp_manual"
   author: 
-    - name: "Fernando Alveiro Alzate-Guarín"
-      email: alveiro.alzate@udea.edu.co
-      orcid: 0000-0002-4916-8897
+    - name: "Álex Espinosa-Correa"
+      email: alex.espinosa@udea.edu.co
+      orcid: 0000-0002-7353-1182
       affiliation:
       - id: udea
         name: |
@@ -22,9 +22,9 @@ book:
       affiliation:
         - ref: udea
       url: https://geobota.github.io/people/cardona-naranjo_felipe-alfonso/
-    - name: "Álex Espinosa-Correa"
-      email: alex.espinosa@udea.edu.co
-      orcid: 0000-0002-7353-1182
+    - name: "Fernando Alveiro Alzate-Guarín"
+      email: alveiro.alzate@udea.edu.co
+      orcid: 0000-0002-4916-8897
       affiliation:
         - ref: udea
       url: https://alexespinosaco.github.io/
@@ -56,6 +56,7 @@ book:
   chapters:
     - index.qmd
     - recorrido.qmd
+    - microscopia.qmd
     - citologia.qmd
     - histologia-I.qmd
     - histologia-II.qmd
