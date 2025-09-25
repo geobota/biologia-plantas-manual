@@ -72,6 +72,8 @@ en milímetros y $A_{ob}$ son los aumentos del objetivo.
 
 -   Hilos de colores
 -   Hojas de [*Ficus elastica*](https://tropicos.org/name/21302161) (Caucho)
+-   Hojas y tallos de [*Bidens pilosa*](https://tropicos.org/name/2700301)
+    (cadillo)
 -   Hojas y tallos de [*Tradescantia
     pallida*](https://tropicos.org/name/8300409) (Guardaparque)
 -   Letras impresas (evitar a, l, i, j, o)
