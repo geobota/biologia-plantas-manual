@@ -2,47 +2,125 @@
 
 ## Introducción
 
-![La Monocotyledoneae más alta del mundo, *Ceroxylon quindiuense* en el valle de Cocora , Colombia. Tomado de Diegotorquemada ([2008](https://commons.wikimedia.org/wiki/File:Ceroxylon_quindiuense_cocora.jpg)).](images/ceroxylon_quindiuense.jpg){#fig-ceroxylon fig-align="center" width="6in"}
+![La Monocotyledoneae más alta del mundo, *Ceroxylon quindiuense* en el valle de
+Cocora , Colombia. Tomado de Diegotorquemada
+([2008](https://commons.wikimedia.org/wiki/File:Ceroxylon_quindiuense_cocora.jpg)).](images/ceroxylon_quindiuense.jpg){#fig-ceroxylon
+fig-align="center" width="6in"}
 
-En Tracheophyta, el **vástago** tiene su origen en el embrión y está constituido por el tallo, las hojas y las yemas (vegetativas y reproductivas). Todas las células y tejidos primarios del vástago se desarrollan del **meristema apical**. Estructuralmente, el **tallo** es más complejo que la raíz y está formado por unidades modulares denominadas **fitómeros**, nombre dado al conjunto de nudo, entrenudo y yema axilar o lateral.
+En Tracheophyta, el **vástago** tiene su origen en el embrión y está constituido
+por el tallo, las hojas y las yemas (vegetativas y reproductivas). Todas las
+células y tejidos primarios del vástago se desarrollan del **meristema apical**.
+Estructuralmente, el **tallo** es más complejo que la raíz y está formado por
+unidades modulares denominadas **fitómeros**, nombre dado al conjunto de nudo,
+entrenudo y yema axilar o lateral.
 
-![Partes del vastago. Tomado de @evert2013.](images/vastago.png){#fig-vastago fig-align="center" width="6in"}
+![Partes del vastago. Tomado de
+@evert2013.](images/vastago.png){#fig-vastago fig-align="center"
+width="6in"}
 
-Generalmente, el tallo es un **eje aéreo** con gravitropismo negativo, cuyas principales funciones son el soporte; la conducción de agua, minerales y fotosintatos; y en menor medida el almacenamiento de sustancias y la fotosíntesis. A lo largo de la historia evolutiva, han surgido diferentes modificaciones del tallo que representan adaptaciones especificas. Algunos **tallos modificados** están especializados en la reproducción vegetativa, como el **estolón** que es superficial y crece horizontalmente, o en la dispersión, como el **rizoma** que es subterráneo y crece horizontalmente. Algunos tallos modificados son almacenadores, como el **tubérculo** (tallo subterraneo y engrosado que tiene yemas axilares), el **bulbo** (tallo corto rodeado de una gran cantidad de hojas gruesas y carnosas) y el **cormo** (tallo globoso rodeado de escasas hojas en forma de escamas. Otro tallos modificados son el **cladodio** o **cladófilo** (tallo fotosintetico parecido a hojas) y algunos **zarcillos** (rama larga, delgada y enrollada, adaptada para trepa).
+Generalmente, el tallo es un **eje aéreo** con gravitropismo negativo, cuyas
+principales funciones son el soporte; la conducción de agua, minerales y
+fotosintatos; y en menor medida el almacenamiento de sustancias y la
+fotosíntesis. A lo largo de la historia evolutiva, han surgido diferentes
+modificaciones del tallo que representan adaptaciones especificas. Algunos
+**tallos modificados** están especializados en la reproducción vegetativa, como
+el **estolón** que es superficial y crece horizontalmente, o en la dispersión,
+como el **rizoma** que es subterráneo y crece horizontalmente. Algunos tallos
+modificados son almacenadores, como el **tubérculo** (tallo subterraneo y
+engrosado que tiene yemas axilares), el **bulbo** (tallo corto rodeado de una
+gran cantidad de hojas gruesas y carnosas) y el **cormo** (tallo globoso rodeado
+de escasas hojas en forma de escamas. Otro tallos modificados son el
+**cladodio** o **cladófilo** (tallo fotosintetico parecido a hojas) y algunos
+**zarcillos** (rama larga, delgada y enrollada, adaptada para trepa).
 
-![Tipos de tallo. Tomado de @simpson2019.](images/tallo_tipos.png){#fig-tallo-tipos fig-align="center" width="6in"}
+![Tipos de tallo. Tomado de
+@simpson2019.](images/tallo_tipos.png){#fig-tallo-tipos fig-align="center"
+width="6in"}
 
-Todos los tallos tienen **crecimiento primario**, el cual consiste en un crecimiento en longitud y grosos que depende de los meristemas apicales e intercalares. En corte transversal podemos encontrar las regiones de la epidermis, el córtex o corteza, y el cilindro central. La **epidermis** suele estar constituida por una sola capa celular. El **córtex** está conformado principalmente por parénquima, también encontrandose esclerénquima y colénquima. En el **cilindro central** encontramos los tejidos conductores (xilema y floema), cuya disposición espacial se denomina estela. La **estela** puede ser de dos tipos: protoestela y sifonostela. En la **protoestela** los haces vasculares forman un cilindro continuo, mientras que la **sifonostela** se caracteriza por la presencia de una médula y los haces vasculares pueden formas un cilindro continuo o paquetes discretos @fig-vascular-organizacion.
+Todos los tallos tienen **crecimiento primario**, el cual consiste en un
+crecimiento en longitud y grosos que depende de los meristemas apicales e
+intercalares. En corte transversal podemos encontrar las regiones de la
+epidermis, el córtex o corteza, y el cilindro central. La **epidermis** suele
+estar constituida por una sola capa celular. El **córtex** está conformado
+principalmente por parénquima, también encontrandose esclerénquima y colénquima.
+En el **cilindro central** encontramos los tejidos conductores (xilema y
+floema), cuya disposición espacial se denomina estela. La **estela** puede ser
+de dos tipos: protoestela y sifonostela. En la **protoestela** los haces
+vasculares forman un cilindro continuo, mientras que la **sifonostela** se
+caracteriza por la presencia de una médula y los haces vasculares pueden formas
+un cilindro continuo o paquetes discretos @fig-vascular-organizacion.
 
-![Comparación entre tallos en crecimiento primario de Gymnospermae, Eudicotyledoneae y Monocotyledoneae.Tomado de @nabors2006.](images/tallo_primario_comparacion.png){#fig-tallo-comparacion fig-align="center" width="6in"}
+![Comparación entre tallos en crecimiento primario de Gymnospermae,
+Eudicotyledoneae y Monocotyledoneae.Tomado de
+@nabors2006.](images/tallo_primario_comparacion.png){#fig-tallo-comparacion
+fig-align="center" width="6in"}
 
-La forma como se relacionan los elementos del haz vascular, es decir, el xilema, floema y el cambium, si está presente, se conoce con el nombre de haz vascular. Estos haces vasculares pueden ser: **anfivasal** o **perixilemático**, **anficribal** o **perifloemático**, **bicolateral**, **colateral abierto** y **colateral cerrado**.
+La forma como se relacionan los elementos del haz vascular, es decir, el xilema,
+floema y el cambium, si está presente, se conoce con el nombre de haz vascular.
+Estos haces vasculares pueden ser: **anfivasal** o **perixilemático**,
+**anficribal** o **perifloemático**, **bicolateral**, **colateral abierto** y
+**colateral cerrado**.
 
-![Diposición y patrón de los haces vasculares. Tomado de @megíaspacheco2017](images/vascular_organizacion.png){#fig-vascular-organizacion fig-align="center" width="6in"}
+![Diposición y patrón de los haces vasculares. Tomado de
+@megíaspacheco2017](images/vascular_organizacion.png){#fig-vascular-organizacion
+fig-align="center" width="6in"}
 
-El **crecimiento secundario** en las plantas leñosas se inicia con la formación de **cambium vascular** y cambium suberoso o **felógeno**. Este proceso permite un aumento en el diámetro del tallo y su soporte, lo que permite que estas plantas vivan por muchos años. Este tipo de crecimiento se presenta en Gimnospermas, Eudicotiledóneas leñosas y algunas Eudicotiledóneas herbáceas, como el girasol. En muy pocas Monocotiledóneas, como Arecaceae, también se presenta un tipo de crecimiento secundario llamado **crecimiento secundario anómalo**, pero este tiene un origen diferente al de las otras plantas leñosas.
+El **crecimiento secundario** en las plantas leñosas se inicia con la formación
+de **cambium vascular** y cambium suberoso o **felógeno**. Este proceso permite
+un aumento en el diámetro del tallo y su soporte, lo que permite que estas
+plantas vivan por muchos años. Este tipo de crecimiento se presenta en
+Gimnospermas, Eudicotiledóneas leñosas y algunas Eudicotiledóneas herbáceas,
+como el girasol. En muy pocas Monocotiledóneas, como Arecaceae, también se
+presenta un tipo de crecimiento secundario llamado **crecimiento secundario
+anómalo**, pero este tiene un origen diferente al de las otras plantas leñosas.
 
-![Desarrollo y crecimiento secundario de un tallo. Tomado de @evert2006.](images/tallo_crecimiento.png){#fig-tallo-crecimiento fig-align="center" width="358"}
+![Desarrollo y crecimiento secundario de un tallo. Tomado de
+@evert2006.](images/tallo_crecimiento.png){#fig-tallo-crecimiento
+fig-align="center" width="358"}
 
-En un corte transversal de un tallo con crecimiento secundario, los tejidos que se observan varían según su grado de desarrollo. En tallos no muy maduros, es posible encontrar restos de epidermis, peridermis (súber, felógeno y felodermis), córtex, floema primario y secundario, cambium vascular, xilema primario y secundario y médula. A medida que el tallo madura, muchos de los tejidos primarios desaparecen.
+En un corte transversal de un tallo con crecimiento secundario, los tejidos que
+se observan varían según su grado de desarrollo. En tallos no muy maduros, es
+posible encontrar restos de epidermis, peridermis (súber, felógeno y
+felodermis), córtex, floema primario y secundario, cambium vascular, xilema
+primario y secundario y médula. A medida que el tallo madura, muchos de los
+tejidos primarios desaparecen.
 
-![Corte transversal de un tallo con crecimiento secundario. Tomado de @evert2006.](images/tallo_secundario.png){#fig-tallo-secundario fig-align="center" width="6in"}
+![Corte transversal de un tallo con crecimiento secundario. Tomado de
+@evert2006.](images/tallo_secundario.png){#fig-tallo-secundario
+fig-align="center" width="6in"}
 
-El xilema secundario conforma la mayor parte de la **madera** y los *anillos de crecimiento*. La madera se puede clasificar en dos tipos: la albura y el duramen. La **albura** es la madera más reciente y conductora de la savia, mientras que el **duramen** es la madera más antigua y no conductora. La proporción de albura y duramen en el tronco de un árbol varía según la especie, la edad y el entorno en el que se desarrolla.
+El xilema secundario conforma la mayor parte de la **madera** y los *anillos de
+crecimiento*. La madera se puede clasificar en dos tipos: la albura y el
+duramen. La **albura** es la madera más reciente y conductora de la savia,
+mientras que el **duramen** es la madera más antigua y no conductora. La
+proporción de albura y duramen en el tronco de un árbol varía según la especie,
+la edad y el entorno en el que se desarrolla.
 
-![Corte transversal de madera. Tomado de @evert2006.](images/tallo_madera.png){#fig-tallo-madera fig-align="center" width="6in"}
+![Corte transversal de madera. Tomado de
+@evert2006.](images/tallo_madera.png){#fig-tallo-madera fig-align="center"
+width="6in"}
 
-En una sección radial de tallos con crecimiento secundario, los **anillos de crecimiento** aparecen como líneas más o menos paralelas y los **radios del xilema** como líneas que corren perpendicularmente a ellas. En la sección tangencial, los radios del xilema aparecen agrupados en forma de lentes. En la sección transversal, los elementos del xilema y del floema se observan como poros de diferentes diámetros según el elemento al que corresponden.
+En una sección radial de tallos con crecimiento secundario, los **anillos de
+crecimiento** aparecen como líneas más o menos paralelas y los **radios del
+xilema** como líneas que corren perpendicularmente a ellas. En la sección
+tangencial, los radios del xilema aparecen agrupados en forma de lentes. En la
+sección transversal, los elementos del xilema y del floema se observan como
+poros de diferentes diámetros según el elemento al que corresponden.
 
 ## Objetivo
 
--   Explicar el desarrollo ontogenético del crecimiento primario y secundario del tallo.
+-   Explicar el desarrollo ontogenético del crecimiento primario y secundario
+    del tallo.
 
--   Diferenciar el tejido primario del tejido secundario en los tallos de diferentes plantas.
+-   Diferenciar el tejido primario del tejido secundario en los tallos de
+    diferentes plantas.
 
--   Interpretar las adaptaciones del tallo leñoso para la vida en tierra firme de la planta.
+-   Interpretar las adaptaciones del tallo leñoso para la vida en tierra firme
+    de la planta.
 
--   Diferenciar e interpretar las adaptaciones de un crecimiento secundario anómalo del tallo, que difiere del patrón general de crecimiento secundario en los tallos leñosos.
+-   Diferenciar e interpretar las adaptaciones de un crecimiento secundario
+    anómalo del tallo, que difiere del patrón general de crecimiento secundario
+    en los tallos leñosos.
 
 ## Materiales
 
@@ -67,63 +145,151 @@ En una sección radial de tallos con crecimiento secundario, los **anillos de cr
 -   Placas permanentes con cortes del tallo
 -   Placas permanentes con macerados de xilema
 -   Tallos de [*Aristolochia ringens*](https://tropicos.org/name/2500164)
--   Tallos de [*Cucurbita máxima*](https://tropicos.org/name/50172465) (Auyama o Zapallo)
+-   Tallos de [*Cucurbita máxima*](https://tropicos.org/name/50172465) (Auyama o
+    Zapallo)
 -   Tallos de [*Cupressus spp.*](https://tropicos.org/name/40018366) (Ciprés)
 -   Tallos de [*Cyperus papyrus*](https://tropicos.org/name/9902745) (Papiro)
--   Tallos de [*Dracaena sanderiana*](https://tropicos.org/name/18404764) (Bambú de la Suerte) o [*Cordyline fruticosa*](https://tropicos.org/name/18401647) (Banderilla)
--   Tallos de [*Pennisetum purpureum*](https://tropicos.org/name/25509854) (Pasto de Elefante) o cualquier otra [Poaceae](https://tropicos.org/name/42000357)
+-   Tallos de [*Dracaena sanderiana*](https://tropicos.org/name/18404764) (Bambú
+    de la Suerte) o [*Cordyline fruticosa*](https://tropicos.org/name/18401647)
+    (Banderilla)
+-   Tallos de [*Lycopodium clavatum*](https://tropicos.org/name/26600197)
+    (Colchón de Pobre)
+-   Tallos de [*Pennisetum purpureum*](https://tropicos.org/name/25509854)
+    (Pasto de Elefante) o cualquier otra
+    [Poaceae](https://tropicos.org/name/42000357)
 -   Tallos de [*Pinus spp.*](https://tropicos.org/name/40009142) (Pino)
--   Tallos de [*Polypodium spp.*](https://tropicos.org/name/Search) o cualquier otro helecho ([*Gleicheniaceae*](https://tropicos.org/name/42000397), [*Schizaeaceae*](https://tropicos.org/name/42000410), [*Marsileaceae*](https://tropicos.org/name/42000403))
+-   Tallos de [*Polypodium spp.*](https://tropicos.org/name/Search) o cualquier
+    otro helecho ([*Gleicheniaceae*](https://tropicos.org/name/42000397),
+    [*Schizaeaceae*](https://tropicos.org/name/42000410),
+    [*Marsileaceae*](https://tropicos.org/name/42000403))
 -   Tallos de [*Salix humboldtiana*](https://tropicos.org/name/28300168) (Sauce)
 -   Tallos de diferentes plantas
 
 ## Procedimiento
 
-Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
+Se ha de realizar un registro detallado de todo lo observado, así como responder
+las preguntas orientadoras. No olvide revisar la guía. El no conocer el material
+vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la
+red, para observación de fotografías y nombres oficiales de las plantas en
+páginas especializadas. Muchos ejemplares solicitados para el laboratorio se
+encuentran en el campus universitario, en parques y jardines de la ciudad y/o en
+herboristerías, supermercados y viveros.
 
 ### Morfología del tallo
 
--   Tome diferentes especímenes, observe e identifique: vástago, tallo, fitómeros, nudos, entrenudos y yemas axilares.
+-   Tome diferentes especímenes, observe e identifique: vástago, tallo,
+    fitómeros, nudos, entrenudos y yemas axilares.
 
 ### Tallos modificados
 
--   Tome cada uno de los diferentes especímenes con tallos modificados, observe e identifique si es un rizoma, estolón, tubérculo, bulbo, cladófilo o cormo. ¿Cuáles características permiten diferenciarlos?
+-   Tome cada uno de los diferentes especímenes con tallos modificados, observe
+    e identifique si es un rizoma, estolón, tubérculo, bulbo, cladófilo o cormo.
+    ¿Cuáles características permiten diferenciarlos?
 
 ### Anatomía del tallo en crecimiento primario
 
--   Realice cortes transversales de tallos de Monocotyledoneae y Eudicotyledoneae. Tiña con Safranina y Azul Alcián. Observe e identifique: epidermis, córtex, haces vasculares y médula, además de los tejidos de sostén. ¿Cuál es el tipo de estela? ¿Cuáles son las diferencias y similitudes encontradas entre Monocotyledoneae y Eudicotyledoneae? ¿Qué diferencias y similitudes encuentra con lo observado en raíz con crecimiento primario?
+-   Realice cortes transversales de tallos de Monocotyledoneae y
+    Eudicotyledoneae. Tiña con Safranina y Azul Alcián. Observe e identifique:
+    epidermis, córtex, haces vasculares y médula, además de los tejidos de
+    sostén. ¿Cuál es el tipo de estela? ¿Cuáles son las diferencias y
+    similitudes encontradas entre Monocotyledoneae y Eudicotyledoneae? ¿Qué
+    diferencias y similitudes encuentra con lo observado en raíz con crecimiento
+    primario?
 
-![Corte trnasversal de tallo en crecimiento primario de Eudicotyledoneae. Tomado de @megíaspacheco2017.](images/tallo_primario_eudicot.png){#fig-tallo-primario-eudicot fig-align="center" width="6in"}
+![Corte trnasversal de tallo en crecimiento primario de Eudicotyledoneae. Tomado
+de
+@megíaspacheco2017.](images/tallo_primario_eudicot.png){#fig-tallo-primario-eudicot
+fig-align="center" width="6in"}
 
 ### Tipos de haces vasculares
 
--   Realice cortes transversales finos de los tallos de *Dracaena sanderiana* o *Cordyline fruticosa* y tiña con Safranina y Azul Alcián. Observe como el xilema rodea totalmente al floema formando un haz **concéntrico perixilemático** o **anfivasal** y como los haces vasculares se disponen por todo el eje del tallo.
+-   Realice cortes transversales finos de los tallos de *Dracaena sanderiana* o
+    *Cordyline fruticosa* y tiña con Safranina y Azul Alcián. Observe como el
+    xilema rodea totalmente al floema formando un haz **concéntrico
+    perixilemático** o **anfivasal** y como los haces vasculares se disponen por
+    todo el eje del tallo.
 
--   Realice cortes transversales de los rizomas de *Polypodium spp.* o de cualquier otro helecho. Observe como el floema rodea totalmente al xilema configurando un haz vascular **concéntrico perifloemático** o **anficribal**.
+-   Realice cortes transversales de los rizomas de *Polypodium spp.* o de
+    cualquier otro helecho. Observe como el floema rodea totalmente al xilema
+    configurando un haz vascular **concéntrico perifloemático** o
+    **anficribal**.
 
--   Realice cortes transversales del tallo de *Cyperus papyrus* y *Pennisetum purpureum* o cualquier otra Poaceae y tiña con Safranina y Azul Alcián. En este corte aprecie como los haces vasculares se disponen de tal forma que el xilema y el floema forman casquetes que se distribuyen por todo el tallo inmersos en el parénquima. Por lo general, el haz vascular presenta una vaina esclerenquimática en toda la periferia, es carente de cambium y el xilema y el floema son opuestos en el haz, configurando un haz de tipo **colateral cerrado**.
+-   Realice cortes transversales del tallo de *Cyperus papyrus* y *Pennisetum
+    purpureum* o cualquier otra Poaceae y tiña con Safranina y Azul Alcián. En
+    este corte aprecie como los haces vasculares se disponen de tal forma que el
+    xilema y el floema forman casquetes que se distribuyen por todo el tallo
+    inmersos en el parénquima. Por lo general, el haz vascular presenta una
+    vaina esclerenquimática en toda la periferia, es carente de cambium y el
+    xilema y el floema son opuestos en el haz, configurando un haz de tipo
+    **colateral cerrado**.
 
--   Realice cortes transversales de tallos de *Aristolochia ringens*, tiña con Safranina y Azul Alcián. Observe como el xilema y el floema en tejidos jóvenes forman casquetes que se distribuyen de forma radial en el tallo; por lo general, el xilema y el floema son opuesto y entre estos se localiza el cambium vascular, no presentan vaina esclerenquimática y por madurez y desarrollo los casquetes vasculares se pueden fusionar formando anillos continuos de xilema-cambium-floema. Esta configuración es denominada haz **colateral abierto**.
+-   Realice cortes transversales de tallos de *Aristolochia ringens*, tiña con
+    Safranina y Azul Alcián. Observe como el xilema y el floema en tejidos
+    jóvenes forman casquetes que se distribuyen de forma radial en el tallo; por
+    lo general, el xilema y el floema son opuesto y entre estos se localiza el
+    cambium vascular, no presentan vaina esclerenquimática y por madurez y
+    desarrollo los casquetes vasculares se pueden fusionar formando anillos
+    continuos de xilema-cambium-floema. Esta configuración es denominada haz
+    **colateral abierto**.
 
--   Realice cortes transversales del tallo de *Cucurbita máxima* y tiña con Safranina y Azul Alcián. Observe como los haces vasculares forman casquetes que se distribuyen de forma casi radial en el tallo. Estos haces están constituidos, por cambium, xilema y floema, pero el floema forma dos casquetes en la periferia del haz (hacia adentro y afuera del tallo) en tanto que el xilema se localiza en el centro. Este haz se denomina **bicolateral**.
+-   Realice cortes transversales del tallo de *Cucurbita máxima* y tiña con
+    Safranina y Azul Alcián. Observe como los haces vasculares forman casquetes
+    que se distribuyen de forma casi radial en el tallo. Estos haces están
+    constituidos, por cambium, xilema y floema, pero el floema forma dos
+    casquetes en la periferia del haz (hacia adentro y afuera del tallo) en
+    tanto que el xilema se localiza en el centro. Este haz se denomina
+    **bicolateral**.
 
-![Disposición del haz vascular de *Lycopodiella sp.*. fl: floema, xi: xilema.](images/vascular_lycopodiella_100x.png){#fig-vascular-lycopodiella fig-align="center" width="6in"}
+![Disposición del haz vascular de *Lycopodiella sp.*. fl: floema, xi:
+xilema.](images/vascular_lycopodiella_100x.png){#fig-vascular-lycopodiella
+fig-align="center" width="6in"}
 
 ### Anatomía del tallo en crecimiento secundario
 
--   Realice cortes transversales de tallos de Gymnospermae y Eudicotyledoneae y cualquier otra planta con crecimiento secundario. Tiña con Safranina y Azul Alcián. Observe e identifique: súber, felógeno, felodermo, parénquima, floema secundario, cambium vascular y xilema secundario. ¿Qué ocurre con la epidermis durante el desarrollo del corcho? ¿De dónde se origina y cuál es la función del felógeno? ¿De cuáles células del cambium vascular se originan xilema y floema secundario? Explique el porqué de la naturaleza impermeabilizante del corcho.
+-   Realice cortes transversales de tallos de Gymnospermae y Eudicotyledoneae y
+    cualquier otra planta con crecimiento secundario. Tiña con Safranina y Azul
+    Alcián. Observe e identifique: súber, felógeno, felodermo, parénquima,
+    floema secundario, cambium vascular y xilema secundario. ¿Qué ocurre con la
+    epidermis durante el desarrollo del corcho? ¿De dónde se origina y cuál es
+    la función del felógeno? ¿De cuáles células del cambium vascular se originan
+    xilema y floema secundario? Explique el porqué de la naturaleza
+    impermeabilizante del corcho.
 
-![Corte trnasversal de tallo en crecimiento secundario de Eudicotyledoneae. Tomado de @megíaspacheco2017.](images/tallo_secundario_eudicot.png){#fig-tallo-secundario-eudicot fig-align="center" width="6in"}
+![Corte trnasversal de tallo en crecimiento secundario de Eudicotyledoneae.
+Tomado de
+@megíaspacheco2017.](images/tallo_secundario_eudicot.png){#fig-tallo-secundario-eudicot
+fig-align="center" width="6in"}
 
--   Realice cortes transversales, radiales y tangenciales de tallos de *Cupressus spp.*, *Pinus spp.*, *Salix humboldtiana* y cualquier otra planta con crecimiento secundario. Tiña con Safranina y Azul Alcián. Observe e identifique: los elementos de xilema, rayos del xilema, médula, madera de estación seca, madera de estación lluviosa y canales resiníferos. ¿Cuáles son las diferencias y similitudes encontradas entre Gymnospermae y Eudicotyledoneae? ¿Qué diferencias y similitudes encuentra con lo observado en raíz con crecimiento primario?
+-   Realice cortes transversales, radiales y tangenciales de tallos de
+    *Cupressus spp.*, *Pinus spp.*, *Salix humboldtiana* y cualquier otra planta
+    con crecimiento secundario. Tiña con Safranina y Azul Alcián. Observe e
+    identifique: los elementos de xilema, rayos del xilema, médula, madera de
+    estación seca, madera de estación lluviosa y canales resiníferos. ¿Cuáles
+    son las diferencias y similitudes encontradas entre Gymnospermae y
+    Eudicotyledoneae? ¿Qué diferencias y similitudes encuentra con lo observado
+    en raíz con crecimiento primario?
 
-![Corte trnasversal de tallo en crecimiento secundario de Gymnospermae. Tomado de @megíaspacheco2017.](images/tallo_secundario_gimno.png){#fig-tallo-secundario-gimno fig-align="center" width="6in"}
-
+![Corte trnasversal de tallo en crecimiento secundario de Gymnospermae. Tomado
+de
+@megíaspacheco2017.](images/tallo_secundario_gimno.png){#fig-tallo-secundario-gimno
+fig-align="center" width="6in"}
 
 ### Estudio macroscópico del tallo en crecimiento secundario
 
--   Tome bloques de madera de tallos de Gymnospermae y Angiospermae. Observe al estereomicroscopio las diferencias entre los cortes transversales, radiales y tangenciales. Identifique: chorcho, cambium del corcho, córtex, floema secundario, región del cambium vascular, xilema secundario, rayos del xilema, médula, canales resiniferos y mucilaginosos. Además, distinga la albura y el duramen, y los anillos de crecimiento.
+-   Tome bloques de madera de tallos de Gymnospermae y Angiospermae. Observe al
+    estereomicroscopio las diferencias entre los cortes transversales, radiales
+    y tangenciales. Identifique: chorcho, cambium del corcho, córtex, floema
+    secundario, región del cambium vascular, xilema secundario, rayos del
+    xilema, médula, canales resiniferos y mucilaginosos. Además, distinga la
+    albura y el duramen, y los anillos de crecimiento.
 
 ### Tallos anómalos
 
--   Realice cortes transversales de tallos de *Aristolochia ringens* y otras plantas trepadoras o bejucos, tiña con Safranina y Azul Alcián. Observe e identifique las diferencias que presentan respecto a los tallos ya observados. Ddetermine las diferentes localizaciones del floema secundario, xilema secundario y médula. ¿A qué se debe el crecimiento anómalo de estos tallos? ¿Qué adaptaciones podrían ser interpretadas para este tipo de crecimiento? Describa la forma adoptada por el xilema secundario en cada tipo de corte suministrado.
+-   Realice cortes transversales de tallos de *Aristolochia ringens* y otras
+    plantas trepadoras o bejucos, tiña con Safranina y Azul Alcián. Observe e
+    identifique las diferencias que presentan respecto a los tallos ya
+    observados. Ddetermine las diferentes localizaciones del floema secundario,
+    xilema secundario y médula. ¿A qué se debe el crecimiento anómalo de estos
+    tallos? ¿Qué adaptaciones podrían ser interpretadas para este tipo de
+    crecimiento? Describa la forma adoptada por el xilema secundario en cada
+    tipo de corte suministrado.
