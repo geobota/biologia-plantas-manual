@@ -38,7 +38,7 @@ de escasas hojas en forma de escamas. Otro tallos modificados son el
 width="6in"}
 
 Todos los tallos tienen **crecimiento primario**, el cual consiste en un
-crecimiento en longitud y grosos que depende de los meristemas apicales e
+crecimiento en longitud y grosor que depende de los meristemas apicales e
 intercalares. En corte transversal podemos encontrar las regiones de la
 epidermis, el córtex o corteza, y el cilindro central. La **epidermis** suele
 estar constituida por una sola capa celular. El **córtex** está conformado
@@ -47,7 +47,7 @@ En el **cilindro central** encontramos los tejidos conductores (xilema y
 floema), cuya disposición espacial se denomina estela. La **estela** puede ser
 de dos tipos: protoestela y sifonostela. En la **protoestela** los haces
 vasculares forman un cilindro continuo, mientras que la **sifonostela** se
-caracteriza por la presencia de una médula y los haces vasculares pueden formas
+caracteriza por la presencia de una médula y los haces vasculares pueden formar
 un cilindro continuo o paquetes discretos @fig-vascular-organizacion.
 
 ![Comparación entre tallos en crecimiento primario de Gymnospermae,
@@ -196,7 +196,7 @@ herboristerías, supermercados y viveros.
     diferencias y similitudes encuentra con lo observado en raíz con crecimiento
     primario?
 
-![Corte trnasversal de tallo en crecimiento primario de Eudicotyledoneae. Tomado
+![Corte transversal de tallo en crecimiento primario de Eudicotyledoneae. Tomado
 de
 @megíaspacheco2017.](images/tallo_primario_eudicot.png){#fig-tallo-primario-eudicot
 fig-align="center" width="6in"}
@@ -255,7 +255,7 @@ fig-align="center" width="6in"}
     xilema y floema secundario? Explique el porqué de la naturaleza
     impermeabilizante del corcho.
 
-![Corte trnasversal de tallo en crecimiento secundario de Eudicotyledoneae.
+![Corte transversal de tallo en crecimiento secundario de Eudicotyledoneae.
 Tomado de
 @megíaspacheco2017.](images/tallo_secundario_eudicot.png){#fig-tallo-secundario-eudicot
 fig-align="center" width="6in"}
@@ -269,7 +269,7 @@ fig-align="center" width="6in"}
     Eudicotyledoneae? ¿Qué diferencias y similitudes encuentra con lo observado
     en raíz con crecimiento primario?
 
-![Corte trnasversal de tallo en crecimiento secundario de Gymnospermae. Tomado
+![Corte transversal de tallo en crecimiento secundario de Gymnospermae. Tomado
 de
 @megíaspacheco2017.](images/tallo_secundario_gimno.png){#fig-tallo-secundario-gimno
 fig-align="center" width="6in"}
@@ -288,7 +288,7 @@ fig-align="center" width="6in"}
 -   Realice cortes transversales de tallos de *Aristolochia ringens* y otras
     plantas trepadoras o bejucos, tiña con Safranina y Azul Alcián. Observe e
     identifique las diferencias que presentan respecto a los tallos ya
-    observados. Ddetermine las diferentes localizaciones del floema secundario,
+    observados. Determine las diferentes localizaciones del floema secundario,
     xilema secundario y médula. ¿A qué se debe el crecimiento anómalo de estos
     tallos? ¿Qué adaptaciones podrían ser interpretadas para este tipo de
     crecimiento? Describa la forma adoptada por el xilema secundario en cada

@@ -1,42 +1,98 @@
 # Fruto y semilla
 
-![Variedad de frutos y semillas. Tomado de Ziegler ([2006](https://commons.wikimedia.org/wiki/File:Forest_fruits_from_Barro_Colorado.png)) y Klepnev ([2015](https://commons.wikimedia.org/wiki/File:Разнообразие_семян.jpg)).](images/frutos_semillas.png){#fig-frutos-semillas fig-align="center" width="6in"}
+![Variedad de frutos y semillas. Tomado de Ziegler
+([2006](https://commons.wikimedia.org/wiki/File:Forest_fruits_from_Barro_Colorado.png))
+y Klepnev
+([2015](https://commons.wikimedia.org/wiki/File:Разнообразие_семян.jpg)).](images/frutos_semillas.png){#fig-frutos-semillas
+fig-align="center" width="6in"}
 
 ## Introducción
 
-La **semilla** es una estructura formada después de la fecundación del **ovulo**. Está conformada por dos partes principales: el embrión y cubierta seminal. El **embrión** es el esporófito inmaduro originado a partir de la fecundación de la oósfera por uno de los núcleos germinativos del polen. La **cubierta seminal** es la capa externa originada a partir de los tegumentos. En Angiospermae, la cubierta seminal se divide en dos capas: testa, la más externa, y el tegmen, la más interna. En las semillas de las Angiospermae también se encuentra el **endospermo**, que se forma a partir de la fecundación de los núcleos polares por el otro de los núcleos germinativos del polen. 
+La **semilla** es una estructura formada después de la fecundación del
+**ovulo**. Está conformada por dos partes principales: el embrión y cubierta
+seminal. El **embrión** es el esporófito inmaduro originado a partir de la
+fecundación de la oósfera por uno de los núcleos germinativos del polen. La
+**cubierta seminal** es la capa externa originada a partir de los tegumentos. En
+Angiospermae, la cubierta seminal se divide en dos capas: testa, la más externa,
+y el tegmen, la más interna. En las semillas de las Angiospermae también se
+encuentra el **endospermo**, que se forma a partir de la fecundación de los
+núcleos polares por el otro de los núcleos germinativos del polen.
 
-![La semilla y sus partes. Tomado de @simpson2019.](images/semilla.png){#fig-semilla fig-align="center" width="6in"}
+![La semilla y sus partes. Tomado de
+@simpson2019.](images/semilla.png){#fig-semilla fig-align="center"
+width="6in"}
 
-Después de la fecundación y con el desarrollo del ovulo en semilla, el ovario o pistilo madura y se convierte en el **fruto**. Durante el desarrollo del fruto, también puede estar implicadas **partes accesorias** como brácteas, ejes florales, perianto, y receptáculo. Además de las semillas, en el fruto encontramos el **pericarpio**, que es la pared del fruto formada a partir de la pared del ovario (los carpelos). El pericarpio se puede dividir en tres capas, de adentro hacia afuera,  **endocarpio**, **mesocarpio** y **exocarpio**. Sin embargo, en algunos frutos estas capas pueden estar fusionadas, lo cual que dificulta distinguirlas.
+Después de la fecundación y con el desarrollo del ovulo en semilla, el ovario o
+pistilo madura y se convierte en el **fruto**. Durante el desarrollo del fruto,
+también puede estar implicadas **partes accesorias** como brácteas, ejes
+florales, perianto, y receptáculo. Además de las semillas, en el fruto
+encontramos el **pericarpio**, que es la pared del fruto formada a partir de la
+pared del ovario (los carpelos). El pericarpio se puede dividir en tres capas,
+de adentro hacia afuera, **endocarpio**, **mesocarpio** y **exocarpio**. Sin
+embargo, en algunos frutos estas capas pueden estar fusionadas, lo cual que
+dificulta distinguirlas.
 
-![Tipos de frutos secos indehiscentes. Tomado de @simpson2019.](images/fruto_seco_indehiscente.jpg){#fig-fruto-seco-indehiscente fig-align="center" width="6in"}
+![Tipos de frutos secos indehiscentes. Tomado de
+@simpson2019.](images/fruto_seco_indehiscente.jpg){#fig-fruto-seco-indehiscente
+fig-align="center" width="6in"}
 
-Los frutos se pueden clasificar según su origen. Los **frutos simples** se origina de un solo pistilo de una flor. Los **frutos agregados** se originan de múltiples pistilos de una única flor. Los **frutos múltiples** se forman por la fusión de varias flores, es decir, derivan de una inflorescencia.
+Los frutos se pueden clasificar según su origen. Los **frutos simples** se
+origina de un solo pistilo de una flor. Los **frutos agregados** se originan de
+múltiples pistilos de una única flor. Los **frutos múltiples** se forman por la
+fusión de varias flores, es decir, derivan de una inflorescencia.
 
-![Tipos de frutos secos dehiscentes. Tomado de @simpson2019.](images/fruto_seco_dehiscente.jpg){#fig-fruto-seco-dehiscente fig-align="center" width="6in"}
+![Tipos de frutos secos dehiscentes. Tomado de
+@simpson2019.](images/fruto_seco_dehiscente.jpg){#fig-fruto-seco-dehiscente
+fig-align="center" width="6in"}
 
-Los frutos simples se se pueden clasificar en base a múltiples criterios: si es carnoso (suculento) o seco, si es dehiscente o indehiscente, el tipo de dehiscencia, el número de carpelos y lóculos, número de semillas u óvulos, el tipo de placentación, la estructura del pericarpio, y la posición del ovario. Una clase de frutos simples carnosos y no dehiscentes son los **frutos carnosos** que incluyen la baya, la drupa, el herperidio, el pepónoide y el pomo. Por otro lado, los **frutos secos indehiscentes** son una clase de frutos simples, secos y que no presentan dehiscencia, y pueden ser el aquenio, el antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el útriculo. Asimismo, existen los **frutos secos dehiscentes**, que son frutos simples, secos y que presentan dehiscencia, como la cápsula, el folículo, la legumbre y la silícua. 
+Los frutos simples se pueden clasificar con base en múltiples criterios: si son
+carnosos (suculentos) o secos, si son dehiscente o indehiscente, el tipo de
+dehiscencia, el número de carpelos y lóculos, el número de semillas u óvulos, el
+tipo de placentación, la estructura del pericarpio, y la posición del ovario.
+Los **frutos carnosos** (carnosos y no dehiscentes) incluyen la baya, la drupa,
+el hesperidio, el pepónide y el pomo. Por otro lado, los **frutos secos
+indehiscentes** son aquellos que no presentan dehiscencia, como el aquenio, el
+antocarpo, la cariopsis, la núcula, la nuez, la sámara, el trima, el utrículo.
+Asimismo, existen los **frutos secos dehiscentes**, como la cápsula, el
+folículo, la legumbre y la silicua.
 
-![Tipos de frutos carnosos. Tomado de @simpson2019.](images/fruto_carnoso.jpg){#fig-fruto-carnoso fig-align="center" width="6in"}
+![Tipos de frutos carnosos. Tomado de
+@simpson2019.](images/fruto_carnoso.jpg){#fig-fruto-carnoso
+fig-align="center" width="6in"}
 
-En frutos agregados o múltiples, se denomina **unidad del fruto** a cada componente derivado de un pistilo individual. Los frutos agregados se indican como "fruto agregado de…" cada unidad del fruto. Así, un **poliaquenio** es un fruto agregado de aquenios. Otros ejemplos de frutos agregados encontramos la **polidrupa**, el **plurifolículo**. Los frutos múltiples se indican como "fruto múltiple de…" cada unida del fruto. Algunos frutos múltiples con nombres propios son el **bur**, el **sicono** y la **sorosis**.
+En frutos agregados o múltiples, se denomina **unidad del fruto** a cada
+componente derivado de un pistilo individual. Los frutos agregados se indican
+como "fruto agregado de…" cada unidad del fruto. Así, un **poliaquenio** es un
+fruto agregado de aquenios. Otros ejemplos de frutos agregados encontramos la
+**polidrupa**, el **plurifolículo**. Los frutos múltiples se indican como "fruto
+múltiple de…" cada unida del fruto. Algunos frutos múltiples con nombres propios
+son el **bur**, el **sicono** y la **sorosis**.
 
-![Tipos de frutos agregados. Tomado de @simpson2019.](images/fruto_agregado.jpg){#fig-fruto-agregados fig-align="center" width="6in"}
+![Tipos de frutos agregados. Tomado de
+@simpson2019.](images/fruto_agregado.jpg){#fig-fruto-agregados
+fig-align="center" width="6in"}
 
-![Tipos de frutos multiples. Tomado de @simpson2019.](images/fruto_multiple.jpg){#fig-fruto-multiples fig-align="center" width="6in"}
+![Tipos de frutos multiples. Tomado de
+@simpson2019.](images/fruto_multiple.jpg){#fig-fruto-multiples
+fig-align="center" width="6in"}
 
 ## Objetivo
 
--   Introducir al estudiante en los aspectos morfológicos, anatómicos y estructurales relacionados con los frutos e infrutescencias encontrados en plantas.
+-   Introducir al estudiante en los aspectos morfológicos, anatómicos y
+    estructurales relacionados con los frutos e infrutescencias encontrados en
+    plantas.
 
--   Adquirir criterios sobre el desarrollo ontogenético del fruto y de la semilla.
+-   Adquirir criterios sobre el desarrollo ontogenético del fruto y de la
+    semilla.
 
--   Caracterizar la diversidad morfológica y anatómica de los frutos simples, agregados y frutos múltiples.
+-   Caracterizar la diversidad morfológica y anatómica de los frutos simples,
+    agregados y frutos múltiples.
 
--   Identifique las estructuras originadas del ovario y aquellas originadas de tejidos accesorios.
+-   Identifique las estructuras originadas del ovario y aquellas originadas de
+    tejidos accesorios.
 
--   Asocie la importancia de los frutos en los procesos de dispersión de semillas.
+-   Asocie la importancia de los frutos en los procesos de dispersión de
+    semillas.
 
 ## Materiales
 
@@ -61,53 +117,86 @@ En frutos agregados o múltiples, se denomina **unidad del fruto** a cada compon
 
 -   Frutos de [*Ananas comosus*](https://tropicos.org/name/4300877) (Piña)
 -   Frutos de [*Carica papaya*](https://tropicos.org/name/6100032) (Papaya)
--   Frutos de [*Citrus × aurantium*](https://tropicos.org/name/50100635) (Naranja)
--   Frutos de [*Coriandrum sativum*](https://tropicos.org/name/1700064) (Cilantro)
--   Frutos de [*Cucumis sativus*](https://tropicos.org/name/9200572) (Pepino cohombro)
+-   Frutos de [*Citrus × aurantium*](https://tropicos.org/name/50100635)
+    (Naranja)
+-   Frutos de [*Coriandrum sativum*](https://tropicos.org/name/1700064)
+    (Cilantro)
+-   Frutos de [*Cucumis sativus*](https://tropicos.org/name/9200572) (Pepino
+    cohombro)
 -   Frutos de [*Ficus carica*](https://tropicos.org/name/21302044) (Breva)
 -   Frutos de [*Fragaria spp.*](https://tropicos.org/name/40010679) (Fresa)
 -   Frutos de [*Fraxinus uhdei*](https://tropicos.org/name/23000317) (Urapán)
 -   Frutos de [*Helianthus annuus*](https://tropicos.org/name/2700851) (Girasol)
 -   Frutos de [*Malus domestica*](https://tropicos.org/name/27804420) (Manzana)
 -   Frutos de [*Mangifera indica*](https://tropicos.org/name/1300071) (Mango)
--   Frutos de [*Musa × paradisiaca*](https://tropicos.org/name/21500456) (Banano)
--   Frutos de [*Persea americana*](https://tropicos.org/name/17801262) (Aguacate)
+-   Frutos de [*Musa × paradisiaca*](https://tropicos.org/name/21500456)
+    (Banano)
+-   Frutos de [*Persea americana*](https://tropicos.org/name/17801262)
+    (Aguacate)
 -   Frutos de [*Pisum sativum*](https://tropicos.org/name/13031856) (Arveja)
 -   Frutos de [*Prunus persica*](https://tropicos.org/name/27801115) (Durazno)
 -   Frutos de [*Pyrus communis*](https://tropicos.org/name/27800339) (Pera)
--   Frutos de [*Quercus humboldtiana*](https://tropicos.org/name/13100165) (Roble)
--   Frutos de [*Ricinus communis*](https://tropicos.org/name/12800093) (Higuerilla)
--   Frutos de [*Rubus glaucus*](https://tropicos.org/name/27801643) (Mora) <!-- posiblemente ya sea Rubus eriocarpus https://tropicos.org/name/27801752 -->
+-   Frutos de [*Quercus humboldtiana*](https://tropicos.org/name/13100165)
+    (Roble)
+-   Frutos de [*Ricinus communis*](https://tropicos.org/name/12800093)
+    (Higuerilla)
+-   Frutos de [*Rubus glaucus*](https://tropicos.org/name/27801643) (Mora)
+    <!-- posiblemente ya sea Rubus eriocarpus https://tropicos.org/name/27801752 -->
 -   Frutos de [*Sinapis alba*](https://tropicos.org/name/4100251) (Mostaza)
--   Frutos de [*Solanum lycopersicum*](https://tropicos.org/name/29605838) (Tomate)
+-   Frutos de [*Solanum lycopersicum*](https://tropicos.org/name/29605838)
+    (Tomate)
 -   Frutos de [*Zea mays*](https://tropicos.org/name/25510055) (Maíz)
 -   Frutos de otras plantas
--   Semillas hidratadas de [*Phaseolus vulgaris*](https://tropicos.org/name/13031753) (Frijol)
--   Semillas hidratadas de [*Zea mays*](https://tropicos.org/name/25510055) (Maíz)
+-   Semillas hidratadas de [*Phaseolus
+    vulgaris*](https://tropicos.org/name/13031753) (Frijol)
+-   Semillas hidratadas de [*Zea mays*](https://tropicos.org/name/25510055)
+    (Maíz)
 -   Semillas hidratadas de otras plantas
 
 ## Procedimiento
 
-Se ha de realizar un registro detallado de todo lo observado, así como responder las preguntas orientadoras. No olvide revisar la guía. El no conocer el material vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la red, para observación de fotografías y nombres oficiales de las plantas en páginas especializadas. Muchos ejemplares solicitados para el laboratorio se encuentran en el campus universitario, en parques y jardines de la ciudad y/o en herboristerías, supermercados y viveros.
+Se ha de realizar un registro detallado de todo lo observado, así como responder
+las preguntas orientadoras. No olvide revisar la guía. El no conocer el material
+vegetal, no es una excusa válida para no llevarlo al laboratorio. Revise en la
+red, para observación de fotografías y nombres oficiales de las plantas en
+páginas especializadas. Muchos ejemplares solicitados para el laboratorio se
+encuentran en el campus universitario, en parques y jardines de la ciudad y/o en
+herboristerías, supermercados y viveros.
 
 ### Reconocimiento de frutos simples
 
--   Tome cada uno de los frutos simples, realice observaciones comparativas y determine el tipo de fruto simple. 
+-   Tome cada uno de los frutos simples, realice observaciones comparativas y
+    determine el tipo de fruto simple.
 
--  Realice cortes transversales y longitudinales de cada fruto de los frutos simples. Observe e identifique: el número de carpelos y de lóculos, el pericarpio y las semillas.
+-   Realice cortes transversales y longitudinales de cada fruto de los frutos
+    simples. Observe e identifique: el número de carpelos y de lóculos, el
+    pericarpio y las semillas.
 
 ### Reconocimiento de frutos agregados
 
--   Tome el fruto de *Fragaria sp.*, *Magnolia sp.*, *Rubus glaucus* y cualquier otro fruto agregado. Realice cortes transversales y longitudinales de los frutos, observe e identifique: cada una de las unidades del fruto y determine el tipo de fruto agregado.
+-   Tome el fruto de *Fragaria sp.*, *Magnolia sp.*, *Rubus glaucus* y cualquier
+    otro fruto agregado. Realice cortes transversales y longitudinales de los
+    frutos, observe e identifique: cada una de las unidades del fruto y
+    determine el tipo de fruto agregado.
 
 ### Reconocimiento de frutos múltiples
 
--  Tome el fruto de *Ananas comosus* y *Ficus carica* y cualquier otro fruto múltiple. Realice cortes transversales y longitudinales de los fruto, observe e identifique cada una de las unidades del fruto y determine el tipo de fruto múltiple. Intente identificar cualquier estructura floral o extra floral asociada. 
+-   Tome el fruto de *Ananas comosus* y *Ficus carica* y cualquier otro fruto
+    múltiple. Realice cortes transversales y longitudinales de los fruto,
+    observe e identifique cada una de las unidades del fruto y determine el tipo
+    de fruto múltiple. Intente identificar cualquier estructura floral o extra
+    floral asociada.
 
 ### Sustancias de reserva asociadas a los frutos
 
--   Realice cortes transversales del mesocarpio del fruto de *Malus domestica*, *Musa × paradisiaca*, *Prunus persica*, *Pyrus communis*, *Solanum lycopersicum* y cualquier otro planta disponible. Tiña separadamente con Lugol y Sudan III o Sudan negro. ¿Qué sustancia se detecta en cada caso?
+-   Realice cortes transversales del mesocarpio del fruto de *Malus domestica*,
+    *Musa × paradisiaca*, *Prunus persica*, *Pyrus communis*, *Solanum
+    lycopersicum* y cualquier otro planta disponible. Tiña separadamente con
+    Lugol y Sudan III o Sudan negro. ¿Qué sustancia se detecta en cada caso?
 
 ### Anatomía de la semilla
 
--   Realice cortes transversales y longitudinales de semillas hidratadas de *Phaseolus vulgaris*, *Zea mays* y cualquier otra planta disponible. Observe e identifique: el embrión, el endospermo, la cubierta seminal (testa y tegmen).
+-   Realice cortes transversales y longitudinales de semillas hidratadas de
+    *Phaseolus vulgaris*, *Zea mays* y cualquier otra planta disponible. Observe
+    e identifique: el embrión, el endospermo, la cubierta seminal (testa y
+    tegmen).
